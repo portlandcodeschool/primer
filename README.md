@@ -19,5 +19,16 @@ To publish the site after changes have been made, commit your changes to the mas
 gb -D gh-pages
 gb gh-pages
 git push -all origin
-```  
+```
 
+NB: Commenting on the following lines in `config.yml` must be swapped when switching from development to production environments:
+
+```
+url:    http://portlandcodeschool.github.io/primer  # production
+# url:  http://0.0.0.0:4000            # for local testing
+```
+
+
+TODO:
+
+* Fix logo sizing when passing intermediate breakpoint (~600px)
