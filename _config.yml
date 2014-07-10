@@ -1,6 +1,6 @@
 title:            The Primer
 description:      Portland Code School's Web Development Primer
-url:              http://portlandcodeschool.github.io/primer  # production
+url:              https://portlandcodeschool.github.io/primer  # production
 # url:              http://0.0.0.0:4000            # for local testing
 disqus_shortname: pcsprimer
 
