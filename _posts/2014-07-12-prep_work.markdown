@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Pre-Course Curriculum"
+description: "Configure your local development environment. Get familiar with the basics of HTML, CSS, and the command line."
+date:   2014-07-12 09:00:00
+categories: html css
+comments: true
+---
+
+Tools Installation
+===================
+
+If you haven't already, make sure you've installed the following on your machine:
+
+1. [Sublime Text 3][st3], a powerful, lightweight text editor
+2. [Google Chrome][chrome], the browser you'll use for development
+3. If you're on a Mac, Xcode Command Line Tools: 
+    * [for Mavericks][mavericks] 
+    * [for Mountain Lion][mtnlion]
+    * other versions of OS X: download from [Apple][others] (free sign-up required)
+4. [Git][git], a version-control system 
+5. [SourceTree][sourcetree], a GUI for Git
+6. Sign up for a [GitHub account][github]
+ 
+[st3]: http://www.sublimetext.com/3
+[chrome]: http://www.google.com/chrome/browser
+[mavericks]: https://dl.dropboxusercontent.com/u/15940843/command_line_tools_for_osx_mavericks_april_2014.dmg
+[mtnlion]: https://dl.dropboxusercontent.com/u/15940843/command_line_tools_for_osx_mountain_lion_april_2014.dmg
+[others]: http://developer.apple.com
+[git]: http://git-scm.com/downloads
+[sourcetree]: http://www.sourcetreeapp.com/download
+[github]: http://github.com
+
+* Mac users: Place your Terminal in your Dock
+* Windows users: Place Git Bash (installed with Git) in your Start menu 
+
+
+
+Background for the Course
+=========================
+estimated time: 9 hours
+
+1. Complete [Code Academy Web Fundamentals](http://www.codecademy.com/tracks/web) (est: 7 hours)
+2. Work through the following (brief) sections of the Command Line Crash Course (est: 2 hours):
+    * [Introduction: Shut Up And Shell](http://cli.learncodethehardway.org/book/introduction.html)
+    * [Paths, Folders, Directories (pwd)](http://cli.learncodethehardway.org/book/ex2.html)
+    * [What's Your Computer's Name? (hostname)](http://cli.learncodethehardway.org/book/ex3.html)
+    * [Make A Directory (mkdir)](http://cli.learncodethehardway.org/book/ex4.html)
+    * [Change Directory (cd)](http://cli.learncodethehardway.org/book/ex5.html)
+    * [List Directory (ls)](http://cli.learncodethehardway.org/book/ex6.html)
+    * [Remove Directory (rmdir)](http://cli.learncodethehardway.org/book/ex7.html)
+    * [Making Empty Files (Touch, New-Item)](http://cli.learncodethehardway.org/book/ex9.html)
+    * [Copy A File (cp)](http://cli.learncodethehardway.org/book/ex10.html)
+    * [Moving A File (mv)](http://cli.learncodethehardway.org/book/ex11.html)
+    * [Removing A File (rm)](http://cli.learncodethehardway.org/book/ex14.html)
+
+<!-- 
+2. Read [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) (est: 5 hours)
+ -->
+
+
+<!-- 
+Prep work
+==========
+1. Possible: sections of [Dive Into HTML5](http://diveintohtml5.info) (est: 5 hrs) 
+
+
+Pre-Course Assessment
+======================
+
+Before the first class meeting, complete the pre-course assessment. <br><br>
+
+The assessment is meant primarily as a diagnostic to help the instructional staff see what areas we need to focus on during our in-person meetings.
+-->

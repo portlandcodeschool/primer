@@ -1,0 +1,58 @@
+title:            The Primer
+description:      Portland Code School's Web Development Primer
+# url:              http://portlandcodeschool.github.io/primer  # production
+url:              http://0.0.0.0:4000            # for local testing
+disqus_shortname: pcsprimer
+
+owner:
+  name:           Web Development Primer
+  avatar:         http://portlandcodeschool.github.io/primer/images/pcs-logo.png
+  bio:
+  email:          info@portlandcodeschool.com
+  twitter:        PDXCodeSchool
+  facebook:       PortlandCodeSchool
+  github:         portlandcodeschool
+  linkedin:       http://www.linkedin.com/company/portland-code-school
+  google_plus:    http://plus.google.com/communities/109115545781652920966
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About the course
+    url: /
+  - title: Curriculum
+    url: /course/
+  - title: Resources
+    url: /resources/
+  - title: PCS Home
+    url: http://portlandcodeschool.com
+    external: true
+
+timezone:    America/Los_Angeles
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
