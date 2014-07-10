@@ -1,5 +1,7 @@
-PCS Web Development Primer Course Site
-=======================================
+Web Development Primer
+=======================
+Portland Code School Course Site
+---------------------------------
 
 To recompile assets (`brew install less` if necessary):
 
