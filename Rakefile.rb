@@ -80,7 +80,7 @@ desc "Publish site to GitHub Pages"
 task :publish do
   if all_changes_committed? and successful_asset_compilation?
     puts "Pushing master branch to GitHub and Publishing site to GitHub Pages..."
-    system 'git branch -D gh-pages && git branch gh-pages && git push -all origin'
+    system 'git branch -D gh-pages && git branch gh-pages && git push --all origin'
   end
 end
 

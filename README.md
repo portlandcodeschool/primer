@@ -61,7 +61,7 @@ bundle exec rake preview
 To publish the site after changes have been made, commit your changes to the master branch, then delete and re-create the current GitHub Pages branch, then push all branches to GitHub:
 
 ```
-git branch -D gh-pages  &&  git branch gh-pages  &&  git push -all origin
+git branch -D gh-pages  &&  git branch gh-pages  &&  git push --all origin
 ```
 
 alternatively,
