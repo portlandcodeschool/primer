@@ -116,11 +116,15 @@ def successful_asset_compilation?
   success = "Succesfully compiled LESS to ./assets/css/main.min.css"
   failure = "Compilation of LESS files failed. See lessc output for more info."
 
+  raise LoadError if less_not_installed?
   puts "Compiling LESS..."
   errors = `#{compile}`
 
   puts errors.empty? ? success : failure
   errors.empty?
+rescue LoadError => e
+  puts "#{e}: LESS is not installed. Run `brew install less` and try again."
+  false
 end
 
 def all_changes_committed?
@@ -133,7 +137,7 @@ end
 
 def less_not_installed?
   `brew list | grep less`.empty?
-rescue ArgumentError => e
-  puts 'Error occurred checking for less compiler. Ensure Homebrew is installed.'
+rescue LoadError => e
+  puts "#{e}: Error occurred checking for LESS compiler. Ensure Homebrew is installed."
   true
 end
