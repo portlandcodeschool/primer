@@ -35,12 +35,12 @@ Web Development Primer
 
 ## Updating Site Content
 
-To create a new post, issue `rake new_post` and look for the generated markdown file in `_posts`. 
+To create a new post, issue `bundle exec rake new_post` and look for the generated markdown file in `_posts`. 
 
-To create a new page, use `rake new_page`. The generated markdown file will be saved to the project root.
+To create a new page, use `bundle exec rake new_page`. The generated markdown file will be saved to the project root.
 
 ## Updating Styling 
-To recompile assets (`brew install less` if necessary):
+To recompile assets (install `lessc` with `brew install less` if necessary):
 
 ```
 lessc -x assets/less/main.less > assets/css/main.min.css
@@ -51,11 +51,23 @@ To generate and preview the site locally:
 jekyll serve
 ```
 
+alternatively, just use the rake task:
+
+```
+bundle exec rake preview
+```
+
 ## Publishing 
 To publish the site after changes have been made, commit your changes to the master branch, then delete and re-create the current GitHub Pages branch, then push all branches to GitHub:
 
 ```
 git branch -D gh-pages  &&  git branch gh-pages  &&  git push -all origin
+```
+
+alternatively,
+
+```
+bundle exec rake publish
 ```
 
 NB: Commenting on the following lines in `config.yml` must be swapped when switching from development to production environments:
