@@ -28,7 +28,3 @@ url:    http://portlandcodeschool.github.io/primer  # production
 # url:  http://0.0.0.0:4000            # for local testing
 ```
 
-
-TODO:
-
-* Fix logo sizing when passing intermediate breakpoint (~600px)
