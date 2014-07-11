@@ -12,9 +12,10 @@
 
 #social_icons {
   margin: auto;
-  max-width: 280px;
   text-align: center;
   padding-top: 150px;
+  max-width: 280px;
+  min-width: 150px;
   .inline_social_icon {
     display: inline-block !important;
   }
@@ -81,7 +82,7 @@ section.resources {
 
 #site-nav {
   text-align: center;
-  @media @700px  { text-align: left; }
+  @media @700px { text-align: left; }
 }
 
 .home-page {
@@ -112,6 +113,13 @@ section.resources {
 #main {
   article {
     width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    @media @700px {
+      float: left;
+    }
   }
 }
 
