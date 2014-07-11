@@ -78,7 +78,7 @@ end
 # usage: bundle exec rake publish
 desc "Publish site to GitHub Pages"
 task :publish do
-  if all_changes_committed? and successful_asset_compilation?
+  if all_changes_committed? and successful_asset_compilation? and production_url_set?
     puts "Pushing master branch to GitHub and Publishing site to GitHub Pages..."
     system 'git branch -D gh-pages && git branch gh-pages && git push --all origin'
   end
@@ -87,7 +87,7 @@ end
 # usage: bundle exec rake preview
 desc "Generate and preview site locally"
 task :preview do
-  if successful_asset_compilation?
+  if successful_asset_compilation? and development_url_set?
     jekyllPid = Process.spawn("jekyll serve")
     trap("INT") {
       [jekyllPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
@@ -128,11 +128,11 @@ rescue LoadError => e
 end
 
 def all_changes_committed?
-  unstaged_changes = `git status` =~ /Changes not staged for commit/
-  commit_reminder  = "Commit your changes before creating the GitHub Pages branch."
+  clean_git_status = `git status` =~ /nothing to commit, working directory clean/
+  commit_reminder  = "Commit your changes and try again."
 
-  puts commit_reminder if unstaged_changes
-  unstaged_changes.nil?
+  puts commit_reminder unless clean_git_status
+  !!clean_git_status
 end
 
 def less_not_installed?
@@ -140,4 +140,19 @@ def less_not_installed?
 rescue LoadError => e
   puts "#{e}: Error occurred checking for LESS compiler. Ensure Homebrew is installed."
   true
+end
+
+def production_url_set?
+  config_file = File.read('_config.yml')
+  commented_public_url  = config_file =~ /^#\s+url:\s+https:\/\/.*portlandcodeschool/
+  uncommented_localhost = config_file =~ /^url:\s+http:\/\/0\.0\.0\.0\:4000/
+  prod_url_set = commented_public_url.nil? && uncommented_localhost.nil?
+  puts "Production URL is not set." unless prod_url_set
+  prod_url_set
+end
+
+def development_url_set?
+  localhost_url_set = !production_url_set?
+  puts "Development URL is not set. Check _config.yml." unless localhost_url_set
+  localhost_url_set
 end

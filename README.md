@@ -39,38 +39,43 @@ To create a new post, issue `bundle exec rake new_post` and look for the generat
 
 To create a new page, use `bundle exec rake new_page`. The generated markdown file will be saved to the project root.
 
-## Updating Styling 
-To recompile assets (install `lessc` with `brew install less` if necessary):
+## Previewing Locally and Publishing to GitHub Pages
+To preview the site locally, issue 
+```
+bundle exec rake preview
+```
+
+To publish it to GitHub Pages:
+```
+bundle exec rake publish
+```
+
+Both rake tasks will re-compile LESS assets and check for the correct url in `_config.yml` (more on that below).
+
+
+
+#### Previewing
+When previewing locally, Rake compiles assets with
 
 ```
 lessc -x assets/less/main.less > assets/css/main.min.css
 ```
 
-To generate and preview the site locally:
+and generates and serves the site with
 ```
 jekyll serve
 ```
 
-alternatively, just use the rake task:
 
-```
-bundle exec rake preview
-```
-
-## Publishing 
-To publish the site after changes have been made, commit your changes to the master branch, then delete and re-create the current GitHub Pages branch, then push all branches to GitHub:
+#### Publishing 
+When publishing to GitHub pages, Rake compiles LESS as above, checks for a clean git status, and regenerates the site on a `gh-pages` branch before pushing all branches to remote `origin`:
 
 ```
 git branch -D gh-pages  &&  git branch gh-pages  &&  git push --all origin
 ```
 
-alternatively,
-
-```
-bundle exec rake publish
-```
-
-NB: Commenting on the following lines in `config.yml` must be swapped when switching from development to production environments:
+#### Site URL
+The following lines in `config.yml` must be swapped when switching from development to production environments. Rake will check to make sure the correct one is set and prompt you as appropiate.
 
 ```
 url:    http://portlandcodeschool.github.io/primer  # production
