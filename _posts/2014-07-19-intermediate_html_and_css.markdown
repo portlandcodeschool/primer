@@ -23,6 +23,6 @@ Exercise (Optional)
 ====================
 Make a (non-functional, of course) clone of the [Google homepage](http://www.google.com). Use Element Inspector for inspiration. 
 
-Suggestions: Work with a partner as [driver/navigator pair][pairing-primer]. Get feedback on your code from an instructor or TA.
+Suggestions: Work with a partner as a [driver/navigator pair][pairing-primer]. Get feedback on your code from an instructor or TA.
 
 [pairing-primer]:http://www.wikihow.com/Pair-Program

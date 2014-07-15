@@ -8,7 +8,7 @@ comments: true
 ---
 
 Goals
-=====
+======
 * Name classes and ids semantically.
 * Style text.
 * Understand the box model.
@@ -108,8 +108,7 @@ Semantic Tags
 
 For some examples of use cases for each of these, see [HTML5 Semantic Elements (w3schools)][w3semantic].
 
-[w3semantic]:http://www.w3schools.com/html/html5_semantic_elements.asp
-
+[w3semantic]: http://www.w3schools.com/html/html5_semantic_elements.asp
 
 
 What is CSS?
@@ -288,8 +287,8 @@ and here it is after some, shall we say, enhancements
 
 ![mdn_after]({{ site.url }}/images/after.png)
 
-This is very useful for interactively testing out different styling changes or 
-curious about "how they did that" on someone else's site.
+This is very useful for interactively testing out potential styling changes or checking out 
+"how they did that" when you see some cool bit of styling on someone else's site.
 
 ### Mobile Testing
 
@@ -297,6 +296,11 @@ Want to see how your web site will look on a mobile device? Hit <kbd>esc</kbd>
 (the 'escape' key) to bring up the console, then click on "Emulation".
 
 ![mobile_emulator]({{ site.url }}/images/mobileemulator.png)
+
+Positioning Content
+====================
+TODO!
+
 
 Resources
 =========
@@ -312,10 +316,23 @@ anything in it is with a google search: `mdn css font-weight`, for example, or b
 Chrome's find (<kbd>⌘</kbd>+f) feature on the [HTML Element][elements], 
 [HTML Attribute][attrs], or [CSS][cssref] reference page.
 
-[elements]:http://developer.mozilla.org/en-US/docs/Web/HTML/Element
-[attrs]:http://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+[elements]: http://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[attrs]: http://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 [cssref]: http://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
+
+Exercise (Optional)
+====================
+1. Create a three-column fixed-width layout with a navbar and header
+2. Create a two-column liquid layout with a navbar and header.
+
+Suggestions: Work with a partner as a [driver/navigator pair][pairing-primer]. 
+Get feedback on your code from an instructor or TA.
+
+[pairing-primer]:http://www.wikihow.com/Pair-Program
+
+<!-- starter code? -->
+<!-- see: http://www.maxdesign.com.au/articles/css-layouts -->
 
 
 
