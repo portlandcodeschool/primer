@@ -10,8 +10,8 @@ comments: true
 Goals
 =====
 
-* Use the new HTML5 elements semantically:
-    - `<header>`, `<hgroup>`, `<section>`, `<aside>`, `<article>`, `<footer>` 
+* Use HTML5 elements semantically:
+    - `<header>`, `<section>`, `<aside>`, `<article>`, `<footer>` 
 * Understand the difference between `<section>` and `<div>`.
 * Apply a box shadow, rounded corners, and text shadow.
 * Know transitions and animations and where to apply them.
@@ -19,12 +19,10 @@ Goals
 * Understand how box-sizing changes the box model.
 
 
-<!--
-Exercises (do these in class)
-=============================
-1. Umm...
-2. And then...
-3. And it'll be awesome.
+Exercise (Optional)
+====================
+Make a (non-functional, of course) clone of the [Google homepage](http://www.google.com). Use Element Inspector for inspiration. 
 
-After each exercise, have a TA or instructor check your work before moving on.
--->
+Suggestions: Work with a partner as [driver/navigator pair][pairing-primer]. Get feedback on your code from an instructor or TA.
+
+[pairing-primer]:http://www.wikihow.com/Pair-Program
