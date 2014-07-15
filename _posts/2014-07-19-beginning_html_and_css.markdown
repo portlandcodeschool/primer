@@ -230,7 +230,7 @@ Every element of a web page exists within an invisible box. This box is demarcat
 by a border. That border can be invisible (if it has `border-width` 0, for example), but it's 
 always there.
 
-![box_model_from_chrome_devtools](/images/box_model.png)
+![box_model_from_chrome_devtools]({{ site.url }}/images/box_model.png)
 
 ### Margin and Padding
 
@@ -269,24 +269,24 @@ the long run.)
   Select a page element. In the "Styles pane", fiddle with its CSS. Add `display: none` 
   to some elements. Pretty neat, huh?
   
-  ![modifycss](/images/editcss.png)
+  ![modifycss]({{ site.url }}/images/editcss.png)
   
 * Modify HTML In-Place<br>
   Similarly, in Inspect Element mode, click on part of a web page. You should see the 
   corresponding HTML highlighted in the DevTools Elements panel. Double-click on it 
   and fiddle with it. 
   
-  ![modifyhtml](/images/edithtml.png)
+  ![modifyhtml]({{ site.url }}/images/edithtml.png)
   
 You can have all sort of fun with this. 
 
 To wit, here's the MDN landing page as it exists by default:
 
-![mdn_before](/images/before.png)
+![mdn_before]({{ site.url }}/images/before.png)
 
 and here it is after some, shall we say, enhancements
 
-![mdn_after](/images/after.png)
+![mdn_after]({{ site.url }}/images/after.png)
 
 This is very useful for interactively testing out different styling changes or 
 curious about "how they did that" on someone else's site.
@@ -296,7 +296,7 @@ curious about "how they did that" on someone else's site.
 Want to see how your web site will look on a mobile device? Hit <kbd>esc</kbd> 
 (the 'escape' key) to bring up the console, then click on "Emulation".
 
-![mobile_emulator](/images/mobileemulator.png)
+![mobile_emulator]({{ site.url }}/images/mobileemulator.png)
 
 Resources
 =========
