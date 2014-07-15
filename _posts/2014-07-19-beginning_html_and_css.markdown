@@ -28,17 +28,18 @@ Goals
 What is HTML? HTML5?
 ====================
 
-**HTML** is the markup language that defines the structure of your web page. If a web 
-page were a house, HTML tags would be the 2x4s you assemble into the house's frame. All 
-the content on your page lives inside little "boxes" defined by *HTML elements* (more on 
-boxes and elements below).
+**HTML** is the markup language that defines the structure of your web page. If 
+a web page were a house, HTML tags would be the 2x4s you assemble into the 
+house's frame. All the content on your page lives inside little "boxes" defined 
+by *HTML elements* (more on boxes and elements below).
 
-***Semantic* HTML** refers, broadly, to HTML written in a way that is expressive—that in 
-some way **describes its content**—and, narrowly, to a standardized set of semantic tags 
-introduced with HTML5.
+***Semantic* HTML** refers, broadly, to HTML written in a way that is 
+expressive—that in some way **describes its content**—and, narrowly, to a 
+standardized set of semantic tags introduced with HTML5.
 
-It's standard practice to, as much as possible, name CSS `class`es and `id`s so that they 
-describe the **role** of the content within the HTML element they're attached to. For example:
+It's standard practice to, as much as possible, name CSS `class`es and `id`s so 
+that they describe the **role** of the content within the HTML element they're 
+attached to. For example:
 
 Semantic HTML, illustrated
 ---------------------------
@@ -55,9 +56,9 @@ Semantic HTML, illustrated
 </div>
 {% endhighlight %}
 
-The above describes the formatting of each element's content, not its role. Among other 
-problems, this isn't future-proof. What if, in the future, you want inline movie titles 
-to be italicized rather than bolded? 
+The above describes the formatting of each element's content, not its role. 
+Among other problems, this isn't future-proof. What if, in the future, you want 
+inline movie titles to be italicized rather than bolded? 
 
 ### Bad Semantics:
 
@@ -71,7 +72,8 @@ to be italicized rather than bolded?
 </div>
 {% endhighlight %}
 
-This is semantic, but not preferred. HTML5 introduced tags that communicate the above more succinctly.
+This is semantic, but not preferred. HTML5 introduced tags that communicate the 
+above more succinctly.
 
 ### Good Semantics:
 
@@ -92,21 +94,23 @@ This is semantic, but not preferred. HTML5 introduced tags that communicate the 
     —apologies to any *Smurfs* fans out there. 
 </small>
 
-Ahh. So much easier on the eyes, right? Notice that this uses the semantic `article` tag, 
-which was introduced with HTML5. Prefer HTML5 tags wherever possible—they'll keep your code 
-expressive while minimizing visual noise.
+Ahh. So much easier on the eyes, right? Notice that this uses the semantic 
+`article` tag, which was introduced with HTML5. Prefer HTML5 tags wherever 
+possible—they'll keep your code expressive while minimizing visual noise.
 
-Notice too that there are still cases where you'll have to use the unsemantic tags `<div>` 
-and `<span>` semantically, with the aid of a well-named `class` or `id`.
+Notice too that there are still cases where you'll have to use the unsemantic 
+tags `<div>` and `<span>` semantically, with the aid of a well-named `class` or 
+`id`.
 
 
 Semantic Tags
 -------------
 
-`<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<figure>`, `<figcaption>`, 
-`<footer>`, `<details>`, `<summary>`, `<mark>`, `<time>` 
+`<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<figure>`, 
+`<figcaption>`, `<footer>`, `<details>`, `<summary>`, `<mark>`, `<time>` 
 
-For some examples of use cases for each of these, see [HTML5 Semantic Elements (w3schools)][w3semantic].
+For some examples of use cases for each of these, see [HTML5 Semantic Elements 
+(w3schools)][w3semantic].
 
 [w3semantic]: http://www.w3schools.com/html/html5_semantic_elements.asp
 
@@ -114,19 +118,21 @@ For some examples of use cases for each of these, see [HTML5 Semantic Elements (
 What is CSS?
 ============
 
-CSS (Cascading Style Sheets) is the language used to add styling to your page. Separating structure from 
-style helps keep your markup clean and maintainable. 
+CSS (Cascading Style Sheets) is the language used to add styling to your page. 
+Separating structure from style helps keep your markup clean and maintainable. 
 
-It also means the same underlying HTML can be presented in radically different ways just by swapping its 
-stylesheet (check out [CSS Zen Garden][css-zen] to see this beautifully illustrated).
+It also means the same underlying HTML can be presented in radically different 
+ways just by swapping its stylesheet (check out [CSS Zen Garden][css-zen] to 
+see this beautifully illustrated).
 
 [css-zen]:http://www.csszengarden.com
 
 `class` vs. `id`
 ----------------
 
-CSS classes and ids are just groupings of CSS rules. CSS classes are meant to be used any number of times, 
-but ids are unique—there can be only one id of a given name on a page.
+CSS classes and ids are just groupings of CSS rules. CSS classes are meant to 
+be used any number of times, but ids are unique—there can be only one id of a 
+given name on a page.
 
 #### Example:
 
@@ -215,8 +221,8 @@ in a browser. Inline elements are normally displayed without starting a new line
 Example block elements: `<div>`,`<h1>`, `<p>`, `<ul>`, `<table>`<br>
 Example inline elements: `<span>`,`<b>`, `<td>`, `<a>`, `<img>`
 
-Note that this is the *default* behavior. You can manipulate how an element is displayed 
-on the page by setting `display: block`, `display: inline`, or 
+Note that this is the *default* behavior. You can manipulate how an element is 
+displayed on the page by setting `display: block`, `display: inline`, or 
 [`display: inline-block`][inlineblock], among other possibilities. 
 
 [inlineblock]: http://robertnyman.com/2010/02/24/css-display-inline-block-why-it-rocks-and-why-it-sucks/     
@@ -225,25 +231,26 @@ on the page by setting `display: block`, `display: inline`, or
 The Box Model
 --------------
 
-Every element of a web page exists within an invisible box. This box is demarcated 
-by a border. That border can be invisible (if it has `border-width` 0, for example), but it's 
-always there.
+Every element of a web page exists within an invisible box. This box is 
+demarcated by a border. That border can be invisible (if it has `border-width` 
+0, for example), but it's always there.
 
 ![box_model_from_chrome_devtools]({{ site.url }}/images/box_model.png)
 
 ### Margin and Padding
 
-Every box has **padding** on the inside, surrounding its content but within its border, 
-and a **margin** surrounding its border on the outside. 
+Every box has **padding** on the inside, surrounding its content but within its 
+border, and a **margin** surrounding its border on the outside. 
 
-Since `padding` tells the browser the amount of space to preserve *inside* a box (between
-content and border), the padding between two elements is, loosely speaking, "additive": 
-10px of padding on two adjacent boxes will result in 20px of space between their content 
-(assuming no visible border or margin). 
+Since `padding` tells the browser the amount of space to preserve *inside* a 
+box (between content and border), the padding between any two elements is, 
+loosely speaking, "additive": 10px of padding on two adjacent boxes will result 
+in 20px of space between their content (assuming no visible border or margin). 
 
-By contrast, `margin` specifies the amount of space to preserve *around* a box, and 
-(although also additive), will be collapsed between two adjacent elements of the same 
-type. A 10px margin on adjacent boxes produces a 10px space between their borders, not 20px.
+By contrast, `margin` specifies the amount of space to preserve *around* a box, 
+which will usually be collapsed between two adjacent elements of the same 
+type. A 10px margin on adjacent boxes produces a 10px space between their 
+borders, not 20px.
 
 
 Chrome Developer Tools
@@ -253,42 +260,43 @@ To access Chrome's Developer Tools, navigate to `View > Developer > Developer To
 or use the keyboard shortcut: <kbd>⌥</kbd>+<kbd>⌘</kbd>+<kbd>I</kbd> on a Mac, 
 <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>I</kbd> otherwise. 
 
-(NB: Try out and use keyboard shortcuts greedily. They will make your life easier in 
-the long run.)
+(NB: Try out and use keyboard shortcuts greedily. They will make your life easier 
+in the long run.)
 
 ### Some of the facilities provided by DevTools:
 
 * Inspect Element<br>
-  Inspect the HTML, CSS, and box model for a given element (click the magnifying glass 
-  and hover over a page element). DevTools brings up the relevant HTML, the associated 
-  styling, a box model visualization with element dimensions, all sort of valuable 
-  information.
+  Inspect the HTML, CSS, and box model for a given element (click the magnifying 
+  glass and hover over a page element). DevTools brings up the relevant HTML, 
+  the associated styling, a box model visualization with element dimensions, all 
+  sorts of valuable information.
   
 * Modify CSS In-Place<br>
-  Select a page element. In the "Styles pane", fiddle with its CSS. Add `display: none` 
-  to some elements. Pretty neat, huh?
+  Select a page element. In the "Styles pane", fiddle with its CSS. Add 
+  `display: none` to some elements. Pretty neat, huh?
   
   ![modifycss]({{ site.url }}/images/editcss.png)
   
 * Modify HTML In-Place<br>
-  Similarly, in Inspect Element mode, click on part of a web page. You should see the 
-  corresponding HTML highlighted in the DevTools Elements panel. Double-click on it 
-  and fiddle with it. 
+  Similarly, in Inspect Element mode, click on part of a web page. You should 
+  see the corresponding HTML highlighted in the DevTools Elements panel. 
+  Double-click on it and fiddle with it. 
   
   ![modifyhtml]({{ site.url }}/images/edithtml.png)
   
-You can have all sort of fun with this. 
+You can have all sorts of fun with this. 
 
 To wit, here's the MDN landing page as it exists by default:
 
 ![mdn_before]({{ site.url }}/images/before.png)
 
-and here it is after some, shall we say, enhancements
+and here it is after some enhancements
 
 ![mdn_after]({{ site.url }}/images/after.png)
 
-This is very useful for interactively testing out potential styling changes or checking out 
-"how they did that" when you see some cool bit of styling on someone else's site.
+In other words, Chrome Developer Tools are extremely useful for interactively 
+testing out potential styling changes or checking out "how they did that" when 
+you see some cool bit of styling on someone else's site.
 
 ### Mobile Testing
 
@@ -305,23 +313,24 @@ TODO!
 Resources
 =========
 
-[w3schools](http://www.w3schools.com) has a lingering bad reputation earned during its 
-error-ridden early days, but it's not bad for getting a quick-and-dirty overview of 
-whatever you're researching. 
+[w3schools](http://www.w3schools.com) has a lingering bad reputation earned 
+during its error-ridden early days, but it's not bad for getting a 
+quick-and-dirty overview of whatever you're researching. 
 
-[MDN](http://developer.mozilla.org) is the de facto canonical reference. When someone 
-tells you to RTFM ("Read the Fantastic Manual") with respect to HTML/CSS, they're most 
-likely referring to the MDN docs. It is detailed and exhaustive, so the best way to find
-anything in it is with a google search: `mdn css font-weight`, for example, or by using 
-Chrome's find (<kbd>⌘</kbd>+f) feature on the [HTML Element][elements], 
-[HTML Attribute][attrs], or [CSS][cssref] reference page.
+[MDN](http://developer.mozilla.org) is the de facto canonical reference. When 
+someone tells you to RTFM ("Read the Fantastic Manual") with respect to HTML/CSS,
+they're most likely referring to the MDN docs. It is detailed and exhaustive, 
+so the best way to find anything in it is with a google search: 
+`mdn css font-weight`, for example, or by using Chrome's find (<kbd>⌘</kbd>+`f`) 
+feature on the [HTML Element][elements], [HTML Attribute][attrs], or 
+[CSS][cssref] reference page.
 
 [elements]: http://developer.mozilla.org/en-US/docs/Web/HTML/Element
 [attrs]: http://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 [cssref]: http://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 
-Exercise (Optional)
+Exercises (Optional)
 ====================
 1. Create a three-column fixed-width layout with a navbar and header
 2. Create a two-column liquid layout with a navbar and header.
