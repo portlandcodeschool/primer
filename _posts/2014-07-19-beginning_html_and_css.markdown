@@ -20,6 +20,8 @@ Goals
     - `<div>`, `<span>`
     - `<dl>`, `<dt>`, and `<dd>`
     - `<form>`, `<fieldset>`, and `<input>` 
+* Use HTML5 elements semantically:
+    - `<header>`, `<section>`, `<aside>`, `<article>`, `<footer>` 
 * View source on a web page and understand it.
     - Summon Web Inspector quickly (hint: use keyboard shortcuts).
 * Quickly build a simple layout.
@@ -28,8 +30,8 @@ Goals
 What is HTML? HTML5?
 ====================
 
-**HTML** is the markup language that defines the structure of your web page. If 
-a web page were a house, HTML tags would be the 2x4s you assemble into the 
+**HTML** is the markup language that defines the structure of your web page. 
+If a web page were a house, HTML tags would be the 2x4s you assemble into the 
 house's frame. All the content on your page lives inside little "boxes" defined 
 by *HTML elements* (more on boxes and elements below).
 
@@ -126,6 +128,37 @@ ways just by swapping its stylesheet (check out [CSS Zen Garden][css-zen] to
 see this beautifully illustrated).
 
 [css-zen]:http://www.csszengarden.com
+
+Basic Selectors
+----------------
+
+### 1. The tag itself
+{% highlight css %}
+ nav { ... }
+{% endhighlight %}
+
+{% highlight html %}
+ <nav> ... </nav>
+{% endhighlight %}
+
+### 2. `id` selector (any id selector can only be used once)
+{% highlight css %}
+ #navigation { ... }
+{% endhighlight %}
+
+{% highlight html %}
+ <div id="navigation"> ... </div>
+{% endhighlight %}
+
+### 3. `class` selectors (can be used multiple times)
+{% highlight css %}
+ .box { ... }
+{% endhighlight %}
+
+{% highlight html %}
+ <div class="box"> ... </div>
+{% endhighlight %}
+
 
 `class` vs. `id`
 ----------------
@@ -305,9 +338,9 @@ Want to see how your web site will look on a mobile device? Hit <kbd>esc</kbd>
 
 ![mobile_emulator]({{ site.url }}/images/mobileemulator.png)
 
+<!-- 
 Positioning Content
-====================
-TODO!
+==================== -->
 
 
 Resources

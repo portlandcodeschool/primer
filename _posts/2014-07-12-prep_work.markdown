@@ -40,8 +40,8 @@ Background for the Course
 =========================
 estimated time: 8 hours
 
-1. Complete [Codecademy Web Fundamentals](http://www.codecademy.com/tracks/web) (est: 7 hours)
-2. Work through the following (brief) sections of the Command Line Crash Course (est: 1 hours):
+1. Complete [Codecademy Web Fundamentals](http://www.codecademy.com/tracks/web) (est: 7 hrs)
+2. Work through these brief sections of the [Command Line Crash Course](http://cli.learncodethehardway.org/book) (est: 1 hr):
     * [Introduction: Shut Up And Shell](http://cli.learncodethehardway.org/book/introduction.html)
     * [Paths, Folders, Directories (pwd)](http://cli.learncodethehardway.org/book/ex2.html)
     * [What's Your Computer's Name? (hostname)](http://cli.learncodethehardway.org/book/ex3.html)

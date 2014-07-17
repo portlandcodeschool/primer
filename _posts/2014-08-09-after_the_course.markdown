@@ -26,6 +26,16 @@ HTML & CSS](http://learn.shayhowe.com/advanced-html-css), which includes coverag
 
 Learn front-end frameworks, responsive design, and much more in our [front-end development][fed] course, or test-driven development, client-side and server-side JavaScript frameworks, and more, in our full-stack JavaScript courses ([immersion][jsi] or [evening][jse]).
 
+Topics covered ìn our JavaScript courses include
+
+* Beginning-to-advanced JavaScript
+* Using Git and GitHub for version control and collaboration
+* Test-driven development
+* jQuery, JSON, AJAX
+* Backbone.js, Node.js
+* RESTful APIs
+* MVC architecture
+
 [fed]: http://www.portlandcodeschool.com/frontend/
 [jsi]: http://www.portlandcodeschool.com/javascriptimmersion/
 [jse]: http://www.portlandcodeschool.com/javascript/
