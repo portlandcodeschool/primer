@@ -116,30 +116,28 @@ def successful_asset_compilation?
   success = "Succesfully compiled LESS to ./assets/css/main.min.css"
   failure = "Compilation of LESS files failed. See lessc output for more info."
 
-  raise LoadError if less_not_installed?
+  raise LoadError unless less_compiler_installed?
   puts "Compiling LESS..."
   errors = `#{compile}`
 
   puts errors.empty? ? success : failure
   errors.empty?
 rescue LoadError => e
-  puts "#{e}: LESS is not installed. Run `brew install less` and try again."
+  puts "#{e}: LESS compiler is not installed. Install via Homebrew or npm and try again."
   false
 end
 
-def all_changes_committed?
-  clean_git_status = `git status` =~ /nothing to commit, working directory clean/
-  commit_reminder  = "Commit your changes and try again."
-
-  puts commit_reminder unless clean_git_status
-  !!clean_git_status
+def clean_git_status?
+  not (`git status` =~ /nothing to commit, working directory clean/).nil?
 end
 
-def less_not_installed?
-  `brew list | grep less`.empty?
-rescue LoadError => e
-  puts "#{e}: Error occurred checking for LESS compiler. Ensure Homebrew is installed."
-  true
+def all_changes_committed?
+  puts "Commit your changes and try again." unless clean_git_status?
+  clean_git_status?
+end
+
+def less_compiler_installed?
+  (`which lessc` =~ /no lessc/).nil?
 end
 
 def production_url_set?

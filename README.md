@@ -40,6 +40,7 @@ To create a new post, issue `bundle exec rake new_post` and look for the generat
 To create a new page, use `bundle exec rake new_page`. The generated markdown file will be saved to the project root.
 
 ## Previewing Locally and Publishing to GitHub Pages
+
 To preview the site locally, issue 
 ```
 bundle exec rake preview
@@ -51,7 +52,6 @@ bundle exec rake publish
 ```
 
 Both rake tasks will re-compile LESS assets and check for the correct url in `_config.yml` (more on that below).
-
 
 
 #### Previewing
