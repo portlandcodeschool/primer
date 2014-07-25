@@ -80,9 +80,9 @@ $ ssh -T git@github.com
 
 You should see the following:
 
-```
+{% highlight sh %}
 Hi <username>! You've successfuly authenticated, but GitHub does not provide shell access.
-```
+{% endhighlight %}
 
 If that `<username>` is yours, you've successfully set up your SSH key with GitHub.
 
