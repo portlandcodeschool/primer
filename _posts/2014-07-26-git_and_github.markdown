@@ -42,8 +42,9 @@ $ git config --global user.email janedoe@example.com
 Some more useful settings:
 
 {% highlight sh %}
-$ git config --global push.default current
-$ git config --global merge.defaultToUpstream true
+git config --global push.default current
+git config --global merge.defaultToUpstream true
+git config --global core.editor "subl -w"
 {% endhighlight %}
 
 Verify your details are set with the `-l` flag ("l" for "list")
@@ -72,6 +73,18 @@ And pasting what's on your clipboard into the text field below
 
 ![]({{ site.url }}/images/githubssh2.png)
 
+To test your ssh setup, enter
+{% highlight sh %}
+$ ssh -T git@github.com
+{% endhighlight %}
+
+You should see the following:
+
+```
+Hi <username>! You've successfuly authenticated, but GitHub does not provide shell access.
+```
+
+If that `<username>` is yours, you've successfully set up your SSH key with GitHub.
 
 Overview of Git
 ================
