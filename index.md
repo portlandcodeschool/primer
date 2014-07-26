@@ -27,8 +27,8 @@ Schedule
     HTML & CSS, introduction to the command line, getting connected with the tech community. 
 * Second Saturday, 9am - 4pm<br>
     Git, GitHub, and collaborative workflows. Capstone project teams will be formed. 
-* Third Saturday, off campus<br>
-    Meet with teammates to work on capstone project.
+* Third Saturday, 9am - 4pm<br>
+    Open lab at PCS. Meet with teammates to work on capstone project.
 * Fourth Saturday, 9am - 2pm<br>
     Capstone project presentations, course retrospective, next steps.
 
