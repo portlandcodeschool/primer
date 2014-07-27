@@ -31,8 +31,20 @@ If you haven't already, make sure you've installed the following on your machine
 [sourcetree]: http://www.sourcetreeapp.com/download
 [github]: http://github.com
 
-* Mac users: Place your Terminal in your Dock
+* Mac users: Place Terminal in your Dock
 * Windows users: Place Git Bash (installed with Git) in your Start menu 
+
+Setting up Terminal (Macs)
+--------------------------
+
+Copy and paste the following into Terminal:
+
+{% highlight text %}
+echo alias subl=\"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl\" >> ~/.bash_profile
+echo PS1=\"\n\w \$ \" >> ~/.bash_profile
+{% endhighlight %}
+
+The first line will allow you to open Sublime Text from the command line by issuing `subl`. The second will simplify the prompt so it just contains your current working directory (e.g., `~\pcs $`).
 
 
 
