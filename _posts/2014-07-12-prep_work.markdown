@@ -40,7 +40,7 @@ Setting up Terminal (Macs)
 Copy and paste the following into Terminal:
 
 {% highlight text %}
-echo alias subl=\"/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl\" >> ~/.bash_profile
+echo alias subl=/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl >> ~/.bash_profile
 echo PS1=\"\n\w \$ \" >> ~/.bash_profile
 {% endhighlight %}
 
