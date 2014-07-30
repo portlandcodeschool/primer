@@ -40,8 +40,8 @@ Setting up Terminal (Macs)
 Copy and paste the following into Terminal:
 
 {% highlight text %}
-echo alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" >> ~/.bash_profile
-echo -e export PS1=\"\\w \\$ \" >> ~/.bash_profile
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/usr/local/bin/subl
+echo "export EDITOR='subl -w'" >> ~/.bash_profile
 source ~/.bash_profile
 {% endhighlight %}
 
