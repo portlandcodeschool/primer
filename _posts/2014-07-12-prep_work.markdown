@@ -45,7 +45,7 @@ echo "export EDITOR='subl -w'" >> ~/.bash_profile
 source ~/.bash_profile
 {% endhighlight %}
 
-The first line will allow you to open Sublime Text from the command line by issuing `subl`. The second will simplify the prompt so it just contains your current working directory (e.g., `~\pcs $`).
+The first line will allow you to open Sublime Text from the command line by issuing `subl`. The second will make ST your default command-line text editor.
 
 
 
