@@ -2,8 +2,9 @@ Web Development Primer
 =======================
 ### Portland Code School Course Site
 
-## Directory Structure
 
+Directory Structure
+--------------------
 ```
 .
 ├── Gemfile
@@ -18,7 +19,7 @@ Web Development Primer
 ├── _site         # generated site files
 ├── assets
 │   ├── css/      # generated css 
-│   ├── fonts/    # FontAwesome files (currently unused. FA is loaded from CDN)
+│   ├── fonts/    # FontAwesome files (currently not being used, in favor of the CDN-hosted version.)
 │   ├── js/
 │   └── less/
 │       ...
@@ -33,13 +34,16 @@ Web Development Primer
 └── sitemap.xml
 ```
 
-## Updating Site Content
+Updating Site Content
+---------------------
 
 To create a new post, issue `bundle exec rake new_post` and look for the generated markdown file in `_posts`. 
 
 To create a new page, use `bundle exec rake new_page`. The generated markdown file will be saved to the project root.
 
-## Previewing Locally and Publishing to GitHub Pages
+
+Previewing Locally and Publishing to GitHub Pages
+--------------------------------------------------
 
 To preview the site locally, issue 
 ```
@@ -51,12 +55,15 @@ To publish it to GitHub Pages:
 bundle exec rake publish
 ```
 
-Both rake tasks will re-compile LESS assets and check for the correct url in `_config.yml` (more on that below).
+Both rake tasks will re-compile LESS assets and check for the correct site url in `_config.yml` (more on that below).
 
 
-#### Previewing
+What the Rake tasks do
+-----------------------
+
+### `rake preview`
+
 When previewing locally, Rake compiles assets with
-
 ```
 lessc -x assets/less/main.less > assets/css/main.min.css
 ```
@@ -66,19 +73,18 @@ and generates and serves the site with
 jekyll serve
 ```
 
+### `rake publish` 
 
-#### Publishing 
 When publishing to GitHub pages, Rake compiles LESS as above, checks for a clean git status, and regenerates the site on a `gh-pages` branch before pushing all branches to remote `origin`:
-
 ```
 git branch -D gh-pages  &&  git branch gh-pages  &&  git push --all origin
 ```
 
-#### Site URL
-The following lines in `config.yml` must be swapped when switching from development to production environments. Rake will check to make sure the correct one is set and prompt you as appropiate.
+### Site URL Check
+The following lines in `config.yml` must be swapped when switching between development and production environments. Rake will check to make sure the correct one for previewing / publishing is set and prompt you if you've forgotten to swap them out.
 
 ```
-url:    http://portlandcodeschool.github.io/primer  # production
+url:    http://portlandcodeschool.github.io/primer  # for production
 # url:  http://0.0.0.0:4000                         # for local testing
 ```
 
