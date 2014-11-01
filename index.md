@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Web Development Primer
+title: Web Development Foundations
 tagline: 
 tags: []
 comments: false
@@ -11,17 +11,18 @@ image:
   creditlink: 
 ---
 
-The Primer is Portland Code School's introduction to web development. It provides you with the starting skills to build modern websites. Whether you're interested in kickstarting a career in web development or just augmenting your technical skills, the Primer will equip you with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub. 
+The Web Development Foundations class is Portland Code School's introduction to web development. It provides you with the starting skills to build modern websites. Whether you're interested in kickstarting a career in web development or just augmenting your technical skills, this class will equip you with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub. 
 
-The **Basic Primer** is a four-week class that gets you started in the Portland Code School learning environment at low cost. Students spend 6 hours per week in the classroom. It requires 1 hour of homework for every class hour for a total weekly commitment of 12 hours. Open lab time and teaching assistants are available to all students. 
 
-The **Extended Primer** and an additional 4 weeks, building on the Basic Primer to prepare students for the following work:
+The first four weeks that gets you started in the Portland Code School learning environment at low cost. Students spend 6 hours per week in the classroom. It requires 1 hour of homework for every class hour for a total weekly commitment of 12 hours. Open lab time and teaching assistants are available to all students. 
+
+The second 4 weeks builds first four to prepare students for the following work:
 
 * Internship at a web development or creative design studio
 * Creation of simple websites for small businesses or individuals
 * Participation in further Portland Code School classes
  
-You can take either the Basic Primer or both the Basic and Extended Primer. At this time, we do not offer the Extended Primer as a standalone class.
+You can take either the first four weeks as "The Primer" if you are just curious.
 
 Students with little or no experience coding but interested in our Front-End and full-stack JavaScript courses are advised to start with the Extended Primer.
 

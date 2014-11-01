@@ -16,14 +16,14 @@ share:
 
 ## Course Description
 
-The Primer is Portland Code School's introduction to web development. It provides you with the starting skills to build modern websites. Whether you're interested in kickstarting a career in web development or just augmenting your technical skills, the Primer will equip you with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub. 
+The Web Development Foundations class is Portland Code School's introduction to web development. It provides you with the starting skills to build modern websites. Whether you're interested in kickstarting a career in web development or just augmenting your technical skills, the Primer will equip you with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub. 
 
-The **Basic Primer** is a four-week class that gets you started in the Portland Code School learning environment at low cost. Students spend 6 hours per week in the classroom. It requires 1 hour of homework for every class hour for a total weekly commitment of 12 hours. When you are done, you will be able prepared to:
+The first four weeks gets you started in the Portland Code School learning environment at low cost. Students spend 6 hours per week in the classroom. It requires 1 hour of homework for every class hour for a total weekly commitment of 12 hours. When you are done, you will be able prepared to:
 
 * Learn more about web development
 * Create simple websites with HTML & CSS
 
-The **Extended Primer** is the Basic Primer plus an additional 4 weeks, building on the Basic Primer to prepare students for the following work:
+The second 4 weeks build on the first four to prepare students for the following work:
 
 * Internship at a web development or creative design studio
 * Design and creation of simple websites for small businesses or individuals
@@ -32,8 +32,8 @@ The **Extended Primer** is the Basic Primer plus an additional 4 weeks, building
 
 You can take either 
 
-1. the Basic Primer or 
-2. both the Basic and Extended Primer. 
+1. the first for weeks ("The Primer") 
+2. the whole 8 week Web Development Foundations course. 
 
 At this time, we do not offer the Extended Primer as a standalone class.
 
@@ -69,7 +69,7 @@ This class has no prerequisites. You will receive email one week prior to class 
 
 # Learning Objectives & Core Outcomes
 
-At successful completion of the **Basic Primer**, you will be able to:
+At successful completion of the first four weeks, you will be able to:
 
 * Use HTML to create simple web pages, using structural elements, tables, and forms
 * Use CSS to style simple web pages, including layout, color, and fonts
@@ -81,7 +81,7 @@ At successful completion of the **Basic Primer**, you will be able to:
 * Use GitHub pages to deploy a simple website
 * Follow a project plan as a member of a team
 
-At successful completion of the **Extended Primer**, students will **also** be able to:
+At successful completion of the complete course, students will **also** be able to:
 
 * Use HTML5 and JavaScript to perform form validation
 * Use the principles of mobile-first development and design
