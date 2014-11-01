@@ -50,8 +50,25 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries
 * A CSS media query is a logical expression. When it evaluates to TRUE, the enclosed CSS rules are applied.
 * There are lots of media features: screen size, screen density, orientation and many others. 
 
+Syntax
+-------
+
+````
+@media mediatype and|not|only (media feature) {
+    CSS-Code;
+}
+````
+**Media types** (e.g., screen, print, projection) have **media features** (width, color, monochrome, orientation). 
+
 http://pieroxy.net/blog/2012/10/18/media_features_of_the_most_common_devices.html
 (out of date but illustrative)
+
+The **Media Query** tells the browser, "*If* you have these types with these features, *then* use this CSS code." 
+
+Placement in the cascade
+------------------------
+
+Make your primary CSS handle the mobile case. Position the media query *after* the moble CSS to handle the larger screen cases.
 
 There is a standard
 --------------------
@@ -76,7 +93,9 @@ It’s pointless to try to anticipate all possible screen sizes. Breakpoints sho
     * They relate more clearly to text content:  http://www.smashingmagazine.com/2013/03/01/logical-breakpoints-responsive-design/
     * They handle user zooming better http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/
 
-1. Expand the layout until it breaks. Redesign for larger layouts, create media query to create them.
+1. Expand the layout until it breaks. Redesign for larger layouts, create media queries to create them.
+
+1. Place the media queries after the primary (mobile) CSS
 
 1. Add additional features as needed and real-estate permits.
 
