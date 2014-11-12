@@ -1,11 +1,11 @@
-title:            The Primer
-description:      Portland Code School's Web Development Primer
+title:            Foundations
+description:      Portland Code School's Web Development Foundations
 url:              https://portlandcodeschool.github.io/primer  # production
 # url:              http://0.0.0.0:4000            # for local testing
 disqus_shortname: pcsprimer
 
 owner:
-  name:           Web Development Primer
+  name:           Web Development Foundations
   avatar:         https://portlandcodeschool.github.io/primer/images/pcs-logo.png
   bio:
   email:          info@portlandcodeschool.com
