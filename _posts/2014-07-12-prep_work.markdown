@@ -50,14 +50,27 @@ The first line will allow you to open Sublime Text from the command line by issu
 
 
 
-Background for the Course
+Preparation for the Course
 =========================
 
-1. Complete [Web Fundamentals](http://www.codecademy.com/tracks/web) on Codecademy
-2. Watch [Console Foundations](http://teamtreehouse.com/library/console-foundations-2) on Treehouse
-3. Watch [Git Basics](http://teamtreehouse.com/library/git-basics) on Treehouse
+You can start on these treehouse courses. Because some students join the class only a few days before class begins, we'll give you some time to complete them in the first weeks of class.
 
+1. Watch [Console Foundations](http://teamtreehouse.com/library/console-foundations-2) on Treehouse
+1. Watch [Git Basics](http://teamtreehouse.com/library/git-basics) on Treehouse
+1. Watch [How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website)
 
+Textbooks
+=========
+
+There is no *required* textbook for this class.  We will use online resources -- they tend to be more up to date and are much cheaper. 
+
+However, there is a pair of books that several students *highly recommend* and that we use in the Web Front End course. They are very approachable and provide a clear introduction to what can be very obscure topics. The HTML/CSS one is a year or two old, but still accurate, and the JavaScript one is very up to date and, in general, excellent. 
+
+Here's a link to them on Amazon (PCS doesn't make any money on this link.):
+
+http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=asap_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1415837047&sr=1-1
+
+I don't know of any legitimate sources of ebook versions. The layout of the books is so sumptuous, however, that you'll enjoy the paper version.
 
 <!-- 
 Prep work
