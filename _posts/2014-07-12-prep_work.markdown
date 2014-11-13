@@ -64,11 +64,11 @@ Textbooks
 
 There is no *required* textbook for this class.  We will use online resources -- they tend to be more up to date and are much cheaper. 
 
-However, there is a pair of books that several students *highly recommend* and that we use in the Web Front End course. They are very approachable and provide a clear introduction to what can be very obscure topics. The HTML/CSS one is a year or two old, but still accurate, and the JavaScript one is very up to date and, in general, excellent. 
+However, there is a pair of books that several students *highly recommend* and that we use in the Web Front End course. They are very approachable and provide clear introductions to what can be very obscure topics. The HTML/CSS one is a year or two old, but still accurate, and the JavaScript one is very up to date and, in general, excellent. 
 
-Here's a link to them on Amazon (PCS doesn't make any money on this link.):
+Here's a [link to them on Amazon](http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=asap_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1415837047&sr=1-1)
 
-http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=asap_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1415837047&sr=1-1
+PCS doesn't make any money on this link.
 
 I don't know of any legitimate sources of ebook versions. The layout of the books is so sumptuous, however, that you'll enjoy the paper version.
 
