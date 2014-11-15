@@ -31,7 +31,6 @@ Templating Languages
 The first step, down at the coding level, is to take the content out of the HTML and just leave _**placeholders**_. Here's an example in the _Liquid_ templating langage:
 
 
-````
     <div id="main" role="main">
       <div class="article-author-side">
         <p>Joe Smith is a famous blogger who's opinions inexplicably matter to people. </p>
@@ -45,11 +44,13 @@ The first step, down at the coding level, is to take the content out of the HTML
         </div>
       </article>
     </div>
-````
+
 
 Here's what it looks like as a template:
 
-````
+{% raw %}
+
+
     <div id="main" role="main">
       <div class="article-author-side">
         {{ author-bio }}
@@ -61,15 +62,18 @@ Here's what it looks like as a template:
         </div>
       </article>
     </div>
-````
+
+{% endraw %}
 
 Notice that all the content (author biography, article title, article body) has been replaced with placeholders, like this:
 
-````
+{% raw %}
+
     {{ author-bio }}
     {{ title }}
     {{ content }}
-````
+
+{% endraw %}
 
 The actual content is kept in either simple text files or in a database.
 
