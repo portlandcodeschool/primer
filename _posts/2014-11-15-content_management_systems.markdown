@@ -32,42 +32,44 @@ The first step, down at the coding level, is to take the content out of the HTML
 
 
 ````
-<div id="main" role="main">
-  <div class="article-author-side">
-    <p>Joe Smith is a famous blogger who's opinions inexplicably matter to people. </p>
-  </div>
-  <article>
-    <h1>How to be a blogger</h1>
-    <div class="article-wrap">
-      <p>It's pretty easy to be a blogger. Go to a site like <a href="http://chrisvalleskey.com/fillerama/">Fillerama</a>, click a few buttons, get some text like this...</p>
-		  <i><p>Hokey religions and ancient weapons are no match for a good blaster at your side, kid. You don't believe in the Force, do you? Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is. You're all clear, kid. Let's blow this thing and go home! The plans you refer to will soon be back in our hands. You're all clear, kid. Let's blow this thing and go home!</p>
-      <p>... and hey, presto, you're a blogger!</p></i>
+    <div id="main" role="main">
+      <div class="article-author-side">
+        <p>Joe Smith is a famous blogger who's opinions inexplicably matter to people. </p>
+      </div>
+      <article>
+        <h1>How to be a blogger</h1>
+        <div class="article-wrap">
+          <p>It's pretty easy to be a blogger. Go to a site like <a href="http://chrisvalleskey.com/fillerama/">Fillerama</a>, click a few buttons, get some text like this...</p>
+    		  <i><p>Hokey religions and ancient weapons are no match for a good blaster at your side, kid. You don't believe in the Force, do you? Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is. You're all clear, kid. Let's blow this thing and go home! The plans you refer to will soon be back in our hands. You're all clear, kid. Let's blow this thing and go home!</p>
+          <p>... and hey, presto, you're a blogger!</p></i>
+        </div>
+      </article>
     </div>
-  </article>
-</div>
 ````
 
 Here's what it looks like as a template:
 
 ````
-<div id="main" role="main">
-  <div class="article-author-side">
-    {{ author-bio }}
-  </div>
-  <article>
-    <h1>{{ title }}</h1>
-    <div class="article-wrap">
-      {{ content }}
+    <div id="main" role="main">
+      <div class="article-author-side">
+        {{ author-bio }}
+      </div>
+      <article>
+        <h1>{{ title }}</h1>
+        <div class="article-wrap">
+          {{ content }}
+        </div>
+      </article>
     </div>
-  </article>
-</div>
 ````
 
 Notice that all the content (author biography, article title, article body) has been replaced with placeholders, like this:
 
-* {{ author-bio }}
-* {{ title }}
-* {{ content }}
+````
+    {{ author-bio }}
+    {{ title }}
+    {{ content }}
+````
 
 The actual content is kept in either simple text files or in a database.
 
@@ -86,7 +88,7 @@ Both site generators and content management systems use templates to separate co
  
 Site generators:
 
-![Site generator block diagram](site_generator_sketch.png "Site generator block diagram")
+![Site generator block diagram]({{ site.url }}/images/site_generator_sketch.png "Site generator block diagram")
 
 * Store content in files (or, in some cases, databases)
 * Publish the web site as static HTML, CSS, & JavaScript files once for each content update
@@ -95,7 +97,7 @@ Site generators:
 
 Content management systems:
 
-![Site generator block diagram](cms_sketch.png "Site generator block diagram")
+![Site generator block diagram]({{ site.url }}/images/cms_sketch.png "Site generator block diagram")
 
 * Store content in databases
 * Publish each page of the web site as it is requested by the web server
