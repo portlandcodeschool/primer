@@ -304,7 +304,7 @@ One of the things that makes coding difficult is that although you can read the 
 The most important set of tools used when developing JavaScript for the web browser are the developer tools.  They let you see the code in action. 
 We focus on Chrome Developer tools, which incorporate several important functions:
 
-* _**The console **_ - a place where you can enter expressions and statements and have 
+* _**The console**_ - a place where you can enter expressions and statements and have 
 the JavaScript engine execute the code. You can also output error and warning messages to the console as your code runs.
 * _**Breakpoints**_ - these let you see how your code behaves at a certain statement, 
 when a certain even occurs, when the DOM is manipulated, or when data is sent between the browser and a server.
@@ -542,7 +542,7 @@ _**method chaining**_
 
 ____
 
-_**The console **_ 
+_**The console**_ 
 
 ----
 _**Breakpoints**_
