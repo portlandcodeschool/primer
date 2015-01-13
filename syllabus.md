@@ -108,7 +108,9 @@ If you are interested in starting a new career in web development, though, we en
 ### Student Time Commitment
 
 Class hours: Initial class is **Saturday 11a - 5p**
-	Subsequent classes are **Tuesdays and Thursdays 6pm - 9pm**
+
+
+Subsequent classes are **Tuesdays and Thursdays 6pm - 9pm**
 
 You are strongly encouraged to attend all classes, even if you haven't had time to keep up on the homework. 
 
