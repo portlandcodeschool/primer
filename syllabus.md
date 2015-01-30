@@ -16,7 +16,11 @@ share:
 
 ## Course Description
 
-The Web Development Foundations class is Portland Code School's introduction to web development. It provides you with the starting skills to build modern websites. Whether you're interested in kickstarting a career in web development or just augmenting your technical skills, the Primer will equip you with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub. 
+This is the syllabus for two classes in the Web Foundations Series.
+
+The Web Development Series is Portland Code School's introduction to web development. These courses introduces students with the oppertunity to build modern websites and recieve feedback to help those students reach their goals in the web development industry.  The Primer Basic is aimed at introducing programming languages necessary to build websites with the support and feedback available to students from experienced coders.  This is what differentiates Portland Code School from other programs, whether that be a University setting, a community college, or an online website with a curriculum and a forum.  The Primer Pro equips students with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub.  
+
+Do you already know how to code and want to skip ahead?  Great, then we would encourage you to take the extra step and develop some of the soft skills that will set you appart from competing job prospects.  Along with becoming successful at speaking the programming langauges, students will also have the oppertunity to develop soft skills such as leadership, collaboration, and problem solving.
 
 The first four weeks gets you started in the Portland Code School learning environment at low cost. Students spend 6 hours per week in the classroom. It requires 1 hour of homework for every class hour for a total weekly commitment of 12 hours. When you are done, you will be able prepared to:
 
