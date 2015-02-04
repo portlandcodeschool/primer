@@ -49,25 +49,6 @@ Excited prospective students can elect to:
 1. Invest in their future by enrolling in the complete Web Foundations Series
 2. Consider carefully about their future in web development and be introduced through the Primer Basic with the option to continue and enroll later in Primer Pro.
 
-### Meeting hours:
-PRIMER BASIC SCHEDULE: March 7 - March 25
-Saturday, March 7 (10am-4pm)
-Monday, March 9 (6pm-9pm)
-Wednesday, March 11 (6pm-9pm)
-Monday, March 16 (6pm-9pm)
-Wednesday, March 18 (6pm-9pm)
-Monday, March 23 (6pm-9pm)
-Wednesday, March 25 (6pm-9pm)
-
-PRIMER PRO SCHEDULE: March 28 - April 15
-Saturday, March 28 (10am-4pm)
-Monday, March 30 (6pm-9pm)  
-Wednesday, April 1 (6pm-9pm)
-Monday, April 6 (6pm-9pm)
-Wednesday, April 8 (6pm-9pm)
-Monday, April 13 (6pm-9pm)
-Wednesday, April 15 (6pm-9pm)
-
 
 ### Location
 PCS Classroom, 1771 NW Pettygrove Street, Ste 140 
@@ -78,8 +59,7 @@ Portland, OR 97209
 **Al Zimmerman**
 
 Email: azimmerman@portlandcodeschool.com <br>
-Phone (text and voicemail):  503-970-3645 <br>
-Office Hours: Before class & Monday 1 - 3pm 
+Phone (text and voicemail):  503-970-3645 
 
 **Contacting your instructor**
 
@@ -87,7 +67,7 @@ Schedule 1-on-1 time @ https://azimmerman1.youcanbook.me/
 
 I have found that I can often help others more quickly through the slack channel than with email.  Please exect an email response at least within 24-48 hours.  My cellphone is 503-970-3645, but it only works for text or voicemail. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
 
-I am  also available for a short period of time before each class. My main office hours are Monday 1-3pm in the PCS classroom. I'm also willing to meet with you by prior arrangement online in a Google hangout or Skype screen sharing session. My calendar is as tightly fitted as a Moroccan mosaic, however, and we may have to work a little to find a time that works for both of us.  Office hours work best.
+I am  also available for a short period of time before each class. I'm also willing to meet with you by prior arrangement online in a Google hangout or Skype screen sharing session. My calendar is as tightly fitted as a Moroccan mosaic, however, and we may have to work a little to find a time that works for both of us.  YouCanBook.me work best.
 
 My PCS email is azimmerman@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours.
 
@@ -201,11 +181,11 @@ You will be required to work through several interactive coding exercises on Cod
 
 ## Team Project
 
-After you have had a chance to build a couple of web sites yourself, you'll have the opportunity to work on a team to build web sites for clients.
+After you have had a chance to build a couple of web sites yourself, you'll have the opportunity to work on a team to several build web sites for clients.
 
-The first project (Basic Primer) requires your team to take the specifications for a pre-defined web site and build the site from scratch.
+The first projects (Basic Primer) requires your team to take the specifications for a pre-defined web site and build the site from scratch.
 
-The second project (Extended Primer) requires your team to interview "the client" (PCS staff), develop site specifications, get client approval, and build the site from scratch or use Wordpress to build it, depending on client requirements.
+The second set of projects (Primer Pro) requires your team to interview "the client" (PCS staff), develop site specifications, get client approval, and build the site from scratch or use Wordpress to build it, depending on client requirements.
 
 ## Additional requirements
 
@@ -215,7 +195,7 @@ You need to provide your own computer for this class.
 
 Portland Code School highly recommends MacBook Pros running OSX 10.9 or later. Most of the best web development tools are developed on that operating system first. The important aspect of OSX is the underlying UNIX-like operating system.  We place an emphasis at being able to work on a Unix/Linux command line level, down in the guts of the operating system.
 
-*Portland Code School will rent you a MacBook Pro for $25 a month during this course. It's a great deal.*
+*Portland Code School will rent you a MacBook Pro for $30 a month during this course. It's a great deal.*
 
 A good alternative is Linux/GNU. Most of your web applications will be deployed on Linux/GNU virtual hosts in the cloud. Any Debian-based distribution will do.
 
@@ -263,4 +243,4 @@ You also get to evaluate *us*. We use a technique called "project retrospectives
 
 -------
 
-*Syllabus version 1.0*
+*Syllabus version 1.1*
