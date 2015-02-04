@@ -16,32 +16,39 @@ share:
 
 ## Course Description
 
-The Web Development Foundations class is Portland Code School's introduction to web development. It provides you with the starting skills to build modern websites. Whether you're interested in kickstarting a career in web development or just augmenting your technical skills, the Primer will equip you with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub. 
+This is the syllabus for two classes in the Web Foundations Series.
 
-The first four weeks gets you started in the Portland Code School learning environment at low cost. Students spend 6 hours per week in the classroom. It requires 1 hour of homework for every class hour for a total weekly commitment of 12 hours. When you are done, you will be able prepared to:
+The Web Development Series is Portland Code School's introduction to web development. These courses introduces students with the oppertunity to build modern websites and recieve feedback to help those students reach their goals in the web development industry.  The Primer Basic is aimed at introducing programming languages necessary to build websites with the support and feedback available to students from experienced coders.  This is what differentiates Portland Code School from other programs, whether that be a University setting, a community college, or an online website with a curriculum and a forum.  The Primer Pro equips students with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub.  
+
+Do you already know how to code and want to skip ahead?  Please contact us and we can discuss alternative solutions. Perhaps you're ready to take the extra step and develop some of the soft skills that will set you appart from competing job prospects.  Along with becoming successful at speaking the programming langauges, students in Primer Basic will also have the oppertunity to develop soft skills such as leadership, collaboration, and problem solving.
+
+What is your goal?
+
+Are you curious about coding and perhaps are a little interested in supplementing your income?  
+
+or
+
+Are you passionate about pursueing a career in web development?
+
+The Primer Basic is designed for students that may not be sure how to answer those questions.  The average amount of time devoted to develop the skills taught in class is about an hour a day.  The rate at which a student learns and retains new skills is different for everyone, and we've found that the students that are most interested in pursuing web development as a career typically spend as much time as they can to master these skills.
+
+Upon Successful completion of the Primer Basic, every student will be ready to:
 
 * Learn more about web development
 * Create simple websites with HTML & CSS
 
-The second 4 weeks build on the first four to prepare students for the following work:
+The Primer Pro builds on what students learned in Primer Basic so that those students can:
 
 * Internship at a web development or creative design studio
-* Design and creation of simple websites for small businesses or individuals
-* Web development with HTML, CSS and some JavaScript
-* Participation in further Portland Code School classes
+* Design and create simple websites for small businesses or individuals
+* Develop web applications with HTML, CSS and JavaScript
+* Participate in further Portland Code School classes
 
-You can take either 
+Excited prospective students can elect to:
 
-1. the first for weeks ("The Primer") 
-2. the whole 8 week Web Development Foundations course. 
+1. Invest in their future by enrolling in the complete Web Foundations Series
+2. Consider carefully about their future in web development and be introduced through the Primer Basic with the option to continue and enroll later in Primer Pro.
 
-At this time, we do not offer the Extended Primer as a standalone class.
-
-
-### Meeting hours:
-Saturday 11:00 AM to 5:00 PM
-
-Open lab time and teaching assistants are available to all students during the week at PCS.
 
 ### Location
 PCS Classroom, 1771 NW Pettygrove Street, Ste 140 
@@ -52,16 +59,19 @@ Portland, OR 97209
 **Al Zimmerman**
 
 Email: azimmerman@portlandcodeschool.com <br>
-Phone (text and voicemail):  503-970-3645 <br>
-Office Hours: Before class & Monday 1 - 3pm 
+Phone (text and voicemail):  503-970-3645 
 
 **Contacting your instructor**
 
-I am available for a short period of time before each class. My main office hours are Monday 1-3pm in the PCS classroom. I'm also willing to meet with you by prior arrangement online in a Google hangout or Skype screen sharing session. My calendar is as tightly fitted as a Moroccan mosaic, however, and we may have to work a little to find a time that works for both of us.  Office hours work best.
+Schedule 1-on-1 time @ https://azimmerman1.youcanbook.me/
 
-My PCS email is azimmerman@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours. My cellphone is 503-970-3645, but it only works for text or voicemail. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
+I have found that I can often help others more quickly through the slack channel than with email.  Please exect an email response at least within 24-48 hours.  My cellphone is 503-970-3645, but it only works for text or voicemail. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
 
+I am  also available for a short period of time before each class. I'm also willing to meet with you by prior arrangement online in a Google hangout or Skype screen sharing session. My calendar is as tightly fitted as a Moroccan mosaic, however, and we may have to work a little to find a time that works for both of us.  YouCanBook.me work best.
 
+My PCS email is azimmerman@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours.
+
+I would also strongly encourage you to seek help from the teacher assistants and other students in the class.  
 
 # Prerequisites
 
@@ -69,7 +79,7 @@ This class has no prerequisites. You will receive email one week prior to class 
 
 # Learning Objectives & Core Outcomes
 
-At successful completion of the first four weeks, you will be able to:
+At successful completion of the Primer Basics, students will be able to:
 
 * Use HTML to create simple web pages, using structural elements, tables, and forms
 * Use CSS to style simple web pages, including layout, color, and fonts
@@ -81,7 +91,7 @@ At successful completion of the first four weeks, you will be able to:
 * Use GitHub pages to deploy a simple website
 * Follow a project plan as a member of a team
 
-At successful completion of the complete course, students will **also** be able to:
+At successful completion of the Primer Pro, students will **also** be able to:
 
 * Use HTML5 and JavaScript to perform form validation
 * Use the principles of mobile-first development and design
@@ -100,26 +110,31 @@ For the most up to date schedule of activities, see the [course curriculum](/cou
 
 This class is designed to be as gentle an introduction to web development as we can design, while still providing you with industry-standard, professional-level experience.
 
-There are no grades and there is no way you can fail. *You* get to choose how much effort you put in to the class. If you only have time to come to the Saturday sessions, that's fine. You'll still get a lot out of the course. If you have time to do some of the homework, that's great! Nothing we ask you to do is a waste of your time.
+There are no grades and there is no way you can fail. *You* get to choose how much effort you put in to the class. If you only have time to come to the course sessions, that's fine. You'll still get a lot out of the course. If you have time to invest in your learning outside of class, that's great! Nothing we ask you to do is a waste of your time.
 
 If you are interested in starting a new career in web development, though, we encourage you to do all the assigned work. That way you will get started learning the skills you need, while getting a taste of the level of effort required to be successful in this career path.
 
 
 ### Student Time Commitment
 
-Class hours: **Saturday 11a - 5p**
-
 You are strongly encouraged to attend all classes, even if you haven't had time to keep up on the homework. 
 
 This course requires 6 hours each week for classroom time. In addition, successful students devote approximately 1 outside hour of their own time each week for each classroom hour for a total of 12 hours per week.
 
-If you just take the Basic Primer, you will need to set aside 4 Saturdays to join us. If you are completing both the Basic and Extended Primer, you will need to devote 8 Saturdays.
+Please look carefully at the course meeting hours and make sure you can be available for those times.
 
-Class begins promptly at 11am. Late arrivals and missing team members are very disruptive. If you are going to miss class or even be as little as 10 minutes late, please text Al at 503-970-3645 prior to 11am.
+At Portland Code School, the instructors value your time and we expect you to value ours.  Please arrive on time to limit distractions and enable other students to become successful in this course.
 
 We encourage you to eat an early lunch prior to class. Healthy snacks and drinks are provided and we take lots of short breaks, but there won't be any long breaks for you to go eat lunch. On graduation celebration days, we'll cater lunch in house and everybody will have a chance to get to know each other a little better.
 
 ## Assessment Methods
+
+There are two primary assignements in the Primer Basic.  These are project based assignments, so they will closely indicate what you know and what you have learned.  
+
+In the first assignment, you will be provided with specific instructions to revise a website for a potential client.  You will need to revise the XHTML to HTML5, along with floating elements differently to change the layout the fit the needs of the client, adjusting the css styling, and creating media queries to make the site responsive to different screen sizes.
+
+In the second assignment, you will work as a team with other web developers to create a web site from scratch.  Along with writing the code, you will need to collaborate with your team through version control.
+
 
 Your progress will be assessed using a variety of methods:
 
@@ -166,11 +181,11 @@ You will be required to work through several interactive coding exercises on Cod
 
 ## Team Project
 
-After you have had a chance to build a couple of web sites yourself, you'll have the opportunity to work on a team to build web sites for clients.
+After you have had a chance to build a couple of web sites yourself, you'll have the opportunity to work on a team to several build web sites for clients.
 
-The first project (Basic Primer) requires your team to take the specifications for a pre-defined web site and build the site from scratch.
+The first projects (Basic Primer) requires your team to take the specifications for a pre-defined web site and build the site from scratch.
 
-The second project (Extended Primer) requires your team to interview "the client" (PCS staff), develop site specifications, get client approval, and build the site from scratch or use Wordpress to build it, depending on client requirements.
+The second set of projects (Primer Pro) requires your team to interview "the client" (PCS staff), develop site specifications, get client approval, and build the site from scratch or use Wordpress to build it, depending on client requirements.
 
 ## Additional requirements
 
@@ -180,7 +195,7 @@ You need to provide your own computer for this class.
 
 Portland Code School highly recommends MacBook Pros running OSX 10.9 or later. Most of the best web development tools are developed on that operating system first. The important aspect of OSX is the underlying UNIX-like operating system.  We place an emphasis at being able to work on a Unix/Linux command line level, down in the guts of the operating system.
 
-*Portland Code School will rent you a MacBook Pro for $25 a month during this course. It's a great deal.*
+*Portland Code School will rent you a MacBook Pro for $30 a month during this course. It's a great deal.*
 
 A good alternative is Linux/GNU. Most of your web applications will be deployed on Linux/GNU virtual hosts in the cloud. Any Debian-based distribution will do.
 
@@ -228,4 +243,4 @@ You also get to evaluate *us*. We use a technique called "project retrospectives
 
 -------
 
-*Syllabus version 1.0*
+*Syllabus version 1.1*
