@@ -61,7 +61,15 @@ Last revised: Feburary 3, 2014
 	Collectively, walk through the handout.  Check for confusion, identify key compoents
 
 
-##Homework: finish treehouse courses, work on pcs-primer-exercise, work on Treehouse Forms badge
+##Homework: 
+    Complete exit card before you leave class
+    Treehouse: Getting started with Git (26 minutes)
+        Working with Remotes (3 minutes)
+        Cloning (5 minutes)
+        Basic Layout (CSS, 35 min)
+        Add Image Gallery Content (6:49 min)
+        Add New Page (8:11)
+        
 
 ##Assessment: 
 	*	Exit Card: Complete Google Form before you leave class. 

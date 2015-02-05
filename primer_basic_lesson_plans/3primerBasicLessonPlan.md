@@ -5,6 +5,11 @@ Portland Code School
 
 Last revised: Feburary 3, 2014
 
+complete before class: 
+git: Branches (10 min)  
+Merging (11 min)
+Workflows (11 min)  
+
 ##Objectives: 
 	*	Chrome Developer Tools
 	*	Git: Basic collaboration: branching and merging using Github pages to deploy web sites
@@ -33,18 +38,20 @@ Last revised: Feburary 3, 2014
 
 2.	Chrome Dev Tools Quiz
 3.	Git Push/Pull ping pong
-4.	Introduce final assignment:
+4.  CodePen exercise: create a nav that moves with the page
+5.	Introduce final assignment:
 	*	Walk through Basecamp: to-do lists, client briefs
-5.	Discuss roles and responsibilities of team work
-6.	Create teams for second assignment	
+6.	Discuss roles and responsibilities of team work
+7.	Create teams for second assignment	
 	*	Students line up by their percieved proficiency 
 	*	The end of the line wraps back to the front of the line so there are two columns
 	*	Instructor defines characteristics of an effective team
-	*Students create their own teams and team name
-7.	Introduce second assignment
-8.	Students start working on the final assignment with the remainder of class time available
+	*   Students create their own teams and team name
+8.	Introduce second assignment
+9.	Students start working on the final assignment with the remainder of class time available
 
-##Homework: work on second assignment, meet with your team
+##Homework: 
+    work on second assignment, meet with your team
 
 ##Assessment: 
 	Exit Card: Complete Google Form before you leave class. 
