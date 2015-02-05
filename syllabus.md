@@ -63,13 +63,13 @@ Phone (text and voicemail):  503-970-3645
 
 **Contacting your instructor**
 
-Schedule 1-on-1 time @ https://azimmerman1.youcanbook.me/
+Schedule 1-on-1 time @ [https://azimmerman1.youcanbook.me/](https://azimmerman1.youcanbook.me/)
 
 I have found that I can often help others more quickly through the slack channel than with email.  Please exect an email response at least within 24-48 hours.  My cellphone is 503-970-3645, but it only works for text or voicemail. If you text me, please prefix your text with the word "PCS". Texts or voicemail will get a reply within 4 hours.
 
 I am  also available for a short period of time before each class. I'm also willing to meet with you by prior arrangement online in a Google hangout or Skype screen sharing session. My calendar is as tightly fitted as a Moroccan mosaic, however, and we may have to work a little to find a time that works for both of us.  YouCanBook.me work best.
 
-My PCS email is azimmerman@portlandcodeschool.com. Email to this address will get a reply within 24-48 hours.
+My PCS email is [azimmerman@portlandcodeschool.com](azimmerman@portlandcodeschool.com). Email to this address will get a reply within 24-48 hours.
 
 I would also strongly encourage you to seek help from the teacher assistants and other students in the class.  
 
@@ -135,16 +135,15 @@ In the first assignment, you will be provided with specific instructions to revi
 
 In the second assignment, you will work as a team with other web developers to create a web site from scratch.  Along with writing the code, you will need to collaborate with your team through version control.
 
+Assessment is a fancy education word that is often associated with grades.  Since we doing give grades at Portland Code School, assessment means something else:
 
-Your progress will be assessed using a variety of methods:
+For us, assessment means communication, and communication is a two way street.  When you need help, we're here to provide it.  But we can't read you mind, so it's really important that you tell us what you've done and how you've felt about it. 
 
-* Attendance - You need to show up and do the work
-* Completion of assignments - we will keep track of whether you do what we ask you to do
-* Code reviews - we will read and assess your code
-* Quizzes - we will ask you questions and evaluate your answers
-* Instructor reviews - your instructor will observe your work and take notes
-* Peer reviews - we'll talk to everybody in the class to see how folks are doing on teamwork
-* Participation in the community - we will ask you to hang out with your peers, meet people, and report back
+You can communicate in this class by:
+* Connecting with other students: track what you and other students are doing and where you are at with the course material
+* Schedule appointments with the instructor or with a teaching assistant
+* Complete any forms we ask you to do
+* Quizzes: these tell us what you know based off of what we hope you learned.  
 
 We will provide you feedback as you go. If you go on to take additional PCS classes, your Primer work will become part of your PCS records.
 
