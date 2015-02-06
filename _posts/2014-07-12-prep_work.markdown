@@ -52,12 +52,15 @@ The first line will allow you to open Sublime Text from the command line by issu
 
 Preparation for the Course
 =========================
+Treehouse is an incredible resource, and handsdown the most valuable resource you'll get from taking this class. But you're not coming to Portland Code School to learn whatever Treehouse has, so there will be some specific badges you should earn that fit specifically with the Primer Basic curriculum.
 
-You can start on these treehouse courses. Because some students join the class only a few days before class begins, we'll give you some time to complete them in the first weeks of class.
+Before you come to the first class, please complete the following badges on Treehouse
 
-1. Watch [Console Foundations](http://teamtreehouse.com/library/console-foundations-2) on Treehouse
-1. Watch [Git Basics](http://teamtreehouse.com/library/git-basics) on Treehouse
-1. Watch [How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website)
+1. [Beginning HTML and CSS] (http://teamtreehouse.com/library/how-to-make-a-website)
+2. [HTML First] (http://teamtreehouse.com/library/how-to-make-a-website)
+3. [What is CSS?] (http://teamtreehouse.com/library/how-to-make-a-website) Note: This is just one video in the CSS: Cascading Style Sheets badge
+4. [Why Version Control Matters] (http://teamtreehouse.com/library/git-basics)
+
 
 Textbooks
 =========
