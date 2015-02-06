@@ -75,3 +75,15 @@ Portland Code School
 	*	Exit Card: Complete Google Form before you leave class. 
 	*	Quiz: basic elements of html and css elements, and questions on what to do to get around on command line
 
+##References
+	###Ducket HTML & CSS:
+		page 8 How webstes are created
+		Chapter 1: Structure
+		Chapter 2: Text
+		Chapter 10: Introducing CSS
+		Chapter 11: Color
+		[http://www.w3schools.com/html/default.asp](w3Schools html tutorial)
+		[http://www.w3schools.com/css/default.asp] (w3Schools css tutorial)
+		[https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction] (MDN Introduction to HTML)
+		[https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started] (MDN Getting started with CSS)
+
