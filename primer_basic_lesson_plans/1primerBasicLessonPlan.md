@@ -1,24 +1,21 @@
 #Primer Basic Week 1
 
-Portland Code School
-
-
 ##Objectives: 
 	*	basic teamwork
 	*   introduction to the community
-	*   Introduce HTML, CSS & JavaScript (JS)
+	*   introduce HTML, CSS & JavaScript
 	*   introduction to the command line and git
 
 ##By the end of this lessons, students will be able to:
 
 	*   Recall at least two other students and a Teacher Assistant by name
-	*   Ask questions in the course Slack chanel
+	*   Ask questions in the course Slack channel
 	*   Schedule an appointment with the instructor
 	*   Identify their course goals and areas of improvement
 	*   Identify the purpose of html, css, and javaScript on a website
 	*   Define the basic structure of an html element and a css rule
 	*   Create a basic website using HTML and CSS with Sublime Text
-		[Head, Body: Header, Body, Footer] [h1, h2, div, nav, ul, ol, li, p]
+		[Head, Body: Header, content, Footer] [h1, h2, div, nav, ul, ol, li, p]
 		[class, id, background-color, color, border]
 	*   Define situational awareness on the command line
 	*   Navigate in the command line by using commands such as change directory, print working direcory, and list
@@ -26,12 +23,11 @@ Portland Code School
 
 ##Necessary materials: 
 	*   Laptop: prefurably Macbook Pro, or unix based operating system
-	*   Class Prerequisits
 	*   Class Syllabus
 	*   Git
 	*   Notebook/pen
 	*   Sublime Text
-	*   Outline of git basics, command line basics, website development basics
+	*   curricular guide to [git basics](https://portlandcodeschool.github.io/primer/git_and_github/), [command line basics](https://portlandcodeschool.github.io/primer/the_command_line/), [website development basics](https://portlandcodeschool.github.io/primer/beginning_html_and_css/)
 	*   Google form: assess student confidence
 
 ##Process
@@ -66,15 +62,15 @@ Portland Code School
     	*	Getting started with Git (26 minutes)
         *	Working with Remotes (3 minutes)
         *	Cloning (5 minutes)
-        *	Basic Layout (CSS, 35 min)
-        *	Add Image Gallery Content (6:49 min)
-        *	Add New Page (8:11)
+        *	Basic Layout (CSS, 35 minutes)
+        *	Add Image Gallery Content (6:49 minutes)
+        *	Add New Page (8:11 minutes)
         
 
 ##Assessment: 
 	*	Exit Card: Complete Google Form before you leave class. 
 	*	Quiz: basic elements of html and css elements, and questions on what to do to get around on command line
-
+	
 ##References
 	###Ducket HTML & CSS:
 		page 8 How webstes are created

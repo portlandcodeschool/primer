@@ -1,15 +1,6 @@
 
 #Primer Basic Week 3
-
-Portland Code School
-
-Last revised: Feburary 3, 2014
-
-complete before class: 
-git: Branches (10 min)  
-Merging (11 min)
-Workflows (11 min)  
-
+ 
 ##Objectives: 
 	*	Chrome Developer Tools
 	*	Git: Basic collaboration: branching and merging using Github pages to deploy web sites
@@ -28,7 +19,7 @@ Workflows (11 min)
 
 ##Necessary materials: 
 	*	Chrome Dev Tools Quiz (Google form)
-	*	Git push/pull ping pong pdf
+	*	Git push/pull ping pong activity for pairs
 	*	Basecamp
 
 ##Process:
@@ -55,6 +46,9 @@ Workflows (11 min)
 
 ##Assessment: 
 	Exit Card: Complete Google Form before you leave class. 
+
+##Resources
+	[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
 
 

@@ -1,12 +1,8 @@
 #Primer Basic Week 2
 
-Portland Code School
-
-Last revised: Feburary 3, 2014
-
 ##Objectives: 
 	*	CSS: styling, positioning and the cascade
-	*	Git: cloning, staging, commiting
+	*	Git: cloning, staging, committing
 
 ##By the end of this lessons, students will be able to:
     *   Create a new repository on gitHub
@@ -20,7 +16,7 @@ Last revised: Feburary 3, 2014
 
 ##Necessary materials: 
 	*	New_repo with index.hmtl
-	*	pcs-primer-exercise repo
+	*	pcs-primer-exercise repository
 	
 ##Process:
 1.	Beginning of class: 
@@ -47,5 +43,7 @@ Last revised: Feburary 3, 2014
 ##Assessment: Complete by the start of the third class
 	*	Complete and share first assignment
 	 
-
+##References
+	Duckett: pages 370 to 375 (css positioning, specifically floats)
+	[help with git](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 

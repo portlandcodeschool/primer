@@ -1,10 +1,6 @@
 
 #Primer Basic Week 4
 
-Portland Code School
-
-Last revised: Feburary 3, 2014
-
 ##Objectives: 
 	*	Team Collaboration
 	*	Introduction to client work: product demonstration and code walkthroughs
@@ -28,7 +24,14 @@ Last revised: Feburary 3, 2014
 		*	This would be a great activity for some ta’s to model
 4.	Student groups continue to work on their project
 5.	Student groups present their product demonstration and code walkthrough
-6.	Course retrospective and celebration
+6.	Course retrospective
 		*	Reinforce what to do next: codeacademy, treehouse, primer pro, 
+7. 	Discussion: What can you do with what you know now?
+	*	Spectrum between users and coders
+
+##Homework for students continueing with Primer Pro:
+	Responsive web design Treehouse course
+	Introduction to JavaScript
+	Introduction to bootcamp
 
 
