@@ -2,10 +2,9 @@
 
 Portland Code School
 
-Last revised: Feburary 3, 2014
 
 ##Objectives: 
-	*   basic teamwork
+	*	basic teamwork
 	*   introduction to the community
 	*   Introduce HTML, CSS & JavaScript (JS)
 	*   introduction to the command line and git
@@ -19,8 +18,8 @@ Last revised: Feburary 3, 2014
 	*   Identify the purpose of html, css, and javaScript on a website
 	*   Define the basic structure of an html element and a css rule
 	*   Create a basic website using HTML and CSS with Sublime Text
-		####[Head, Body: Header, Body, Footer] [h1, h2, div, nav, ul, ol, li, p]
-		####[ class names, id names, background-color, color, border]
+		[Head, Body: Header, Body, Footer] [h1, h2, div, nav, ul, ol, li, p]
+		[class, id, background-color, color, border]
 	*   Define situational awareness on the command line
 	*   Navigate in the command line by using commands such as change directory, print working direcory, and list
 	*   Define and describe the purpose of git and github
@@ -37,11 +36,11 @@ Last revised: Feburary 3, 2014
 
 ##Process
 1. Introductions: 
-	Partners: the same process is used to create two unique pairs (a handshake partner and a high-five partner)
-	a.	Students stand in a large circle and walk directly into the center of the cirgle to meet someone they don’t know
-	b.	Student pairs create a unique handshake or high-five
+	*	Partners: the same process is used to create two unique pairs (a handshake partner and a high-five partner)
+	*	Students stand in a large circle and walk directly into the center of the cirgle to meet someone they don’t know
+	*	Student pairs create a unique handshake or high-five
 	Students share something about themselves to their partner (work experience, name, interests)
-	c.	As a group, parnters share each others information with the whole class
+	*	As a group, parnters share each others information with the whole class
 2. Review the course syllabus
 	Identify where to locate the syllabus, what the course schedule it, what the expections on assignments are, grading policy
 3, Introduction of content and prerequisites
@@ -63,15 +62,30 @@ Last revised: Feburary 3, 2014
 
 ##Homework: 
     Complete exit card before you leave class
-    Treehouse: Getting started with Git (26 minutes)
-        Working with Remotes (3 minutes)
-        Cloning (5 minutes)
-        Basic Layout (CSS, 35 min)
-        Add Image Gallery Content (6:49 min)
-        Add New Page (8:11)
+    Treehouse: 
+    	*	Getting started with Git (26 minutes)
+        *	Working with Remotes (3 minutes)
+        *	Cloning (5 minutes)
+        *	Basic Layout (CSS, 35 min)
+        *	Add Image Gallery Content (6:49 min)
+        *	Add New Page (8:11)
         
 
 ##Assessment: 
 	*	Exit Card: Complete Google Form before you leave class. 
 	*	Quiz: basic elements of html and css elements, and questions on what to do to get around on command line
+
+##References
+	###Ducket HTML & CSS:
+		page 8 How webstes are created
+		Chapter 1: Structure
+		Chapter 2: Text
+		Chapter 10: Introducing CSS
+		Chapter 11: Color
+		[http://www.w3schools.com/html/default.asp](w3Schools html tutorial)
+		[http://www.w3schools.com/css/default.asp] (w3Schools css tutorial)
+		[https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction] (MDN Introduction to HTML)
+		[https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started] (MDN Getting started with CSS)
+		[https://portlandcodeschool.github.io/primer/the_command_line/] (Command Line Introduction)
+		[https://portlandcodeschool.github.io/primer/git_and_github/] (Git and GitHub)
 
