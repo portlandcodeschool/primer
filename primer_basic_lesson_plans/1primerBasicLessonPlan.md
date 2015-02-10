@@ -86,4 +86,6 @@ Portland Code School
 		[http://www.w3schools.com/css/default.asp] (w3Schools css tutorial)
 		[https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction] (MDN Introduction to HTML)
 		[https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started] (MDN Getting started with CSS)
+		[https://portlandcodeschool.github.io/primer/the_command_line/] (Command Line Introduction)
+		[https://portlandcodeschool.github.io/primer/git_and_github/] (Git and GitHub)
 
