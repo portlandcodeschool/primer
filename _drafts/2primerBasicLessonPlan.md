@@ -1,6 +1,9 @@
+---
+layout: post
+---
 #Primer Basic Week 2
 
-##Objectives: 
+##Objectives:
 	*	CSS: styling, positioning and the cascade
 	*	Git: cloning, staging, committing
 
@@ -12,14 +15,14 @@
 	*	Stage changes to a repository (git add)
 	*	Commit changes to a repository
 	*	Manipulate elements on an html page through css styling and positioning within 	the cascade
-	
 
-##Necessary materials: 
+
+##Necessary materials:
 	*	New_repo with index.hmtl
 	*	pcs-primer-exercise repository
-	
+
 ##Process:
-1.	Beginning of class: 
+1.	Beginning of class:
 	*	Check-in: Hand Shake partners share something they liked, High Five partners share something they’re struggling with
 	*	Zip-Zap-Zop level 1
 2.	Git: instructor guides on projector and speaks what he/she is doing.  Students follow along from their own computers, take notes, and ask questions as they arise
@@ -33,17 +36,16 @@
     *	Explore float on codepen
 5.	Lab: work on iteration 2
 
-##Homework: 
-    Treehouse badges: 
+##Homework:
+    Treehouse badges:
         Branches (10 min)  
         Merging (11 min)
-        Workflows (11 min) 
+        Workflows (11 min)
     finish pcs-primer-exercise
 
 ##Assessment: Complete by the start of the third class
 	*	Complete and share first assignment
-	 
+
 ##References
 	Duckett: pages 370 to 375 (css positioning, specifically floats)
 	[help with git](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-

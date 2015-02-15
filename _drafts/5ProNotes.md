@@ -1,4 +1,6 @@
-
+---
+layout: post
+---
 
 * Use the principles of mobile-first development and design
 

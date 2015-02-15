@@ -1,6 +1,10 @@
+---
+layout: post
+---
+
 #Primer Pro Week 1
 
-##Objectives: 
+##Objectives:
 	*	JavaScript basics: statements, functions, objects
 	*	Mobile-first design
 	*	Responsive Web Design
@@ -9,13 +13,13 @@
 
 ##By the end of this lessons, students will be able to:
 
-	*   
+	*
 
-##Necessary materials: 
+##Necessary materials:
 	*   e
 
 ##Process
-1. Opening 
+1. Opening
 	*	Review primer basic content overview
 	*	Describe Primer Pro content and expectations on assignments and homework
 2. 	Present Duckett Chapter 1 slideshow
@@ -26,17 +30,17 @@ break
 
 5.	javaScript events
 6.	responsive mobile design aspects
-7.	work on 
+7.	work on
 
 ##Homework:
 	*	Decide which route you will study javaScript: codeAcademy or treehouse
 	*	Start working on javaScript content
 	*	Read chapters 1-3 Duckett
-        
 
-##Assessment: 
 
-	
+##Assessment:
+
+
 ##References
 	Ducket Chapter 1 The ABC of Programming
 	Duckett Chapter 2 Basic JavaScript Instructions
