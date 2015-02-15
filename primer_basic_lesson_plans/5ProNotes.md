@@ -125,7 +125,7 @@ Collaborative quiz - pair up and use w3schools, MDN, and Chrome Developer Tools 
 
 Technique Exploration:
 
-* Using document object methods
+* Using jQuery
 * Updating HTML that is already on the page.
 * Running functions on click events
 
