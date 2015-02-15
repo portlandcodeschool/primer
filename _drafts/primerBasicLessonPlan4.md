@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "Primer Basic Week 4 Lesson Plan"
+category: "LessonPlans"
+permalink: /primer_basic/plans/week4/
 ---
 #Primer Basic Week 4
 

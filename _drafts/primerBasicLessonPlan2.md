@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "Primer Basic Week 2 Lesson Plan"
+category: "LessonPlans"
+permalink: /primer_basic/plans/week2/
 ---
 #Primer Basic Week 2
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Primer Basic Week 1 Lesson Plan"
-category: "Lesson Plans"
+category: "LessonPlans"
+permalink: /primer_basic/plans/week1/
 ---
 
 ##Objectives:

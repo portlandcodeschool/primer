@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "Primer Pro Week 1 Lesson Plan"
+category: "LessonPlans"
+permalink: /primer_pro/plans/week1/
 ---
 
 #Primer Pro Week 1
