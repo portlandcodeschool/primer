@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Primer Basic Week 1 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_basic/plans/week1/
+category: lessons
+description: "Review the pre-work, meet the class, and starting learning about HTML & CSS."
 ---
 
 ##Objectives:

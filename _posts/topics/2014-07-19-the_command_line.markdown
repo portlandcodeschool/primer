@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "UNIX for Humans: The command line is your friend"
+title:  "Command line Introduction"
 description: "A gentle introduction to working on the command line."
 date:   2014-07-19 14:00:00
-categories: unix, terminal, "command line"
+category: topics
 comments: true
 ---
 
 Goals
 =====
-1. Configure your shell environment 
+1. Configure your shell environment
 2. Be able to use `ls`, `mkdir`, `cp`, `mv`, `rm`, `rmdir`, `|`, `>`, `>>`, `cat`, `chmod`, `chown`, `cp`, `export`
 3. Know how to learn about a command you haven't seen before
 
@@ -19,7 +19,7 @@ The Unix command line
 
 Web developers spend a lot of time at the command line. Command line interfaces (CLIs) offer few of the visual cues and design affordances provided by GUIs (graphical user interfaces), so you may initially find yourself turning to Google repeatedly to find the right command for the task at hand. That's perfectly okay. You'll be using these commands all the time. Soon enough they'll be committed to muscle memory and you'll be issuing commands *legato* like a nerdy Gershwin.
 
-Useful keyboard shortcuts for Bash 
+Useful keyboard shortcuts for Bash
 -----------------------------------
 * Jump to the start of the line: <kbd>ctrl</kbd> + <kbd>a</kbd>
 * Jump to the end of the line: <kbd>ctrl</kbd> + <kbd>e</kbd>
@@ -31,9 +31,9 @@ You may find it helpful to map <kbd>ctrl</kbd> to your <kbd>caps lock</kbd> key.
 
 ![]({{ site.url }}/images/capslockremap.jpg)
 
-On Windows machines, this requires a [registry hack](http://johnhaller.com/useful-stuff/disable-caps-lock) (see [here](https://superuser.com/questions/334849/how-can-i-remap-capslock-on-windows-7-without-thirdparty-software), as well). 
+On Windows machines, this requires a [registry hack](http://johnhaller.com/useful-stuff/disable-caps-lock) (see [here](https://superuser.com/questions/334849/how-can-i-remap-capslock-on-windows-7-without-thirdparty-software), as well).
 
-It can also be helpful to set your **Key Repeat** rate to its maximum and **Delay Until Repeat** to its the minimum. 
+It can also be helpful to set your **Key Repeat** rate to its maximum and **Delay Until Repeat** to its the minimum.
 
 
 Basic Unix commands
@@ -68,7 +68,7 @@ $ pwd
 * `cd` same as above (`~` is the default argument to the `cd` command)
 
 {% highlight sh %}
-$ cd 
+$ cd
 $ pwd
 {% endhighlight %}
 
@@ -82,7 +82,7 @@ $ pwd
 
 {% highlight sh %}
 $ cd ~/Developer/pcs/pcs-primer-notes1
-$ ls 
+$ ls
 {% endhighlight %}
 
 {% highlight text %}
@@ -104,7 +104,7 @@ drwxr-xr-x  12 romer  staff      408 Jun  9 01:39 .git
 drwxr-xr-x   8 romer  staff      272 Jun  8 23:45 figures
 -rw-r--r--   1 romer  staff  1831121 Jun  9 11:26 index.html
 {% endhighlight %}
-  
+
 * **NB**: The dot (`.`) represents the current directory
   * `ls .` means list files in current directory (but `.` is the default argument to `ls` so it can be omitted)
 
@@ -131,7 +131,7 @@ NB: `touch <file>` actually updates the "last modified at" attribute of `<file>`
 ### Copying and moving files
 
 * `mv <loc1> <loc2>` moves the file at `loc1` to `loc2` (equivalently: rename the file at `loc1` to `loc2`)
-* `cp <loc1> <loc2>` copy file 
+* `cp <loc1> <loc2>` copy file
 
 {% highlight sh %}
 $ cp  new_file   new_directory/copy_of_new_file
@@ -203,12 +203,12 @@ ls: cannot access new_directory: No such file or directory
 To find more information about a particular command, pull up its manual page:
 
 * `man <command>` view manual for `<command>`
-* Inside `man` use 
-  * `q` to exit. 
-  * `j` to scroll down, `k` to scroll up 
+* Inside `man` use
+  * `q` to exit.
+  * `j` to scroll down, `k` to scroll up
   * `d` to jump down a few lines, `u` to jump up
   * `<space>` to page down
-  
+
 {% highlight sh %}
 $ man man
 {% endhighlight %}
@@ -221,15 +221,15 @@ NAME
        man - format and display the on-line manual pages
 
 SYNOPSIS
-       man [-acdfFhkKtwW] [--path] [-m system] [-p string] [-C config_file] [-M pathlist] 
+       man [-acdfFhkKtwW] [--path] [-m system] [-p string] [-C config_file] [-M pathlist]
            [-P pager] [-B browser] [-H htmlpager] [-S section_list] [section] name ...
 
 
 DESCRIPTION
-       man  formats  and  displays  the on-line manual pages.  If you specify section, man only 
-       looks in that section of the manual.  name is normally the name of the manual page, which 
-       is typically the name of a command, function, or file.  However, if name contains a slash 
-       (/) then man interprets it as a file specification, so that  you can do man ./foo.5 or even 
+       man  formats  and  displays  the on-line manual pages.  If you specify section, man only
+       looks in that section of the manual.  name is normally the name of the manual page, which
+       is typically the name of a command, function, or file.  However, if name contains a slash
+       (/) then man interprets it as a file specification, so that  you can do man ./foo.5 or even
        man /cd/foo/bar.1.gz.
 {% endhighlight %}
 
@@ -240,10 +240,10 @@ Exercises (Optional)
 
 Check out "Absolute and relative paths", "Heading back", and "Tab completion" in ["The Designer's Guide to the OSX command prompt"](http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt). Three quick paragraphs that will save you tons of time.
 
-From the command line, 
+From the command line,
 
-  1. Change to your home directory (`~`) and print a listing of all its contents 
-  2. Print a listing of only those files/folders in `~` that contain a `D` 
+  1. Change to your home directory (`~`) and print a listing of all its contents
+  2. Print a listing of only those files/folders in `~` that contain a `D`
       <br>(Hint: Google "piping grep")
   3. With a single command, create the listing in (2) and save it to a file on your desktop (see [here](http://www.december.com/unix/tutor/redirect.html) for how)
 
@@ -256,4 +256,3 @@ Suggestions: Work with a partner as a [driver/navigator pair][pairing-primer]. G
 
 
 **Comments? Questions? Corrections? Use the comments thread below.**
-

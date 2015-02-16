@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Primer Pro Week 3 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_pro/plans/week3/
+title:  "Primer Pro Week 4 Lesson Plan"
+category: lessons
+description: "More Boostrap. Project demos and walkthroughs. Retrospective & next steps."
 ---
-#Primer Pro Week 3
+#Primer Pro Week 4
 
 ##Objectives:
 	*
@@ -14,7 +14,7 @@ permalink: /primer_pro/plans/week3/
 	*
 
 ##Necessary materials:
-	*   e
+	*
 
 ##Process
 1. Opening:

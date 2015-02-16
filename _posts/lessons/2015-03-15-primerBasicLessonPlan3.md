@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Primer Basic Week 3 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_basic/plans/week3/
+category: lessons
+description: "Seeing your code with Chrome Developer Tools, collaborating with git, and starting the final project."
 ---
 #Primer Basic Week 3
 

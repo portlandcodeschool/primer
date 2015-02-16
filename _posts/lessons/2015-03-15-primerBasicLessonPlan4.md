@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Primer Basic Week 4 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_basic/plans/week4/
+category: lessons
+description: "Teamwork and client work. Project demos and walkthroughs. Retrospective & next steps."
 ---
 #Primer Basic Week 4
 

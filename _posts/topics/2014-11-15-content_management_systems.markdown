@@ -3,14 +3,14 @@ layout: post
 title:  "Content Management Systems"
 description: "Managing lots of content - Site generators, Content Management Sytems, and site builders"
 date:   2014-11-15 11:00:00
-categories: html css
+category: topics
 comments: true
 ---
 
 Introduction
 =============
-Way back in the beginning of this course, 
-we broke down things this way: 
+Way back in the beginning of this course,
+we broke down things this way:
 
 * HTML took care if both content and structure
 * CSS did the appearance
@@ -20,9 +20,9 @@ We need to take one more step and separate content from structure.
 
 We will create our HTML with placeholders instead of content, creating templates. Then, we will use software to take the content, our text and media, and inject it into the templates, and publish our websites.
 
-There are, in general, two ways to do this: 
+There are, in general, two ways to do this:
 
-1. Beforehand: taking all the content, injecting it into the HTML and then saving all those HTML files on the Web server. This is called _**site generation**_. 
+1. Beforehand: taking all the content, injecting it into the HTML and then saving all those HTML files on the Web server. This is called _**site generation**_.
 2. On the fly: having all of our content in a database and creating HTML pages on-the-fly when users visit the site. The software that accomplishes this is called a _**content management system**_.
 
 Templating Languages
@@ -83,7 +83,7 @@ Key Differences between site generators and content management systems
 ========================================================================
 
 Both site generators and content management systems use templates to separate content from structure. But, in general, there are some key differences:
- 
+
 Site generators:
 
 ![Site generator block diagram](site_generator_sketch.png "Site generator block diagram")
@@ -101,6 +101,3 @@ Content management systems:
 * Publish each page of the web site as it is requested by the web server
 * Combine HTML templates and CSS stylesheets into _**themes**_
 * Are easier for non-coders to use
-
-
-

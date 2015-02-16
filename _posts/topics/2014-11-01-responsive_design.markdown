@@ -3,7 +3,7 @@ layout: post
 title:  "Responsive Design"
 description: "Designing for the mobile web."
 date:   2014-11-01 11:00:00
-categories: html css
+category: topics
 comments: true
 ---
 
@@ -58,12 +58,12 @@ Syntax
     CSS-Code;
 }
 ````
-**Media types** (e.g., screen, print, projection) have **media features** (width, color, monochrome, orientation). 
+**Media types** (e.g., screen, print, projection) have **media features** (width, color, monochrome, orientation).
 
 http://pieroxy.net/blog/2012/10/18/media_features_of_the_most_common_devices.html
 (out of date but illustrative)
 
-The **Media Query** tells the browser, "*If* you have these types with these features, *then* use this CSS code." 
+The **Media Query** tells the browser, "*If* you have these types with these features, *then* use this CSS code."
 
 Placement in the cascade
 ------------------------
@@ -85,10 +85,10 @@ It’s pointless to try to anticipate all possible screen sizes. Breakpoints sho
 
 1. Add CSS to style the site with mobile aesthics and user patterns.
 
-1. Use fluid layout techniques. 
+1. Use fluid layout techniques.
 
 1. Use em units of measure for fluid text.
-    
+
     * In many cases, ems are better units of measure than pixels for media queries.
     * They relate more clearly to text content:  http://www.smashingmagazine.com/2013/03/01/logical-breakpoints-responsive-design/
     * They handle user zooming better http://blog.cloudfour.com/the-ems-have-it-proportional-media-queries-ftw/

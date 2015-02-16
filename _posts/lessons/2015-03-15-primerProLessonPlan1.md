@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Primer Pro Week 1 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_pro/plans/week1/
+category: lessons
+description: "Introduction to JavaScript."
 ---
 
 #Primer Pro Week 1

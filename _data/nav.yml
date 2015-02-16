@@ -1,0 +1,24 @@
+# Links to include in top navigation
+# For external links add external: true
+
+# this is not in use yet
+# see _includes/_navigation_home.html
+
+- title: "About"
+  url: "/"
+- title: Syllabus
+  url: /syllabus/
+- title: Curriculum
+  url:: /course/
+  submenu:
+    - subtitle: "Lession Plans"
+      subhref: "/lesson_plans/"
+    - subtitle: "Assignments"
+      subhref: "/assignments/"
+    - subtitle: "Topics"
+      subhref: "/topics/"
+- title: Resources
+  url: /resources/
+- title: PCS Home
+  url: http://portlandcodeschool.com
+  external: true

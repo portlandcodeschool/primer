@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Primer Basic Week 2 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_basic/plans/week2/
+category: lessons
+description: "More about CSS and an introduction to git"
 ---
 #Primer Basic Week 2
 

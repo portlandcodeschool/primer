@@ -3,7 +3,7 @@ layout: post
 title:  "HTML & CSS: Refinements"
 description: "Use HTML5 and CSS3 features to add some elegance to your site's UX."
 date:   2014-07-19 11:00:00
-categories: html css
+category: topics
 comments: true
 ---
 
@@ -24,7 +24,7 @@ HTML: Tables and Forms
 A Brief History
 ---------------
 
-HTML's long-run trajectory has been toward greater standardization, reaching its zenith with X/HTML. 
+HTML's long-run trajectory has been toward greater standardization, reaching its zenith with X/HTML.
 
 HTML5 was a slight step backwards from that (arguably excessive) degree of standardization.
 
@@ -93,7 +93,7 @@ Forms can be styled in CSS just like any other HTML. Same practices apply: a `cl
 
 ### Form submit method: GET vs. POST
 
-Two ways of sending an HTTP request to a URL. In a GET request, all the form data is appended to the URL in the browser's address bar. In a POST request, form data is included in [the body of the request](https://stackoverflow.com/questions/8417224/how-to-mimic-an-html-form-submission-in-a-post-request). 
+Two ways of sending an HTTP request to a URL. In a GET request, all the form data is appended to the URL in the browser's address bar. In a POST request, form data is included in [the body of the request](https://stackoverflow.com/questions/8417224/how-to-mimic-an-html-form-submission-in-a-post-request).
 
 
 
@@ -103,7 +103,7 @@ What's an HTTP request? What does it look like?
 Clients and Servers, Requests and Responses
 --------------------------------------------
 
-The internet is built on a [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), whereby all communication between a client (like your web browser) and a server occur via [requests](https://stackoverflow.com/questions/8417224/how-to-mimic-an-html-form-submission-in-a-post-request?answertab=votes#tab-top) and responses. 
+The internet is built on a [client-server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), whereby all communication between a client (like your web browser) and a server occur via [requests](https://stackoverflow.com/questions/8417224/how-to-mimic-an-html-form-submission-in-a-post-request?answertab=votes#tab-top) and responses.
 
 A request:
 

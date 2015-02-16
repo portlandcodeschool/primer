@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Primer Pro Week 2 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_pro/plans/week2/
+category: lessons
+description: "Mobile-first design and responsive development"
 ---
 #Primer Pro Week 2
 

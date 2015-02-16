@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Primer Pro Week 4 Lesson Plan"
-category: "LessonPlans"
-permalink: /primer_pro/plans/week4/
+title:  "Primer Pro Week 3 Lesson Plan"
+category: lessons
+description: "Introduction to Bootstrap."
 ---
-#Primer Pro Week 4
+#Primer Pro Week 3
 
 ##Objectives:
 	*
@@ -14,7 +14,7 @@ permalink: /primer_pro/plans/week4/
 	*
 
 ##Necessary materials:
-	*
+	*   e
 
 ##Process
 1. Opening:

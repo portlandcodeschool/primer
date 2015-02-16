@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Capstone Project and Presentation"
+title:  "Primer Basic: Capstone Project and Presentation"
 description: "Build a site with your team and present your work to your peers."
 date:   2014-07-26 13:00:00
-categories: capstone, presentation
+category: assignments
 comments: true
 ---
 
@@ -17,7 +17,7 @@ Goals
 Presentations
 ==============
 
-Pitch presentations 
+Pitch presentations
 -------------------
 
 Presentation should be about how you can meet the viewer's needs—address those needs from the start.
@@ -25,7 +25,7 @@ Presentation should be about how you can meet the viewer's needs—address those
 Code Walkthroughs
 ------------------
 
-1. The context / structure 
+1. The context / structure
 2. The specifics: The code you like the best / how you solved a challenging problem.
 
 Guy Kawasaki's 10-20-30 rule
@@ -37,7 +37,7 @@ Guy Kawasaki's 10-20-30 rule
 
 
 
-Capstone Project 
+Capstone Project
 ================
 
 ### [Assemble your crew.](https://www.youtube.com/watch?v=tpp5u-I_ZW8)
@@ -58,9 +58,9 @@ Capstone Project
 
 As a general rule, you should try to always have an MVP ('a minimum viable product')—i.e., your website should always be in a functional state at the end of the day, even if it doesn't look like much. Grow your code base incrementally.
 
-### Working together, getting help 
+### Working together, getting help
 
-* Spend some time hacking together if possible 
+* Spend some time hacking together if possible
 * Communicate with your teammates—keep everyone apprised of potential schedling obstacles as soon as they appear on the horizon. (So they can adjust the workload accordingly)
 * Leverage Basecamp, GitHub, Skype, etc.
 * Text or email Al, and/or use youcanbook.me to book some time with your TAs—we're all here to help you over any obstacles that arise.

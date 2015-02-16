@@ -88,7 +88,7 @@ end
 desc "Generate and preview site locally"
 task :preview do
   if successful_asset_compilation? and development_url_set?
-    jekyllPid = Process.spawn("jekyll serve")
+    jekyllPid = Process.spawn("jekyll serve -w")
     trap("INT") {
       [jekyllPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
       exit 0
