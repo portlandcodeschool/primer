@@ -7,11 +7,50 @@
 
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-		        {% for link in site.links %}
-				<li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-		    </ul>
+	    <ul>
+	      {% for link in site.links %}
+					<li>
+						<a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}"
+						{% if link.external %}
+							target="_blank"
+						{% endif %}>{{ link.title }}</a>
+					</li>
+	      {% endfor %}
+			</ul>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
+
+
+
+<!--
+use this later for multi-level menus
+{% for menu_item in site.data.nav %}
+{% if menu_item.submenu != null %} 
+<li>
+<a href="{{ site.url }}{{ menu_item.url }}"
+{% if link.external %}
+target="_blank"
+{% endif %}
+class="">
+{{ menu_item.title }}
+</a>
+<ul class="dropdown-menu”>
+{% for item in menu_item.submenu %}
+<li>
+<a href="{{ site.url }}{{ item.subhref }}"
+{% if link.external %}
+target="_blank"
+{% endif %}>
+{{ item.subtitle }}
+</a>
+</li>
+{% endfor %}
+</ul>
+{% else %}
+<li><a href="{{ site.url }}{{ menu_item.url }}">{{ menu_item.title }}</a>
+{% endif %}
+</li>
+{% endfor %}
+
+-->

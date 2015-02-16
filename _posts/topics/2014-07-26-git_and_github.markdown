@@ -3,7 +3,7 @@ layout: post
 title:  "Git and GitHub: Collaborating like a pro"
 description: "Master the \"blocking and tackling\" of the web developer's most indispensable, inscrutable tool: Git. Learn how to collaborate with teammates using GitHub."
 date:   2014-07-26 09:00:00
-categories: git github collaboration "version control"
+category: topics
 comments: true
 ---
 
@@ -81,7 +81,7 @@ $ ssh -T git@github.com
 You should see the following:
 
 {% highlight text %}
-Hi <username>! You've successfuly authenticated, but GitHub 
+Hi <username>! You've successfuly authenticated, but GitHub
 does not provide shell access.
 {% endhighlight %}
 
@@ -115,7 +115,7 @@ A Solo Workflow
 4. Make changes on your branch
     - e.g., to add a signup form to your site
 5. Add files to track
-    - `git add <filenames or .>` 
+    - `git add <filenames or .>`
 6. **commit** your changes
     - `git commit -m "Add a form"` (the `-m` flag means you're setting the commit message to `"Add a form"`)
     - Note the imperative form of the message. This is [by convention](https://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages).
@@ -146,7 +146,7 @@ Git + GitHub for Collaboration
 6. When a feature is complete, you **push** to GitHub and issue a **pull request**
 7. A "pull request" is where your partners review your work, discuss it, and the project admin **merges** it into the master branch if approved
 
-## 5. Basic git commands 
+## 5. Basic git commands
 ### Getting and creating projects
 {% highlight sh %}
 $ git init
@@ -169,7 +169,7 @@ $ git merge <branch name>
 ### Pushing and pulling
 {% highlight sh %}
 $ git push
-$ git pull 
+$ git pull
 {% endhighlight %}
 
 ### Viewing current status and past history
@@ -179,6 +179,3 @@ $ git log
 {% endhighlight %}
 
 [[descriptions here](http://gitref.org)]
-
-
-

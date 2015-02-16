@@ -3,14 +3,14 @@ layout: post
 title:  "Content Management Systems"
 description: "Managing lots of content - Site generators, Content Management Sytems, and site builders"
 date:   2014-11-15 11:00:00
-categories: html css
+category: topics
 comments: true
 ---
 
 Introduction
 =============
-Way back in the beginning of this course, 
-we broke down things this way: 
+Way back in the beginning of this course,
+we broke down things this way:
 
 * HTML took care if both content and structure
 * CSS did the appearance
@@ -20,9 +20,9 @@ We need to take one more step and separate content from structure.
 
 We will create our HTML with placeholders instead of content, creating templates. Then, we will use software to take the content, our text and media, and inject it into the templates, and publish our websites.
 
-There are, in general, two ways to do this: 
+There are, in general, two ways to do this:
 
-1. Beforehand: taking all the content, injecting it into the HTML and then saving all those HTML files on the Web server. This is called _**site generation**_. 
+1. Beforehand: taking all the content, injecting it into the HTML and then saving all those HTML files on the Web server. This is called _**site generation**_.
 2. On the fly: having all of our content in a database and creating HTML pages on-the-fly when users visit the site. The software that accomplishes this is called a _**content management system**_.
 
 Templating Languages
@@ -89,7 +89,7 @@ Key Differences between site generators and content management systems
 ========================================================================
 
 Both site generators and content management systems use templates to separate content from structure. But, in general, there are some key differences:
- 
+
 Site generators:
 
 ![Site generator block diagram]({{ site.url }}/images/site_generator_sketch.png "Site generator block diagram")
@@ -117,7 +117,7 @@ Wordpress
 * Provides an admin area to manage and grow the site
 * Plug-in architecture to provide additional features
 * Plug-in market to encourage people to contribute plug-ins for free and as a business
-* Themes allow customization 
+* Themes allow customization
 * Many theme markets available  to get themes for free and for cost
 * Lots of support from extensive community
 
@@ -154,7 +154,7 @@ When to choose another development method
 
 Setting up your first Wordpress site
 ====================================
-You can download  Wordpress for free from Wordpress.org and set it up on your machine using MAMP. This gives you the most flexibility. 
+You can download  Wordpress for free from Wordpress.org and set it up on your machine using MAMP. This gives you the most flexibility.
 
 However, for this demonstration, we will set up a free website on WordPress.com.
 
@@ -177,7 +177,7 @@ Any string works, but it's useful to associate the email and its purpose.
 
 0. Goto Wordpress.org
 0. Choose a subdomain that is available
-0. Provide an email and password 
+0. Provide an email and password
 0. Examine the paid options. Note that the free option is very limited and carries ads, but it's good enough for now.
 0. Click the button!!!
 
@@ -224,14 +224,10 @@ Where to go from here
 Wordpress as a career
 ======================
 
-Web developers can make a very comfortable living creating Wordpress-based web sites and applications for a wide variety of customers. 
+Web developers can make a very comfortable living creating Wordpress-based web sites and applications for a wide variety of customers.
 
 0. Site design and mild customization (one-time engagement, relatively low income and high volume)
 0. Site operations, maintenance, and upgrades (ongoing work and income)
 0. Theme customization (requires understanding HTML, CSS, JavaScript, PHP, the bulk of Wordpress developer work)
 0. Theme creation - Your creation with a Wordpress infrastructure (complex site gigs, additional income from theme sales)
 0. Widget and plugin writing - heavy duty coding (additional income)
-
-
-
-

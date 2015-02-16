@@ -3,12 +3,12 @@ layout: post
 title:  "Next steps: JavaScript, jQuery, Freelancing"
 description: "What to learn and where to go from here."
 date:   2014-08-09 09:00:00
-categories: javascript, frontend
+category: topics
 comments: true
 ---
 
 
-Post Course 
+Post Course
 ============
 
 ### If you'd like to deepen your knowledge of HTML/CSS:
@@ -22,7 +22,7 @@ HTML & CSS](http://learn.shayhowe.com/advanced-html-css), which includes coverag
 
 1. Learn [the basics of JavaScript, interactively](http://www.learn-js.org).
 2. Learn [jQuery, by the book](https://learn.jquery.com).
-3. (Shameless plug) Continue your journey here at PCS! 
+3. (Shameless plug) Continue your journey here at PCS!
 
 Learn front-end frameworks, responsive design, and much more in our [front-end development][fed] course, or test-driven development, client-side and server-side JavaScript frameworks, and more, in our full-stack JavaScript courses ([immersion][jsi] or [evening][jse]).
 
