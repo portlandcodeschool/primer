@@ -1,0 +1,119 @@
+<html>
+  <head>
+    <title>JavaScript &amp; jQuery Example</title>
+
+    <!--
+    We put the styles here just to keep the assignment all in one file.
+    Normally they go in separate files.
+    -->
+    <style type="text/css">
+
+      #output_area {
+        padding:10px 40px;
+        margin:40px;
+        width:50%;
+      }
+
+      .idle{
+        background-color:lightgray;
+      }
+
+      .selected {
+        background-color: gold;
+      }
+      input[type="button"]  {
+        border: 1px solid grey;
+        width: 100px;
+        height: 50px;
+        padding:10px;
+        margin: 10px 10px 10px 100px;
+        background-color:ivory;
+        box-shadow: 3px 3px 5px lightgray;
+      }
+
+      input[type="button"]:hover  {
+        position: relative;
+        top: -2px;
+        left: -2px;
+        box-shadow: 7px 7px 5px lightgray;
+      }
+
+    </style>
+
+
+    <!--  Bring jQuery in from the Google content delivery network -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <!--
+    We put the JavaScript here just to keep the assignment all in one file.
+    Normally it goes in separate files.
+    -->
+    <script>
+      // The following function waits for the document's "ready" event
+      // and then attaches event listeners
+      $(document).ready(function(){
+
+        // attach an event listener to the Run Script button
+        // use an attribute selector to pick the right button
+        $('input[value="Run Script"]').click( function(){
+          console.log('Caught a "Run Script" click event.');
+          $("#output_area").addClass( 'selected');
+          alert("The looping function should go here.");
+        });
+
+        // attach an event listener to the Clear button here
+
+      }); // end of $(document).ready
+
+      /*
+        This function prepares a string variable with HTML and then uses jQuery
+        to load the variable contents into the DOM.
+      */
+      function loop_and_display() {
+        var output_html;
+        var count = 0;
+        output_html="<p>The script is starting...</p>";
+        while (count<10) {
+          output_html= output_html + "Times this loop has run: "+ count +"<br />";
+          count++;
+        }
+        output_html += "<p>The script is done.</p>";
+        $("#output_area").html(output_html);
+      }
+    </script>
+  </head>
+  <body>
+    <h1>jQuery modification of the DOM example.</h1>
+    <p>Read the code and answer the following questions by editing the definition list and puttng your answers in the &lt;dd&gt; elements.</p>
+    <h2>Quiz</h2>
+    <dl>
+      <dt>What is an 'event listener'?</dt>
+      <dd>(put your answer here)</dd>
+      <dt>How do you attach an event listener that responds to a 'click' event to an element using jQuery?</dt>
+      <dd>(put your answer here)</dd>
+      <dt>What is the ID of the place where the output of the loop function should go?</dt>
+      <dd>(put your answer here)</dd>
+      <dt>What is the class that changes the style of the output area?</dt>
+      <dd>(put your answer here)</dd>
+      <dt>What does the selector input[value="Run Script"] do? Enter the URLs of the places you researched with your explanation.</dt>
+      <dd>(put your answer here)</dd>
+      <dt>What is the URL of the documentation for the jQuery <kbd>.addClass</kbd> method?</dt>
+      <dd>(put your answer here)</dd>
+      <dt>What is the URL of the documentation for GitHub Pages? What does creating the <kbd>gh-pages</kbd> branch do on github.com</dt>
+      <dd>(put your answer here)</dd>
+      <dt>What is the URL of the documentation for the <kbd>$(document).ready()</kbd> jQuery method?</dt>
+      <dd>(put your answer here)</dd>
+
+    </dl>
+
+    <hr>
+
+    <input type="button" value="Run Script" />
+    <input type="button" value="Clear" />
+
+    <h2>Output area:</h2>
+    <div id="output_area" class="idle">
+      <p>This is the area where the output goes. This content appears before the script is run.</p>
+    </div>
+  </body>
+</html>

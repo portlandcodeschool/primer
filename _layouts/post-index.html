@@ -36,17 +36,67 @@
 
 <div id="index">
   <h1>{{ page.title }}</h1>
-  {% for post in site.posts reversed %}
+  <p>
+    Each week has a <a href="#lessions">lesson plan</a> where you can see what we'll cover that week. Some weeks have <a href="#assignments">assignments</a> . The various <a href="#topics">topics</a>  we cover have their own pages.
+  </p>
 
+  <h2 id="lessons">Lessons</h2>
+  {% for post in site.categories['lessons'] %}
+    {% assign sorted_posts = (site.categories['lessons'] | sort: 'title') %}
+  {% endfor %}
+  {% for post in sorted_posts %}
     <article>
-      {% if post.link %}
-        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>
-      {% else %}
-        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-      {% endif %}
+        <h2>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </h2>
+        <p>
+          {% if post.description %}
+            {{ post.description }}
+          {% else %}
+            {{ post.content | strip_html | strip_newlines | truncate: 120 }}
+            {% endif %}
+        </p>
     </article>
   {% endfor %}
+
+  <h2 id="assignments">Assignments</h2>
+  {% for post in site.categories['assignments'] %}
+    {% assign sorted_posts = (site.categories['assignments'] | sort: 'title') %}
+  {% endfor %}
+  {% for post in sorted_posts %}
+    <article>
+        <h2>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </h2>
+        <p>
+          {% if post.description %}
+            {{ post.description }}
+          {% else %}
+            {{ post.content | strip_html | strip_newlines | truncate: 120 }}
+            {% endif %}
+        </p>
+    </article>
+  {% endfor %}
+
+  <h2 id="topics">Topics</h2>
+  {% for post in site.categories['topics'] %}
+    {% assign sorted_posts = (site.categories['topics'] | sort: 'title') %}
+  {% endfor %}
+  {% for post in sorted_posts %}
+    <article>
+        <h2>
+          <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </h2>
+        <p>
+          {% if post.description %}
+            {{ post.description }}
+          {% else %}
+            {{ post.content | strip_html | strip_newlines | truncate: 120 }}
+            {% endif %}
+        </p>
+    </article>
+  {% endfor %}
+
 </div><!-- /#index -->
 
 <div class="footer-wrap">
