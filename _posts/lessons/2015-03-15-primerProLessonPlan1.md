@@ -5,46 +5,50 @@ category: lessons
 description: "Introduction to JavaScript."
 ---
 
-#Primer Pro Week 1
+#Objectives:
 
-##Objectives:
-	*	JavaScript basics: statements, functions, objects
-	*	Mobile-first design
-	*	Responsive Web Design
-	*	Mobile UI patterns
-	*	Relative vs. absolute units of measurement
+*	JavaScript basics: statements, functions, objects
+* jQuery basics: Selection, Event Listeners, DOM manipulation
+* Tools Exploration: Using Developer Tools to see JavaScript in action
 
-##By the end of this lessons, students will be able to:
+#By the end of these lessons, students will be able to:
 
-	*
+0. Write simple JavaScript functions that respond to clicks and change page content
+0. Use the Chrome Developer tools to do the following
+	* Displaying the developer tools
+	* Stopping code with breakpoints
+	* Single stepping code
+	* Seeing variables
+	* Seeing the DOM
 
-##Necessary materials:
-	*   e
+#Necessary materials:
+* Duckett textbook
 
-##Process
+#Process
+
 1. Opening
-	*	Review primer basic content overview
+	*	Review Primer Basic content overview
 	*	Describe Primer Pro content and expectations on assignments and homework
 2. 	Present Duckett Chapter 1 slideshow
 3.	Interview sofware engineer
 4.	Present Duckett Chapter 2 and Chapter 3 slideshow
-
-break
-
 5.	javaScript events
-6.	responsive mobile design aspects
-7.	work on
+6.	Responsive mobile design aspects
 
-##Homework:
-	*	Decide which route you will study javaScript: codeAcademy or treehouse
-	*	Start working on javaScript content
-	*	Read chapters 1-3 Duckett
+#Homework:
 
+*	Decide which route you will study javaScript: codecademy or treehouse
+*	Start working on javaScript content
+*	Read chapters 1-3 Duckett
+* Do [JavaScript &amp; jQuery assignment](/assignments/introduction-to-javascript-and-jquery/) - due next week.
 
-##Assessment:
+#Assessment:
 
+* Collaborative quiz - pair up and use w3schools, MDN, and Chrome Developer Tools to answer the questions
+* Quiz in homework assignment
 
-##References
-	Ducket Chapter 1 The ABC of Programming
-	Duckett Chapter 2 Basic JavaScript Instructions
-	Duckett Chapter 3 Functions, Methods, Objects
+#References
+
+*	Ducket Chapter 1 The ABC of Programming
+*	Duckett Chapter 2 Basic JavaScript Instructions (download [ppt](/assets/presentations/javascript-c02.ppt) or [keynote](/assets/presentations/javascript-c02.key.zip))
+*	Duckett Chapter 3 Functions, Methods, Objects (download [ppt](/assets/presentations/javascript-c03.ppt) or [keynote](/assets/presentations/javascript-c03.key.zip))
