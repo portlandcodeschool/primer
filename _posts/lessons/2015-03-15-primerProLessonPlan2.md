@@ -19,12 +19,12 @@ description: "Mobile-first design and responsive development"
 
 #By the end of this lessons, students will be able to:
 
-	* Code CSS media queries to adjust styling to different device characteristics
-	* Manage images to load appropriate images to different devices
-	* Use scalable vector graphic (SVG) images
+* Code CSS media queries to adjust styling to different device characteristics
+* Manage images to load appropriate images to different devices
+* Use scalable vector graphic (SVG) images
 
-	  complete responsive project part 1: raw html % mobile layout
-	*	complete menu animation javaScript
+* complete responsive project part 1: raw html % mobile layout
+*	complete menu animation javaScript
 
 #Necessary materials:
 	*
