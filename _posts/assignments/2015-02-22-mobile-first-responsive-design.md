@@ -61,7 +61,7 @@ Part 1 - Create a no-CSS, no-JavaScript site that works on a smart phone in port
 ----------------------------------
 
 Wireframe:
-![HTML-only wireframe](/images/responsive-homework-step-1.png "HTML-only wireframe")
+![HTML-only wireframe](/primer/images/responsive-homework-step-1.png "HTML-only wireframe")
 
 ### Steps
 
@@ -81,7 +81,7 @@ Part 2 - Progressively enhance the site to use mobile-first conventions
 ----------------------------------
 
 Wireframe:
-![Mobile wireframe](/images/responsive-homework-step-2.png "Mobile wireframe")
+![Mobile wireframe](/primer/images/responsive-homework-step-2.png "Mobile wireframe")
 
 Use CSS and JavaScript to style the site using mobile user interface patterns:
 
@@ -113,7 +113,7 @@ Part 3 - Use Responsive Design techniques to Progressively enhance the site for 
 ----------------------------------
 
 Wireframe:
-![Tablet wireframe](/images/responsive-homework-step-3.png "Tablet wireframe")
+![Tablet wireframe](/primer/images/responsive-homework-step-3.png "Tablet wireframe")
 
 
 Use media queries to adapt layout to a "medium" mobile device - a tablet - in landscape orientation. It is up to your discretion to handle "medium" portrait orientation either by fluid layout or media query. You must have at least one media query.
