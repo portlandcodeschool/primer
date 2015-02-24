@@ -7,7 +7,7 @@ description: "Introduction to JavaScript."
 
 #Objectives:
 
-*	JavaScript basics: statements, functions, objects
+* JavaScript basics: statements, functions, objects
 * jQuery basics: Selection, Event Listeners, DOM manipulation
 * Tools Exploration: Using Developer Tools to see JavaScript in action
 
@@ -29,18 +29,23 @@ description: "Introduction to JavaScript."
 1. Opening
 	*	Review Primer Basic content overview
 	*	Describe Primer Pro content and expectations on assignments and homework
-2. 	Present Duckett Chapter 1 slideshow
+2. 	Introduction to JavaScript
+	* define: variables, strings, numbers, floating point number, integer, boolean, concatinate
+	* idenfity: basic manipulation of strings with math
 3.	Interview sofware engineer
-4.	Present Duckett Chapter 2 and Chapter 3 slideshow
-5.	javaScript events
-6.	Responsive mobile design aspects
+4.	Continue JavaScript introduction presentation
+	* objects, DOM
+	* methods to call objects (console.log(), document.write, prompt(), alert()
+	* javaScript events
+	* functions: definition, calling, syntax
+5. Assignment [First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
 
 #Homework:
 
 *	Decide which route you will study javaScript: codecademy or treehouse
 *	Start working on javaScript content
 *	Read chapters 1-3 Duckett
-* Do [JavaScript &amp; jQuery assignment](/assignments/introduction-to-javascript-and-jquery/) - due next week.
+*	[First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
 
 #Assessment:
 
@@ -52,3 +57,4 @@ description: "Introduction to JavaScript."
 *	Ducket Chapter 1 The ABC of Programming
 *	Duckett Chapter 2 Basic JavaScript Instructions (download [ppt](/assets/presentations/javascript-c02.ppt) or [keynote](/assets/presentations/javascript-c02.key.zip))
 *	Duckett Chapter 3 Functions, Methods, Objects (download [ppt](/assets/presentations/javascript-c03.ppt) or [keynote](/assets/presentations/javascript-c03.key.zip))
+*	[First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
