@@ -1,7 +1,7 @@
 title:            Foundations
 description:      Portland Code School's Web Development Foundations
-# url:              https://portlandcodeschool.github.io/primer  # production
-url:              http://0.0.0.0:4000            # for local testing
+url:              https://portlandcodeschool.github.io/primer  # production
+#url:              http://0.0.0.0:4000            # for local testing
 disqus_shortname: pcsprimer
 
 owner:
