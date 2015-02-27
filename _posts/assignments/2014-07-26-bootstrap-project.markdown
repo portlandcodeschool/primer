@@ -42,13 +42,18 @@ Part 0 - set up the assignment
 0. Merge from master to gh-pages and push to publish your file to the web
 0. Verify that your file is available
 
-Part 1 - Start with the Bootstrap defaul theme
+Part 1 - Start with the Bootstrap default theme
 ----------------------------------
-0. Download the (source code)[http://getbootstrap.com/getting-started/] and start reading the documentation
+0. Download bootstrap in one of the following ways:
+* (source code)[http://getbootstrap.com/getting-started/] and start reading the documentation
+* Fork (bootstrap) [https://github.com/twbs/bootstrap] into your own repository from github.  
+* Set the Bootstrap cdn in your code like we did in class from codepen
+0. Copy the basic template code from http://getbootstrap.com/getting-started/ and paste it into a new html file.  Make sure the css and javaScript links to this html page
 
 Part 2 - Make a single page, scrolling responsive site
 ----------------------------------
-0. Find the Bootstrap components to match your massage therapist website
+0. Look at the Bootstrap documentation and edit the html file appropriatly for the Page Header and Navigation
+
 
 
 Part 3 - Use a sticky navbar and fixed footer
