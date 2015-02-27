@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primer Basic: Capstone Project and Presentation"
+title:  "Creating a website with a framework: Bootstap"
 description: "Build a site with your team and present your work to your peers."
 date:   2014-07-26 13:00:00
 category: assignments
