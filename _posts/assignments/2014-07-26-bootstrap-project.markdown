@@ -20,10 +20,10 @@ Bootstrap is a framework.  Instead of writing code from scratch for this project
 
 Resources
 =========
-	*	(Bootstrap tutorial)[http://www.tutorialspoint.com/bootstrap/index.htm]
-	*	(Bootstrap)[http://getbootstrap.com/]
-	*	Framework-basics treehouse badge
-	*	Building a Website with Bootstrap Treehouse badge
+* (Bootstrap tutorial)[http://www.tutorialspoint.com/bootstrap/index.htm]
+* (Bootstrap)[http://getbootstrap.com/]
+* Framework-basics treehouse badge
+* Building a Website with Bootstrap Treehouse badge
 
 
 Things to do
