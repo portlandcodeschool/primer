@@ -23,14 +23,19 @@ description: "Introduction to Bootstrap."
 1. PowerPoint presentation on Responsive Web Design
 2. Lab time to work on Mobile First and Responsive Design website
 3. Lighting Talk: Future Careers in Technology
+4. Mobile First and Responsive Design assessment
+4. Bootstrap introduction: introduce final project
 
 ##Homework:
 
 * Complete Mobile First and Responsive Web Design all iterations
+* Complete Frameworks-basic and Building a Website with Bootstrap on Treehouse
 
 
 ##Assessment:
 
 
 ##References
-	###Ducket
+	(Mobile first and Responsive Design assignment)[http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/]
+	(Bootstrap tutorial)[http://www.tutorialspoint.com/bootstrap/index.htm]
+	(Bootstrap)[http://getbootstrap.com/]

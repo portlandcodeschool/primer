@@ -10,6 +10,7 @@ description: "Introduction to JavaScript."
 * JavaScript basics: statements, functions, objects
 * jQuery basics: Selection, Event Listeners, DOM manipulation
 * Tools Exploration: Using Developer Tools to see JavaScript in action
+	
 
 #By the end of these lessons, students will be able to:
 

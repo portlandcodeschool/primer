@@ -48,9 +48,10 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 
 ##Homework:
     work on second assignment, meet with your team
+    Use jQuery to update a page by clicking a button
 
 ##Assessment:
 	Exit Card: Complete Google Form before you leave class.
 
 ##Resources
-	[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+	[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) 

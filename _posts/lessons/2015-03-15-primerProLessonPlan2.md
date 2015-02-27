@@ -15,7 +15,9 @@ description: "Mobile-first design and responsive development"
 		* Fluid & elastic layouts
 		* media queries
 		* responsive images
-0.	JavaScript basics
+		* scalable vector graphics
+0. JavaScript basics: JS events and functions, introduction to jQuery
+0. Git branching and merging refresher
 
 #By the end of this lessons, students will be able to:
 
@@ -59,3 +61,4 @@ description: "Mobile-first design and responsive development"
 	Duckett Chatper 7: jQuery
 	[Mobile First and Responsive Design](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/)
 	[jQuery](http://api.jquery.com/)
+	(git branching and merging)[http://git-scm.com/book/en/v2] Chapter 3.1-3.4 git pull requests
