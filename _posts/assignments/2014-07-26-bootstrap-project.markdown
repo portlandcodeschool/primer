@@ -22,12 +22,11 @@ Resources
 =========
 * (Bootstrap tutorial)[http://www.tutorialspoint.com/bootstrap/index.htm]
 * (Bootstrap)[http://getbootstrap.com/]
-* Framework-basics treehouse badge
-* Building a Website with Bootstrap Treehouse badge
+* Prototyping with Bootstrap Treehouse badge
 
 
 Things to do
-=====
+=========
 
 Part 0 - set up the assignment
 ----------------------------------
@@ -52,16 +51,19 @@ Part 1 - Start with the Bootstrap default theme
 
 Part 2 - Make a single page, scrolling responsive site
 ----------------------------------
-0. Look at the Bootstrap documentation and edit the html file appropriatly for the Page Header and Navigation
+0. Look at the Bootstrap documentation and edit the html file appropriatly for the Page Header and Navigation.
 
 
 
 Part 3 - Use a sticky navbar and fixed footer
 ----------------------------------
-
+0. The screencast on Building a Fixed Navbar walks you through this process really well.  If you want more of a challenge, by all means stick to the documentation and figure it out on your own.
 
 Part 4 - Use the boostrap carousel plugin
 ----------------------------------
+
+
+
 
 Presentation
 ----------------------------------
