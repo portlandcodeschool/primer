@@ -20,8 +20,8 @@ Bootstrap is a framework.  Instead of writing code from scratch for this project
 
 Resources
 =========
-* (Bootstrap tutorial)[http://www.tutorialspoint.com/bootstrap/index.htm]
-* (Bootstrap)[http://getbootstrap.com/]
+* [Bootstrap tutorial](http://www.tutorialspoint.com/bootstrap/index.htm)
+* [Bootstrap](http://getbootstrap.com/)
 * Prototyping with Bootstrap Treehouse badge
 
 
@@ -37,17 +37,17 @@ Part 0 - set up the assignment
 0. Make a repository and establish a remote on github.com. This should be review
 0. Create a gh-pages branch both locally and on github.com to set up web hosting
 0. Work on the master branch unless you are deploying via the gh-pages branch
-0. Add, commit, and push your file to github.com on master
+0. Add, commit, and push your file to [github](github.com) on master
 0. Merge from master to gh-pages and push to publish your file to the web
 0. Verify that your file is available
 
 Part 1 - Start with the Bootstrap default theme
 ----------------------------------
 0. Download bootstrap in one of the following ways:
-* (source code)[http://getbootstrap.com/getting-started/] and start reading the documentation
-* Fork (bootstrap) [https://github.com/twbs/bootstrap] into your own repository from github.  
+* [source code](http://getbootstrap.com/getting-started/) and start reading the documentation
+* Fork [bootstrap](https://github.com/twbs/bootstrap) into your own repository from github.  
 * Set the Bootstrap cdn in your code like we did in class from codepen
-0. Copy the basic template code from http://getbootstrap.com/getting-started/ and paste it into a new html file.  Make sure the css and javaScript links to this html page
+0. Copy the basic template code from [Bootstrap getting-started](http://getbootstrap.com/getting-started/) and paste it into a new html file.  Make sure the css and javaScript links to this html page
 
 Part 2 - Make a single page, scrolling responsive site
 ----------------------------------
