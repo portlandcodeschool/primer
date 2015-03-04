@@ -56,10 +56,10 @@ Treehouse is an incredible resource, and handsdown the most valuable resource yo
 
 Before you come to the first class, please complete the following badges on Treehouse
 
-1. [Beginning HTML and CSS] (http://teamtreehouse.com/library/how-to-make-a-website)
-2. [HTML First] (http://teamtreehouse.com/library/how-to-make-a-website)
-3. [What is CSS?] (http://teamtreehouse.com/library/how-to-make-a-website) Note: This is just one video in the CSS: Cascading Style Sheets badge
-4. [Why Version Control Matters] (http://teamtreehouse.com/library/git-basics)
+1. [Beginning HTML and CSS](http://teamtreehouse.com/library/how-to-make-a-website)
+2. [HTML First](http://teamtreehouse.com/library/how-to-make-a-website)
+3. [What is CSS?](http://teamtreehouse.com/library/how-to-make-a-website) Note: This is just one video in the CSS: Cascading Style Sheets badge
+4. [Why Version Control Matters](http://teamtreehouse.com/library/git-basics)
 
 
 Textbooks
