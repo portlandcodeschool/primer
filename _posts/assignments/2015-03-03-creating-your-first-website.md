@@ -25,7 +25,7 @@ Resources
 * [Beginning HTML and CSS](http://teamtreehouse.com/library/how-to-make-a-website)
 * [HTML First](http://teamtreehouse.com/library/how-to-make-a-website)
 * [What is CSS?](http://teamtreehouse.com/library/how-to-make-a-website) Note: This is just one video in the CSS: Cascading Style Sheets badge
-* [wireframe](assets/primerBasic1wireframe.png)
+* [wireframe](wireframes/primerBasic1wireframe.png)
 
 Things to do
 =========
