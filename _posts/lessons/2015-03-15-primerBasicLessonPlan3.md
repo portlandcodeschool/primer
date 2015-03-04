@@ -7,25 +7,25 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 #Primer Basic Week 3
 
 ##Objectives:
-	*	Chrome Developer Tools
-	*	Git: Basic collaboration: branching and merging using Github pages to deploy web sites
-	*	Teamwork roles and responsibilities
-	*	Project work
+*	Chrome Developer Tools
+*	Git: Basic collaboration: branching and merging using Github pages to deploy web sites
+*	Teamwork roles and responsibilities
+*	Project work
 
 ##By the end of this lessons, students will be able to:
-	*	Identify elements of a web page as they appear in Google Chrome Developer Tools
-	*	Git Push their repo to gitHub
-	*	Git Pull their repo as a collaborator in gitHub to their computer
-	*	Git Merge repos
-	*	View a website deployed by gitHub
-	*	Identify their role and responsibility in their group as they relate to the final assignment
-	*	Communicate with their group through BaseCamp
+*	Identify elements of a web page as they appear in Google Chrome Developer Tools
+*	Git Push their repo to gitHub
+*	Git Pull their repo as a collaborator in gitHub to their computer
+*	Git Merge repos
+*	View a website deployed by gitHub
+*	Identify their role and responsibility in their group as they relate to the final assignment
+*	Communicate with their group through BaseCamp
 
 
 ##Necessary materials:
-	*	Chrome Dev Tools Quiz (Google form)
-	*	Git push/pull ping pong activity for pairs
-	*	Basecamp
+*	Chrome Dev Tools Quiz (Google form)
+*	Git push/pull ping pong activity for pairs
+*	Basecamp
 
 ##Process:
 1.	Check-in:
@@ -47,11 +47,11 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 9.	Students start working on the final assignment with the remainder of class time available
 
 ##Homework:
-    work on second assignment, meet with your team
-    Use jQuery to update a page by clicking a button
+* Work on second assignment, meet with your team
+* Use jQuery to update a page by clicking a button
 
 ##Assessment:
-	Exit Card: Complete Google Form before you leave class.
+* Exit Card: Complete Google Form before you leave class.
 
 ##Resources
-	[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) 
+*[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) 

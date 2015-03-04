@@ -7,15 +7,15 @@ description: "Teamwork and client work. Project demos and walkthroughs. Retrospe
 #Primer Basic Week 4
 
 ##Objectives:
-	*	Team Collaboration
-	*	Introduction to client work: product demonstration and code walkthroughs
-	*	Primer Basic retrospective and celebration
+*	Team Collaboration
+*	Introduction to client work: product demonstration and code walkthroughs
+*	Primer Basic retrospective and celebration
 
 
 ##By the end of this lessons, students will be able to:
-	*	Reflect and recal their experience as working on a programming team  to create a product for a client
-	*	Introduce a product through demonstration and describe their coding
-	*	Identify their future goals in web development
+*	Reflect and recal their experience as working on a programming team  to create a product for a client
+*	Introduce a product through demonstration and describe their coding
+*	Identify their future goals in web development
 
 ##Necessary materials:
 
@@ -35,6 +35,6 @@ description: "Teamwork and client work. Project demos and walkthroughs. Retrospe
 	*	Spectrum between users and coders
 
 ##Homework for students continueing with Primer Pro:
-	Responsive web design Treehouse course
-	Introduction to JavaScript
-	Introduction to bootcamp
+Responsive web design Treehouse course
+Introduction to JavaScript
+Introduction to Bootcamp

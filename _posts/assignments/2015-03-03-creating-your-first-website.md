@@ -12,8 +12,8 @@ Objectives
 0. Create an html file with a basic content structure
 0. Use html elements such as <h1>, <p>, and <img>
 0. Provide reflective information inside the paragraph tags
-0. Link an external css file
-0. Add styling so the main content of your page has a right margin of 1/3 the page, the footer appears in the bottom center.
+0. Link an external css file to an html page
+0. Add styling to match the wireframes.
 0. Add other styles to make your page look unique.
 
 Overview
@@ -25,7 +25,7 @@ Resources
 * [Beginning HTML and CSS](http://teamtreehouse.com/library/how-to-make-a-website)
 * [HTML First](http://teamtreehouse.com/library/how-to-make-a-website)
 * [What is CSS?](http://teamtreehouse.com/library/how-to-make-a-website) Note: This is just one video in the CSS: Cascading Style Sheets badge
-* [wireframe](assets/primerBassic1wireframe.png)
+* [wireframe](primer/assets/primerBasic1wireframe.png)
 
 Things to do
 =========
