@@ -69,12 +69,12 @@ Complete exit card before you leave class
 
 Treehouse:
 
-*	Getting started with Git (26 minutes)
-*	Working with Remotes (3 minutes)
-*	Cloning (5 minutes)
-*	Basic Layout (CSS, 35 minutes)
-*	Add Image Gallery Content (6:49 minutes)
-*	Add New Page (8:11 minutes)
+*	[Getting started with Git](http://teamtreehouse.com/library/git-basics) (26 minutes)
+*	[Working with Remotes](http://teamtreehouse.com/library/git-basics) (3 minutes) This is located in the Working with Remote Repositories badge
+*	[Cloning](http://teamtreehouse.com/library/git-basics) (5 minutes)  This is another video in the Working with Remote Repositories badge
+*	[Basic Layout](http://teamtreehouse.com/library/css-basics) (CSS, 35 minutes)
+*	[Add Image Gallery Content](http://teamtreehouse.com/library/how-to-make-a-website)  (6:49 minutes)  This is one video in the Creating HTML Content badge
+*	[Add New Page](http://teamtreehouse.com/library/how-to-make-a-website) (8:11 minutes) This is one video in the Adding Pages to a Website badge
 
 
 ##Assessment:
