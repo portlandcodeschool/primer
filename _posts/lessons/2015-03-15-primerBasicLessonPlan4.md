@@ -35,6 +35,4 @@ description: "Teamwork and client work. Project demos and walkthroughs. Retrospe
 	*	Spectrum between users and coders
 
 ##Homework for students continueing with Primer Pro:
-Responsive web design Treehouse course
-Introduction to JavaScript
-Introduction to Bootcamp
+* [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics)

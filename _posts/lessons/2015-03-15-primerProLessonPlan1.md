@@ -43,8 +43,7 @@ description: "Introduction to JavaScript."
 
 #Homework:
 
-*	Decide which route you will study javaScript: codecademy or treehouse
-*	Start working on javaScript content
+*	[JavaScript Basics](http://teamtreehouse.com/library/javascript-basics)
 *	Read chapters 1-3 Duckett
 *	[First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
 

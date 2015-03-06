@@ -42,9 +42,9 @@ description: "More about CSS and an introduction to git"
 
 ##Homework:
 Treehouse badges:
-Branches (10 min)  
-Merging (11 min)
-Workflows (11 min)
+[Branches](http://teamtreehouse.com/library/git-basics) (10 min)  
+[Merging](http://teamtreehouse.com/library/git-basics) (11 min)
+[Workflows](http://teamtreehouse.com/library/git-basics) (11 min)
 finish pcs-primer-exercise
 
 ##Assessment: Complete by the start of the third class

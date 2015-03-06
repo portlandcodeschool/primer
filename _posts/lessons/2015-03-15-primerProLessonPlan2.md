@@ -51,9 +51,10 @@ description: "Mobile-first design and responsive development"
 
 #Homework:
 
+0. Treehouse [JavaScript Loops, Arrays and Objects](http://teamtreehouse.com/library/javascript-loops-arrays-and-objects)
+0. Treehouse [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 This week's homework is creating a small magazine using mobile-first, responsive design. [Here are the instructions.](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design)
 0. Complete part 1 and part 2 of resonsive design project by the next class.
-0. Continue working on treehouse and code academy
 0. Finish part 3 & 4 by Thursday class time.
 
 #Assessment:

@@ -28,14 +28,15 @@ description: "Introduction to Bootstrap."
 
 ##Homework:
 
-* Complete Mobile First and Responsive Web Design all iterations
-* Complete Frameworks-basic and Building a Website with Bootstrap on Treehouse
+0. [Framework Basics](http://teamtreehouse.com/library/framework-basics)
+0. Complete Mobile First and Responsive Web Design all iterations
+0. Complete Frameworks-basic and Building a Website with Bootstrap on Treehouse
 
 
 ##Assessment:
 
 
 ##References
-	(Mobile first and Responsive Design assignment)[http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/]
-	(Bootstrap tutorial)[http://www.tutorialspoint.com/bootstrap/index.htm]
-	(Bootstrap)[http://getbootstrap.com/]
+[Mobile first and Responsive Design assignment](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/)
+[Bootstrap tutorial](http://www.tutorialspoint.com/bootstrap/index.htm)
+[Bootstrap](http://getbootstrap.com/)
