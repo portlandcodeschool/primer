@@ -8,11 +8,13 @@ modified: 2015-02-15 20:42
 
 This is the syllabus for two classes in the Web Foundations Series.
 
-The Web Development Series is Portland Code School's introduction to web development. These courses introduces students with the opportunity to build modern websites and receive feedback to help those students reach their goals in the web development industry.  The Primer Basic aims at introducing programming languages necessary to build websites with the support and feedback available to students from experienced coders.  This is what differentiates Portland Code School from other programs, whether that be a University setting, a community college, or an online website with a curriculum and a forum.  The Primer Pro equips students with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub.  
+The Web Development Series is Portland Code School's introduction to web development. These courses introduce students with the opportunity to build modern websites and receive feedback to help those students reach their goals in the web development industry.  The Primer Basic aims at introducing programming languages necessary to build websites with the support and feedback available to students from experienced coders.  This is what differentiates Portland Code School from other programs, whether that be a University setting, a community college, another coding bootcamp, or an online website with a curriculum and a forum.  The Primer Pro equips students with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub.  
+
+As you check out our website, think a little on the following questions:
 
 * Do you already know how to code and want to skip ahead? Please contact us and we can discuss alternative solutions.
 * Perhaps you're ready to take the extra step and develop some of the soft skills that will set you appart from competing job prospects.  Along with becoming successful at speaking the programming langauges, students in Primer Basic will also have the oppertunity to develop soft skills such as leadership, collaboration, and problem solving.
-* What is your goal?
+* What are your goals?
 * Are you curious about coding?
 * Are you interested in supplementing your income?  
 
@@ -20,7 +22,7 @@ or
 
 * Are you passionate about pursuing a career in web development?
 
-The Primer Basic is for students that may not be sure how to answer those questions.  The average amount of time devoted to develop the skills taught in class is about an hour a day.  Everyone learns differently.  If you want to be good at something, you'll enjoy speidng time learning how to be good at it.
+The Primer Basic is for students that may not be sure how to answer those questions.  The average amount of time devoted to develop the skills taught in class is about an hour a day.  Everyone learns differently.  If you want to be good at something, you'll enjoy spendng time learning how to be good at it.
 
 Upon successful completion of the Primer Basic class, every student will be ready to:
 
@@ -115,9 +117,11 @@ At Portland Code School, the instructors value your time and they expect you to 
 
 There are two primary assignements in the Primer Basic.  These are project-based assignments and mirror projects you would find in a job.  
 
-First, you will update a website for a client with html and css.
+First, you'll create a basic web page with elements such as header, footer, div, paragraphs, and images.  Check out the [project guide](http://portlandcodeschool.github.io/primer/assignments/creating-your-first-website/) for more details.
 
-Second, you'll collaborate within a team to create a new website for a client.
+Second, you will update a website for a client with html and css.
+
+Next, you'll collaborate within a team to create a new website for a client.
 
 Assessment is a fancy education word that is often associated with grades.  Since we don't give grades at Portland Code School, assessment means something else:
 
