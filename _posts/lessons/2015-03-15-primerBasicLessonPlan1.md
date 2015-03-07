@@ -49,7 +49,7 @@ Students share something about themselves to their partner (work experience, nam
 3, Introduction of content and prerequisites
 *	Navigation of Treehouse
 * Slack
-* Sublime Text
+* Sublime Text (or Atom)
 4. Check that everyone has all required programs downloaded and a computer to work from
 5. HTML and CSS introduction: instructor verbalizes what he/she is doing from sublime text.  Ask questions occasionally to check for understanding and gage student engagement
 * 	Define html and css
@@ -59,13 +59,18 @@ Students share something about themselves to their partner (work experience, nam
 6. Command Line Basic Commands: pwd, ls, cd, open, mkdir
 
 7. Introduce 1st assignment:
-	guide students through the process as a group on where to access the pcs_primer_exercise
+	guide students through the process as a group on where to access the
 	Collectively, walk through the handout.  Check for confusion, identify key compoents
 
 
 ##Homework:
 
-Complete exit card before you leave class
+* Read "25 Things Skilled Learners Do Differently" and choose one that you will use immediately. (Due by second session)
+* Finish the [Your First Web Page] assignment
+* Take this survey as a "pre-test" - a way for us to know where everybody is when they first come to class
+* Do the Treehouse screencast
+[How to make a web site](http://teamtreehouse.com/library/how-to-make-a-website)  (About 6 hours for all badges - take it in small chunks)
+
 
 Treehouse:
 
@@ -79,7 +84,6 @@ Treehouse:
 
 ##Assessment:
 
-*	Exit Card: Complete Google Form before you leave class.
 *	Quiz: basic elements of html and css elements, and questions on what to do to get around on command line
 
 ##References
