@@ -55,7 +55,7 @@ Part 2 - Create header, footer, and content div
 0. In the div, assign the class container.
 0. In the footer, create another h1 tag and label this copyright [your name] 2015
 	*. the html for the copyright symbol is [&copy]
-0. Your page in the browser should now show the h1 elements for the header and footer and they should appear in the top right corner of the window.
+0. Your page in the browser should now show the h1 elements for the header and footer and they should appear in the top left corner of the window.
 
 Part 3 - create content in div
 ----------------------------------
