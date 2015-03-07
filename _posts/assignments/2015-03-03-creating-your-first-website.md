@@ -50,7 +50,7 @@ Part 1 - Start Creating Content structure
 
 Part 2 - Create header, footer, and content div
 ----------------------------------
-0. Inside the body tag, create a opening and closeing tags for the following elements: header, div, footer.
+0. Inside the body tag, create a opening and closing tags for the following elements: header, div, footer.
 0. Within the header tag, create an h1 tag and label this the same as your title that appears in the head.
 0. In the div, assign the class container.
 0. In the footer, create another h1 tag and label this copyright [your name] 2015
