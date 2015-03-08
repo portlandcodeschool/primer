@@ -46,19 +46,21 @@ Part 0 - Set up the assignment
 Part 1 - Start creating content structure
 ----------------------------------
 0. All tags after this point should be between the opening and closing <kbd>html</kbd> tag.
-0. Create an opening and closing <kbd>head</kbd> tag with a opening and closing <kbd>title</kbd> tag. In between this <kbd>title</kbd> tag, type your name.  0. Save the file
+0. Create an opening and closing <kbd>head</kbd> tag with a opening and closing <kbd>title</kbd> tag. In between this <kbd>title</kbd> tag, type your name.  
+0. Save the file
 0. Open the file in the Chrome web browser.  You can do this by clicking on the icon where you saved the file, or you can locate the file  on the terminal and type: open [fileName].  This should open up your default browser and show your content. If Chrome is not your default browser, make it so at least during this coding session.
 0. There should be nothing but a white page, but on the top of the window, the tab will have your name.  The browser address should also show something like this: file:///Users/[yourUserName]/[pathToYourFile]/[yourFileName].html
 0. Below the closing <kbd>head</kbd> tag, create an opening and closing body tag.  At this point, all tags (except for the title tag) should have zero indentation.
 
 Part 2 - Create header, footer, and content div
 ----------------------------------
+
 0. Inside the <kbd>body</kbd> tag, create opening and closing tags for the following elements: <kbd>header</kbd>, <kbd>div</kbd>, <kbd>footer</kbd>.
 0. Within the <kbd>header</kbd> tag, create an <kbd>h1</kbd> tag and label this the same as your title that appears in the head element.
 0. In the div element, assign the class attribute container so that the opening tag looks like <kbd><div class="container"></kbd>.
 0. In the footer, create another h1 element and use the content: "Copyright [your name] &copy; 2015".
-	*. the html for the copyright symbol is [&copy]
-0. Your page in the browser should now show the h1 elements for the header and footer and they should appear in the top right corner of the window.
+	*. the html for the copyright symbol is <kbd>&copy;<kbd>
+0. Your page in the browser should now show the h1 elements for the header and footer and they should appear in the top left corner of the window.
 
 Part 3 - create content in div
 ----------------------------------
