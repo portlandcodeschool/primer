@@ -39,7 +39,7 @@ Part 0 - set up the assignment
 0. Clone the repo to your local machine at "~/Documents/pcs/journal"
 0. Create a gh-pages branch both locally and on github.com to set up web hosting
 0. Work on the master branch until you deploy to the gh-pages branch
-0. Download [this zip file]() and unpack it into your repo. This file set is a simple web site created from HTML5 Boilerplate, a very reliable template to use when you start a new web site.
+0. Download [this zip file](https://github.com/portlandcodeschool/primer/blob/master/_posts/assignments/journal/site.zip) and unpack it into your repo. This file set is a simple web site created from HTML5 Boilerplate, a very reliable template to use when you start a new web site.
 0. Add all the files, commit them, and push master to github.
 0. Merge from master to gh-pages and push to publish your file to the web
 0. Verify that your site is available on the web.
