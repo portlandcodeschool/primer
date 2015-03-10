@@ -23,7 +23,7 @@ The site for this assignment is your own personal journal. You will start this p
 Resources
 =========
 * [HTML 5 Boilerplate](https://html5boilerplate.com/)
-* You can get a bunch of easy placeholder images at http://placehold.it/ (conveniently shows image size) or http://lorempixel.com/
+* You can get a bunch of easy placeholder images at [http://placehold.it/](conveniently shows image size) or http://lorempixel.com/
 * You can get a bunch of fun SVG icons at [The Noun Project](http://thenounproject.com/).
 * Here's a list of fun [lorem ipsum generators.](http://mashable.com/2013/07/11/lorem-ipsum/)
 
