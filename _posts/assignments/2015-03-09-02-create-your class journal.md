@@ -13,7 +13,7 @@ Objectives
 0. Create a site from a template
 0. Control page layout and style using HTML5 elements and CSS styling
 0. Publish the site using github pages
-0. Work on a small team
+
 
 
 Overview
