@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creating your first website"
+title:  "01 Creating your first website"
 description: "Build a site."
 date:   2015-03-03 13:00:00
 category: assignments
