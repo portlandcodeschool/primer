@@ -20,9 +20,7 @@ description: "Teamwork and client work. Project demos and walkthroughs. Retrospe
 ##Necessary materials:
 
 ##Process:
-1.	Check-in:
-	*	Hand Shake partners share something they liked, High Five partners share something they’re struggling with
-	*	Zip-Zap-Zop Level 3
+1. Start-up activity
 2.	Q/A session on concerns/problems
 		*	Identify students that only signed up for primer basic and provide them with the information to continue to primer pro if they wish
 3.	Verbalize expectations for product demonstration and code walkthrough

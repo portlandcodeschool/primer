@@ -33,11 +33,7 @@ description: "Mobile-first design and responsive development"
 	*
 
 #Process
-0. Opening: check-in with group
-	1. What did you do yesterday?
-	2. What did you do today?
-	3. What are you going to do next?
-	4. What are your blocks?
+0. Start-up activity
 0. Open Lab time on [First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
 0. Open Discussion on [First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
 0. Review loops: while, for

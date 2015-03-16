@@ -28,10 +28,7 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 *	Basecamp
 
 ##Process:
-1.	Check-in:
-	*	Hand Shake partners share something they liked, High Five partners share something they’re struggling with
-	*	Zip-Zap-Zop Level 3
-
+1. Start-up activity
 2.	Chrome Dev Tools Quiz
 3.	Git Push/Pull ping pong
 4.  CodePen exercise: create a nav that moves with the page

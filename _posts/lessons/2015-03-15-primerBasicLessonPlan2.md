@@ -26,9 +26,7 @@ description: "More about CSS and an introduction to git"
 *	pcs-primer-exercise repository
 
 ##Process:
-1.	Beginning of class:
-	*	Check-in: Hand Shake partners share something they liked, High Five partners share something they’re struggling with
-	*	Zip-Zap-Zop level 1
+1.	Start-up activity
 2.	Git: instructor guides on projector and speaks what he/she is doing.  Students follow along from their own computers, take notes, and ask questions as they arise
     *   Create a new repository from GitHub
 	*	Clone a repository (pcs-primer-exercise, or use a blank repo with a index.html file)
