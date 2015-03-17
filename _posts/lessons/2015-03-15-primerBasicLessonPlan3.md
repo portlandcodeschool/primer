@@ -7,17 +7,18 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 #Primer Basic Week 3
 
 ##Objectives:
-*	Chrome Developer Tools
-*	Git: Basic collaboration: branching and merging using Github pages to deploy web sites
+*	Use Chrome Developer Tools to explore DOM HTML & CSS
+*	Git: Basic collaboration: cloning, branching and merging using Github pages to deploy web sites
 *	Teamwork roles and responsibilities
-*	Project work
+*	Project work using Basecamp as a project web site
 
 ##By the end of this lessons, students will be able to:
 *	Identify elements of a web page as they appear in Google Chrome Developer Tools
-*	Git Push their repo to gitHub
-*	Git Pull their repo as a collaborator in gitHub to their computer
-*	Git Merge repos
-*	View a website deployed by gitHub
+* Clone a single github repo and use the remotes for collaboration
+*	Git push their branch in their repo to the github remote
+*	Git pull their branch from the gitHub remote to their computer repo
+*	Git merge branches in repos, resolving merge conflicts as necessary.
+*	View a website deployed by github
 *	Identify their role and responsibility in their group as they relate to the final assignment
 *	Communicate with their group through BaseCamp
 
@@ -35,20 +36,20 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 5.	Introduce final assignment:
 	*	Walk through Basecamp: to-do lists, client briefs
 6.	Discuss roles and responsibilities of team work
-7.	Create teams for second assignment
-	*	Students line up by their percieved proficiency
+7.	Create teams for third assignment
+	*	Students line up by their perceived proficiency
 	*	The end of the line wraps back to the front of the line so there are two columns
 	*	Instructor defines characteristics of an effective team
-	*   Students create their own teams and team name
-8.	Introduce second assignment
+	* Students create their own teams and team name
+8.	Introduce third assignment
 9.	Students start working on the final assignment with the remainder of class time available
 
 ##Homework:
-* Work on second assignment, meet with your team
+* Work on third assignment, meet with your team
 * Use jQuery to update a page by clicking a button
 
 ##Assessment:
 * Exit Card: Complete Google Form before you leave class.
 
 ##Resources
-*[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) 
+*[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
