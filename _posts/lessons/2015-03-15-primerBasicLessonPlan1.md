@@ -14,17 +14,15 @@ description: "Review the pre-work, meet the class, and starting learning about H
 
 ##By the end of this lessons, students will be able to:
 
-*   Recall at least two other students and a Teacher Assistant by name
-*   Ask questions in the course Slack channel
-*   Schedule an appointment with the instructor
+*	Locate instructional materials and have access to the Slack channel
 *   Identify their course goals and areas of improvement
-*   Identify the purpose of html, css, and javaScript on a website
-*   Define the basic structure of an html element and a css rule
-*   Create a basic website using HTML and CSS with Sublime Text
+*   Identify the purpose of HTML, CSS, and JavaScript on a website
+*   Define the basic structure of an HTML element and a CSS rule
+*   Create a basic website using HTML and CSS with a text editor
 [Head, Body: Header, content, Footer] [h1, h2, div, nav, ul, ol, li, p]
 [class, id, background-color, color, border]
 *   Define situational awareness on the command line
-*   Navigate in the command line by using commands such as change directory, print working direcory, and list
+*   Navigate the command line by using commands such as change directory, print working direcory, and list
 *   Define and describe the purpose of git and github
 
 ##Necessary materials:
@@ -38,12 +36,7 @@ description: "Review the pre-work, meet the class, and starting learning about H
 *   Google form: assess student confidence
 
 ##Process
-1. Introductions:
-*	Partners: the same process is used to create two unique pairs (a handshake partner and a high-five partner)
-*	Students stand in a large circle and walk directly into the center of the cirgle to meet someone they don’t know
-*	Student pairs create a unique handshake or high-five
-Students share something about themselves to their partner (work experience, name, interests)
-*	As a group, parnters share each others information with the whole class
+1. Start-up activity
 2. Review the course syllabus
 	Identify where to locate the syllabus, what the course schedule it, what the expections on assignments are, grading policy
 3, Introduction of content and prerequisites

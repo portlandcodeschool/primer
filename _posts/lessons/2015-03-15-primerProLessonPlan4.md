@@ -18,8 +18,7 @@ description: "More Boostrap. Project demos and walkthroughs. Retrospective & nex
 	*
 
 ##Process
-1. Opening:
-	*
+1. Start-up activity
 2. Lab: work on Bootstap website
 3. Demo website and code
 4. Course Retrospective
