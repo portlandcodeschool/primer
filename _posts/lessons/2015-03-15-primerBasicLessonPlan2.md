@@ -18,7 +18,7 @@ description: "More about CSS and an introduction to git"
 *	Edit a repository
 *	Stage changes to a repository (git add)
 *	Commit changes to a repository
-*	Manipulate elements on an html page through css styling and positioning within 	the cascade
+*	Manipulate elements on an html page through css styling and positioning within the cascade
 
 
 ##Necessary materials:

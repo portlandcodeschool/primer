@@ -26,7 +26,6 @@ description: "Mobile-first design and responsive development"
 
 * complete responsive project part 1: raw html % mobile layout
 *	complete menu animation javaScript
-* 	identify basic components of javaScript
 
 
 #Necessary materials:

@@ -71,25 +71,43 @@ This class has no prerequisites.  You will receive an email one week before clas
 
 At successful completion of the Primer Basics, students will be able to:
 
-* Use HTML to create simple web pages, using structural elements, tables, and forms
-* Use CSS to style simple web pages, including layout, color, and fonts
-* Copy simple JavaScript functions to respond to browser events and perform minor DOM manipulations
-* Use the command line to manipulate files and perform source control operations
-* Use a code editor to read and create code
-* Use Git repositories, commits, and pushes to save and safeguard their work
-* Use Git branching to take part in a team project
-* Use GitHub pages to deploy a simple website
-* Follow a project plan as a member of a team
+*   Identify the purpose of HTML, CSS, and JavaScript on a website
+*   Define the basic structure of an HTML element and a CSS rule
+*   Create a basic website using HTML and CSS with a text editor
+*   Define situational awareness on the command line
+*   Navigate the command line by using commands such as change directory, print working direcory, and list
+*   Define and describe the purpose of git and github
+*   Create a new repository on gitHub
+*	Clone a git repository
+*	Check the status of a repository
+*	Edit a repository
+*	Stage changes to a repository (git add)
+*	Commit changes to a repository
+*	Create a live static site through gh-pages
+*	Manipulate elements on an html page through css styling and positioning within the cascade
+*	Identify elements of a web page as they appear in Google Chrome Developer Tools
+* 	Clone a single github repo and use the remotes for collaboration
+*	Git push their branch in their repo to the github remote
+*	Git pull their branch from the gitHub remote to their computer repo
+*	Git merge branches in repos, resolving merge conflicts as necessary.
+*	View a website deployed by github
+*	Identify their role and responsibility in their group as they relate to the final assignment
+*	Communicate with their group through [BaseCamp](https://basecamp.com/)
+*	Present a product demonstration and code walkthrough
 
 At successful completion of the Primer Pro, students will **also** be able to:
-
-* Use HTML5 and JavaScript to perform form validation
-* Use the principles of mobile-first development and design
-* Use Bootstrap to style responsive web pages
-* Write simple JavaScript from scratch to build simple user interface patterns
-* Use Git branching, merging, and pull requests to integrate code from several team members
-* Provide simple customer analysis and design for a small web site
-* Take part in project management planning, monitoring, and communicating status for a small web development team
+* 	Identify the basic elements of JavaScript
+*  	Write JavaScript statements, variables, strings, numbers, and arrays
+* 	Print JavaScript commands to an html page and the console
+* 	Write simple JavaScript functions that respond to clicks and change page content
+* 	Apply the Chrome Developer tools to identify JavaScript elements
+* 	Apply the principles of mobile-first development and design
+* 	Create JavaScript functions
+* 	Describe and recognize the components of fluid layout
+* 	Describe and recognize different methods of relative measurement
+* 	Describe different image file types and what each is best used for
+* 	Create a website by using Bootstrap framework
+* 	Use Git branching, merging, and pull requests to integrate code from several team members
 
 # Schedule and Curriculum
 

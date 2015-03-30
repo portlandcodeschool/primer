@@ -14,13 +14,13 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 
 ##By the end of this lessons, students will be able to:
 *	Identify elements of a web page as they appear in Google Chrome Developer Tools
-* Clone a single github repo and use the remotes for collaboration
+* 	Clone a single github repo and use the remotes for collaboration
 *	Git push their branch in their repo to the github remote
 *	Git pull their branch from the gitHub remote to their computer repo
 *	Git merge branches in repos, resolving merge conflicts as necessary.
 *	View a website deployed by github
 *	Identify their role and responsibility in their group as they relate to the final assignment
-*	Communicate with their group through BaseCamp
+*	Communicate with their group through [BaseCamp](https://basecamp.com/)
 
 
 ##Necessary materials:

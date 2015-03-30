@@ -14,6 +14,9 @@ description: "Introduction to JavaScript."
 
 #By the end of these lessons, students will be able to:
 
+0. Identify the basic elements of JavaScript
+0. Write JavaScript statements, variables, strings, numbers, and arrays
+0. Print JavaScript commands to an html page
 0. Write simple JavaScript functions that respond to clicks and change page content
 0. Use the Chrome Developer tools to do the following
 	* Displaying the developer tools
