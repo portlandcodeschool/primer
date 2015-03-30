@@ -18,7 +18,7 @@ description: "More about CSS and an introduction to git"
 *	Edit a repository
 *	Stage changes to a repository (git add)
 *	Commit changes to a repository
-*	Manipulate elements on an html page through css styling and positioning within 	the cascade
+*	Manipulate elements on an html page through css styling and positioning within the cascade
 
 
 ##Necessary materials:
@@ -40,9 +40,9 @@ description: "More about CSS and an introduction to git"
 
 ##Homework:
 Treehouse badges:
-[Branches](http://teamtreehouse.com/library/git-basics) (10 min)  
-[Merging](http://teamtreehouse.com/library/git-basics) (11 min)
-[Workflows](http://teamtreehouse.com/library/git-basics) (11 min)
+* [Branches](http://teamtreehouse.com/library/git-basics) (10 min)  
+* [Merging](http://teamtreehouse.com/library/git-basics) (11 min)
+* [Workflows](http://teamtreehouse.com/library/git-basics) (11 min)
 finish pcs-primer-exercise
 
 ##Assessment: Complete by the start of the third class

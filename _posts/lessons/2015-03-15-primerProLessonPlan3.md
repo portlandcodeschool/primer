@@ -26,11 +26,11 @@ description: "Introduction to Bootstrap."
 4. Mobile First and Responsive Design assessment
 4. Bootstrap introduction: introduce final project
 
-##Homework:
+##Homework Treehouse:
 
-0. [Framework Basics](http://teamtreehouse.com/library/framework-basics)
+0. [Framework Basics](http://teamtreehouse.com/library/framework-basics).  Focus on Introduction to Front-End Frameworks and Prototyping with Bootstrap
 0. Complete Mobile First and Responsive Web Design all iterations
-0. Complete Frameworks-basic and Building a Website with Bootstrap on Treehouse
+
 
 
 ##Assessment:

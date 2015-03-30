@@ -14,13 +14,13 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 
 ##By the end of this lessons, students will be able to:
 *	Identify elements of a web page as they appear in Google Chrome Developer Tools
-* Clone a single github repo and use the remotes for collaboration
+* 	Clone a single github repo and use the remotes for collaboration
 *	Git push their branch in their repo to the github remote
 *	Git pull their branch from the gitHub remote to their computer repo
 *	Git merge branches in repos, resolving merge conflicts as necessary.
 *	View a website deployed by github
 *	Identify their role and responsibility in their group as they relate to the final assignment
-*	Communicate with their group through BaseCamp
+*	Communicate with their group through [BaseCamp](https://basecamp.com/)
 
 
 ##Necessary materials:
@@ -46,10 +46,13 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 
 ##Homework:
 * Work on third assignment, meet with your team
-* Use jQuery to update a page by clicking a button
 
-##Assessment:
-* Exit Card: Complete Google Form before you leave class.
+Treehouse:
+* Start focusing on [How to make a website](http://teamtreehouse.com/library/how-to-make-a-website)
+* [CSS Foundations](http://teamtreehouse.com/library/css-foundations) is another great course to take with lots of information on css techniques, along with [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
+* [HTML Video and Audio](http://teamtreehouse.com/library/html-video-and-audio)
+
+
 
 ##Resources
 *[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)

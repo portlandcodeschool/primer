@@ -34,3 +34,4 @@ description: "Teamwork and client work. Project demos and walkthroughs. Retrospe
 
 ##Homework for students continueing with Primer Pro:
 * [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics)
+* Focus specifically on Introducing JavaScript, Storing and Tracking Information with Variables, and Working with Numbers

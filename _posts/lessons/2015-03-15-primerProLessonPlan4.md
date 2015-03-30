@@ -7,7 +7,7 @@ description: "More Boostrap. Project demos and walkthroughs. Retrospective & nex
 #Primer Pro Week 4
 
 ##Objectives:
-	*
+	* Use Bootstrap to style responsive web pages
 
 ##By the end of this lessons, students will be able to:
 
@@ -15,7 +15,7 @@ description: "More Boostrap. Project demos and walkthroughs. Retrospective & nex
 
 
 ##Necessary materials:
-	*
+	* [Bootstrap](http://getbootstrap.com/)
 
 ##Process
 1. Start-up activity
@@ -26,9 +26,7 @@ description: "More Boostrap. Project demos and walkthroughs. Retrospective & nex
 
 ##Homework:
 	*Complete final project, be ready for presentation on final class
-
-##Assessment:
-
-
-##References
-	###Ducket
+	* Sign up for a JavaScript class! 
+	* complete more badges on Treehouse
+	* Attend [Meet Ups](http://www.meetup.com/) such as [Hack and Help](http://hackandhelp.com/)
+	* Code everyday
