@@ -96,18 +96,19 @@ At successful completion of the Primer Basics, students will be able to:
 *	Present a product demonstration and code walkthrough
 
 At successful completion of the Primer Pro, students will **also** be able to:
-* 	Identify the basic elements of JavaScript
-*  	Write JavaScript statements, variables, strings, numbers, and arrays
-* 	Print JavaScript commands to an html page and the console
-* 	Write simple JavaScript functions that respond to clicks and change page content
-* 	Apply the Chrome Developer tools to identify JavaScript elements
-* 	Apply the principles of mobile-first development and design
-* 	Create JavaScript functions
-* 	Describe and recognize the components of fluid layout
-* 	Describe and recognize different methods of relative measurement
-* 	Describe different image file types and what each is best used for
-* 	Create a website by using Bootstrap framework
-* 	Use Git branching, merging, and pull requests to integrate code from several team members
+
+*	Identify the basic elements of JavaScript
+*	Write JavaScript statements, variables, strings, numbers, and arrays
+*	Print JavaScript commands to an html page and the console
+*	Write simple JavaScript functions that respond to clicks and change page content
+*	Apply the Chrome Developer tools to identify JavaScript elements
+*	Apply the principles of mobile-first development and design
+*	Create JavaScript functions
+*	Describe and recognize the components of fluid layout
+*	Describe and recognize different methods of relative measurement
+*	Describe different image file types and what each is best used for
+*	Create a website by using Bootstrap framework
+*	Use Git branching, merging, and pull requests to integrate code from several team members
 
 # Schedule and Curriculum
 
