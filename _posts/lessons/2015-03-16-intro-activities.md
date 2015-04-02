@@ -43,3 +43,14 @@ A block is something you're stuck on and you don't know what to do next.
 Purpose: This is an improvisational game designed to help students think outside of what they've been doing all day.
 *Level 1: Students stand in a cirle.  In turn, each student says a word or group of words that have only 3 sylables.
 *Level 2: Students must wait to think of their 3 syllables until their partner says their 3 syllables and must respond to that 3 syllables.
+
+##Memory Train
+1.	Stand in a circle
+2.	Think of a vocabulary word specific to html
+3.	You’re going to say that word to the person to your left after the person to your right says their word to you (do this, encourage students to get faster)
+4.	Change direction: now say the word to the person to the right of you
+5.	Now you can choose which direction you want to go in
+6.	Next, change standing spots in the room.  You still keep the same partners.
+7.	Switch languages, try css
+8.	Add both languages moving at the same time.  Instructor starts one train, then starts another
+9.	Add another language: javaScript
