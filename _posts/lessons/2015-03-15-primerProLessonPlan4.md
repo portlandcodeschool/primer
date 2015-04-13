@@ -25,7 +25,7 @@ description: "More Boostrap. Project demos and walkthroughs. Retrospective & nex
 5. Provide information on future courses at PCS
 
 ##Homework:
-*Complete final project, be ready for presentation on final class
+* Complete final project, be ready for presentation on final class
 * Sign up for a JavaScript class! 
 * complete more badges on Treehouse
 * Attend [Meet Ups](http://www.meetup.com/) such as [Hack and Help](http://hackandhelp.com/)
