@@ -7,17 +7,17 @@ description: "Introduction to Bootstrap."
 #Primer Pro Week 3
 
 ##Objectives:
-	* Basic principals of responsive web design
+* Basic principals of responsive web design
 
 ##By the end of this lessons, students will be able to:
 
-	* create media queries to make websites responsive to different screen sizes
-	* understand and recognize the components of fluid layout
-	* understand and recognize different methods of relative measurement
-	* understand different image file types and what each is best used for
+* create media queries to make websites responsive to different screen sizes
+* understand and recognize the components of fluid layout
+* understand and recognize different methods of relative measurement
+* understand different image file types and what each is best used for
 
 ##Necessary materials:
-	* 
+* Refur to References section
 
 ##Process
 1. PowerPoint presentation on Responsive Web Design
@@ -34,9 +34,9 @@ description: "Introduction to Bootstrap."
 
 
 ##Assessment:
-
+* Monitor gitHub commits from Bootstrap project
 
 ##References
-[Mobile first and Responsive Design assignment](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/)
-[Bootstrap tutorial](http://www.tutorialspoint.com/bootstrap/index.htm)
-[Bootstrap](http://getbootstrap.com/)
+* [Mobile first and Responsive Design assignment](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/)
+* [Bootstrap tutorial](http://www.tutorialspoint.com/bootstrap/index.htm)
+* [Bootstrap](http://getbootstrap.com/)
