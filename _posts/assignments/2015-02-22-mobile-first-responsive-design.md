@@ -31,13 +31,13 @@ The articles should scroll, but no scroll bar should appear. They are too small 
 
 Each article will have one image. They should be very small in the HTML-only version, very small in the mobile version, and larger with a click-through to full size on the large version.
 
-Test your work using Chrome Developer Tools in "device mode."  https://developer.chrome.com/devtools/docs/device-mode
+Test your work using Chrome Developer Tools in "device mode."  [device-mode](https://developer.chrome.com/devtools/docs/device-mode)
 
 Feel free to use real devices to test your site when it is live on the web.
 
 Resources
 =========
-* You can get a bunch of easy placeholder images at http://placehold.it/ (conveniently shows image size) or http://lorempixel.com/
+* You can get a bunch of easy placeholder images at [placehold.it](http://placehold.it/) (conveniently shows image size) or [lorempixel](http://lorempixel.com/)
 * You can get a bunch of fun SVG icons at [The Noun Project](http://thenounproject.com/).
 * Here's a list of [lorem ipsum generators.](http://mashable.com/2013/07/11/lorem-ipsum/)
 
