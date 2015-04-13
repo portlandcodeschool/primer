@@ -56,9 +56,9 @@ This week's homework is creating a small magazine using mobile-first, responsive
 
 
 ##References
-	[Responsive Design Presentations](http://portlandcodeschool.github.io/primer/presentations/ResponsiveDesign.pdf)
-	Duckett Chapter 6: events
-	Duckett Chatper 7: jQuery
-	[Mobile First and Responsive Design](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/)
-	[jQuery](http://api.jquery.com/)
-	(git branching and merging)[http://git-scm.com/book/en/v2] Chapter 3.1-3.4 git pull requests
+[Responsive Design Presentations](http://portlandcodeschool.github.io/primer/presentations/ResponsiveDesign.pdf)
+Duckett Chapter 6: events
+Duckett Chatper 7: jQuery
+[Mobile First and Responsive Design](http://portlandcodeschool.github.io/primer/assignments/mobile-first-responsive-design/)
+[jQuery](http://api.jquery.com/)
+[git branching and merging](http://git-scm.com/book/en/v2) Chapter 3.1-3.4 git pull requests
