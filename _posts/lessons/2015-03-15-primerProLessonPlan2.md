@@ -29,7 +29,7 @@ description: "Mobile-first design and responsive development"
 
 
 #Necessary materials:
-	*
+* Refur to References section
 
 #Process
 0. Start-up activity
@@ -53,7 +53,7 @@ This week's homework is creating a small magazine using mobile-first, responsive
 0. Finish part 3 & 4 by Thursday class time.
 
 #Assessment:
-
+* Monitor gitHub commits from Mobile First and Responsive Design project
 
 ##References
 [Responsive Design Presentations](http://portlandcodeschool.github.io/primer/presentations/ResponsiveDesign.pdf)
