@@ -93,7 +93,7 @@ Use CSS and JavaScript to style the site using mobile user interface patterns:
 * This should use fluid layout so that it works in either portrait or landscape mode on a "small" smartphone. Do not use media queries to handle orientation in this step.
 
 ### Steps
-0. Add a menu <kbd>div</kbd> in a place that does not impact your HTML-only version (HINT: this div may need to be set aside or or perhaps even off of the main canvas of your html page)
+0. Add a menu <kbd>div</kbd> in a place that does not impact your HTML-only version (HINT: this div may need to be set aside or perhaps even off of the main canvas of your html page)
 0. Add a stylesheet to implement the mobile user interface elements
 0. Link to the [jQuery](http://jquery.com/) and [jQuery UI](http://jqueryui.com/) libraries using a [content delivery network](https://developers.google.com/speed/libraries/devguide)
   * ````<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>````
