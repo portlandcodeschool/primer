@@ -10,7 +10,7 @@ comments: true
 Objectives
 ==========
 0. Create an html file with a basic content structure
-0. Use html elements such as <h1>, <p>, and <img>
+0. Use html elements such as <html>, <div>, <style>, <h1>, <p>, and <img>
 0. Provide reflective information inside the paragraph tags
 0. Link an external css file to an html page
 0. Add styling to match the wireframes.
@@ -36,7 +36,7 @@ Part 0 - Set up the assignment
 ### Steps
 0. Create a folder named "pcs" in your Documents folder.
 0. Create a new folder inside the pcs folder and give it the name of this project.  This name should be unique.  
-0. Open up your editor (Sublime Text)
+0. Open up your text editor (Sublime Text)
 0. Create a new file [file, new-file or cmd n] and save [cmd s or file, save].  Name the file [index.html]  Be sure to save this file in the folder you created for this project.
 0. If you are using Sublime Text, click on [view], find [sidebar] and select [show sidebar].  Next, drag that folder into the sidebar.
 0. One line 1, insert <kbd><!DOCTYPE html></kbd>.
