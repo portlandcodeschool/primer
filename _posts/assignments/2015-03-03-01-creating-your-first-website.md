@@ -98,7 +98,7 @@ Part 5 - Convert your folder to a git repo
 Part 6 - Publish your site using github.com
 --------------------------------------------
 0. Create a repository on github with the same name as your project folder.
-0. Follow the directions displayed on github to connect the git repository on your laptop with your new github.com repo. Enter the commands into the Terminal command on your laptop.
+0. From your terminal, connect your local repository to your remote repository: git remote add origin [url_from_github]
 0. On your laptop, push your changes up to github using the command <kbd>git push origin master<kbd>
 0. Verify that your files are now on github
 0. Create a new branch called "gh-pages" on github. This will magically create a web server for you. It can take up to an hour.
