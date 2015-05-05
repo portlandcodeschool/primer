@@ -97,6 +97,7 @@ Part 5 - Convert your folder to a git repo
 
 Part 6 - Publish your site using github.com
 --------------------------------------------
+<<<<<<< HEAD
 0. Go to github.com, log in, click the '+' in the top right to create a new repository.
 0. Give this repository the same name as your local repository.
 0. Click create repository
