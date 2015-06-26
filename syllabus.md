@@ -44,7 +44,7 @@ Excited prospective students can elect to:
 ### Location
 
 PCS Classroom, <br>
-1771 NW Pettygrove Street, Ste 140<br>
+235 SW 20th Place, #230<br>
 Portland, OR 97209
 
 ### Instructor:
