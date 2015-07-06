@@ -6,7 +6,7 @@ modified: 2015-02-15 20:42
 ---
 ## Course Description
 
-This is the syllabus for two classes in the Web Foundations Series.
+This is the syllabus for the first two classes in the Web Foundations Series.
 
 The Web Development Series is Portland Code School's introduction to web development. These courses introduce students with the opportunity to build modern websites and receive feedback to help those students reach their goals in the web development industry.  The Primer Basic aims at introducing programming languages necessary to build websites with the support and feedback available to students from experienced coders.  This is what differentiates Portland Code School from other programs, whether that be a University setting, a community college, another coding bootcamp, or an online website with a curriculum and a forum.  The Primer Pro equips students with hands-on experience working with the web's core technologies: HTML, CSS, and JavaScript as well as tools indispensable to modern web development: the Unix command line, Git, and GitHub.  
 
@@ -33,13 +33,9 @@ Primer Pro builds on what students learned in Primer Basic so that those student
 
 * Internship at a web development or creative design studio
 * Design and create simple websites for small businesses or individuals
-* Develop web applications with HTML, CSS and JavaScript
+* Develop interactive web applications with HTML, CSS and JavaScript
 * Take part in further Portland Code School classes
 
-Excited prospective students can elect to:
-
-1. Invest in their future by enrolling in the complete Web Foundations Series
-2. Learn the basics and choose to continue with Primer Pro if they like it.
 
 ### Location
 
@@ -65,7 +61,7 @@ Since there is only one of him, and many of you, you can find more help from oth
 
 # Prerequisites
 
-This class has no prerequisites.  You will receive an email one week before class (if you have signed up that early) with work that must be completed before the first class.
+This class has no prerequisites.  You will receive an email before class (if you have signed up that early) with work that must be completed during the first week.
 
 # Learning Objectives & Core Outcomes
 
@@ -126,15 +122,23 @@ If you want a career in web development, do everything, ask questions, and talk 
 
 Attend every class, even if you miss one.  You already paid for it, so don't worry if you get behind.  You can't get help unless you ask for it.
 
-This course requires 6 hours each week for classroom time. Successful students put in  about 1 hour of their own time each week for each classroom hour for a total of 12 hours per week.
+If you cannot attend one or more sessions, please contact your instructor in advance. We will work with you to customize your learning experience.
 
-Please look carefully at the course meeting hours and make sure you can be available for those times.
+This course requires 6 hours each week for classroom time. Please look carefully at the course meeting hours and make sure you can be available for those times. At Portland Code School, the instructors value your time and they expect you to value the time of your felow students.  Please arrive on time to limit distractions and enable other students to become successful in this course.
 
-At Portland Code School, the instructors value your time and they expect you to value theirs.  Please arrive on time to limit distractions and enable other students to become successful in this course.
+#### Homework
+
+ You can get a lot out of the class just by attending class. We've had students benefit from the class that were very busy with work and family.
+
+Students get the most out of this class if they can put in about 1 hour of their own time each week for each classroom hour for a total of 12 hours per week.
+
+Students who have more time and want additional challenge will have plenty of oppotunities.
+
+
 
 ## Assessment Methods
 
-There are two primary assignements in the Primer Basic.  These are project-based assignments and mirror projects you would find in a job.  
+There are two primary assignments in the Primer Basic.  These are project-based assignments and mirror projects you would find in a job.  
 
 First, you'll create a basic web page with elements such as header, footer, div, paragraphs, and images.  Check out the [project guide](http://portlandcodeschool.github.io/primer/assignments/creating-your-first-website/) for more details.
 
@@ -209,11 +213,11 @@ If you have a Windows laptop and you cannot manage to obtain or rent a MacBook P
 We're not saying that professionals should demand a particular tool set. Your instructor is comfortable on any of these platforms and easily moves from one to another as the client requires it. It's just makes for a more cohesive classroom experience and simpler class materials to simplify and focus on one.
 
 ### Other Tools
-You are required to learn and use **Sublime Text**. (http://www.sublimetext.com) The "stable" version is V2, but Al has been using V3 for a long time and it's fine. (http://www.sublimetext.com/3)  Sublime Text is not free. You can try it for free and that will get you through this class, but you should consider buying a copy when you get a job.
+You are required to learn and use a code editor. There are two to choose from. First, **Atom** is free and very capable. (https://atom.io). It has been developed in the last year as a clone of Sublime Text 3. Speaking of which, **Sublime Text**.  (http://www.sublimetext.com/3) is not free but has a very large community and many extensions. You can try it for free and that will get you through this class, but you should consider buying a copy when you get a job.
 
 **Git** is a distributed version control system. It is complicated, arcane, and difficult to learn.  Yet, it is one of the most commonly used and essential to any freelancer. We will start using git in the first week and emphasize its use throughout. You will be required to be able to use git from the command line, but we will also explore graphical user interfaces to make your use of git more transparent and powerful.
 
-The **Chrome Developer Tools** are a wonderful suite of browser-based tools that allow you to *see* what you are coding. There are tools like these for every major browser,  but we focus on Chrome. These are built in to the browser.
+The **Chrome Developer Tools** are a wonderful suite of browser-based tools that allow you to *see* what you are coding. There are tools like these for every major browser, but we focus on Chrome. These are built in to the browser.
 
 There will be more tools introduced as the class goes on, but these are good places to start.
 
@@ -247,4 +251,4 @@ You also get to evaluate *us*. We use a technique called "project retrospectives
 
 -------
 
-*Syllabus version 1.2*
+*Syllabus version 1.3*
