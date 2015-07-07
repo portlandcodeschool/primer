@@ -40,7 +40,7 @@ Primer Pro builds on what students learned in Primer Basic so that those student
 ### Location
 
 PCS Classroom, <br>
-235 SW 20th Place, #230<br>
+735 SW 20th Place, #230<br>
 Portland, OR 97209
 
 ### Instructor:
