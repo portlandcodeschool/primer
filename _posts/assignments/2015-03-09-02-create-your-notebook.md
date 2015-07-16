@@ -10,23 +10,31 @@ description: Use Mobile-first and responsive design to create a simple site.
 
 Objectives
 ==========
+
+Successful students will be able to perform the following:
+
 0. Create a site from a common industry-standard template
+0. Read existing professional code in order to make original changes
 0. Employ a card-based user interface design language
+0. Transform a wireframe design to structural, semantic HTML5
 0. Create a simple responsive layout using flexbox
 0. Create a fixed navigation menu
-0. Use semantic HTML5 markup
 0. Practice git branching and merging
-0. Publish the site using github pages
+0. Publish custom bespoke sites using github pages
 
 
 Overview
 ========
 The site for this assignment is your own personal web development notebook. You will start this page during this assignment and add to it each week. For an example, see [Stephanie Argy's journal](http://stephanieargy.github.io/journal/)
 
+We strongly recommend that you work in pairs, organizing your study time to work together and support each other. Each of you will produce your own site, but you will be able to share techniques and troubleshooting.
+
+
 Resources
 =========
 
 Please visit the following resources.
+
 * [HTML 5 Boilerplate](https://html5boilerplate.com/)
 * [Why cards are the future of the web](https://blog.intercom.io/why-cards-are-the-future-of-the-web/)
 * [The Complete Guide to an Effective Card-Style Interface Design](https://blog.intercom.io/why-cards-are-the-future-of-the-web/)
@@ -34,7 +42,7 @@ Please visit the following resources.
 
 Please read one or more of the following references and use the following cheatsheet as you perform *Part 2*.
 
-* Short intro article (required):[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* Short intro article (required): [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * More in-depth MDN article: [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
 * Some cool recipes: [Harnessing Flexbox for Today's Web Apps](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * A very helpful article on centering with flexbox (very recommended!): [Designing CSS Layouts With Flexbox Is As Easy As Pie](http://www.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/)
@@ -44,6 +52,7 @@ Please read one or more of the following references and use the following cheats
 
 
 The following resources are optional
+
 * You can get a bunch of easy placeholder images at [placehold.it](http://placehold.it/) (conveniently shows image size) or [lorem pixel](http://lorempixel.com/)
 * You can get a bunch of fun SVG icons at [The Noun Project](http://thenounproject.com/).
 * Here's a list of fun [lorem ipsum generators.](http://mashable.com/2013/07/11/lorem-ipsum/)
@@ -58,7 +67,7 @@ Activities
 
 0. Estimate how much time you think this might take you. You have a week. Write the estimate down.
 
-0. Keep track of your time.
+0. Keep track of your time. We will ask you how much time you spent.
 
 0. Use the slack channel, your TA's, and your instructor for help if you get stuck.
 
@@ -156,6 +165,8 @@ And the code might look like this:
 
 0. View your site on the web.
 
+
+
 Part 2 - Use *flexbox* to lay out each section
 ----------------------------------
 
@@ -191,6 +202,7 @@ Then, on the CSS side, we style the flex container something like this (You may 
 More Flexbox! Look up the article on centering with flexbox to see how this works.
 
 ### Steps
+
 0. Use your mad flexbox skillz to center the copyright notice horizontally and vertically in the footer.
 
 0. Add and commit your work and push to your web site.
@@ -221,6 +233,7 @@ In this section, you create an oh-so-trendy "sticky nav" element.
 
 0. View your site on the web.
 
+
 Part 5 - Modify the color palette & font
 ----------------------------------
 
@@ -229,6 +242,7 @@ Let's make it look unique.
 ### Steps
 
 0. Create a coherent color palette using [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+
 0. Put some comments at the front of main.css that list the color values you've chosen like this:
 
      /*
@@ -260,6 +274,8 @@ Let's make it look unique.
 0. Merge your code to gh-pages and push to deploy your site.
 
 0. View your site on the web.
+
+
 
 Part 6 - Add meaningful content to your notebook
 ----------------------------------
