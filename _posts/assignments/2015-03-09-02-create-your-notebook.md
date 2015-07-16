@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "02 Create Your Class Journal"
+title: "02 Create Your Web Development Notebook"
 modified: 2015-02-22 22:09:03 -0800
 category: assignments
 tags: [JavaScript, jQuery]
-description: Use Mobile-first and responsive design to create a simple magazine site.
+description: Use Mobile-first and responsive design to create a simple site.
 ---
 
 
@@ -37,16 +37,129 @@ Part 0 - set up the assignment
 
 ### Steps
 
-0. Make a repository named "journal" on github.com.
-0. Clone the repo to your local machine at "~/Documents/pcs/journal"
+These steps assume you are able to work with git and github as introduced in Exercise 1.
+
+0. Make a repository named "webdev-notebook" on github.com. Initialize the repo with a Readme.md file.
+
+0. Clone the repo *using ssh* to your local machine at <kdb>~/Documents/pcs/webdev-notebook</kdb>. for example, I used this command:
+
+    ```
+    git clone git@github.com:Auraelius/webdev-notebook.git
+    ```
+
 0. Create a gh-pages branch both locally and on github.com to set up web hosting
 0. Work on the master branch until you deploy to the gh-pages branch
-0. Download [this zip file](https://github.com/portlandcodeschool/primer/blob/master/_posts/assignments/journal/site.zip) and unpack it into your repo. This file set is a simple web site created from HTML5 Boilerplate, a very reliable template to use when you start a new web site.
+
+You will start with a set of files called [HTML 5 Boilerplate](https://html5boilerplate.com/). These files represent best practices for site construction. You may not need all of the parts supplied with HTML 5 Boilerplate, but it will be useful to work with them and become familiar with them.
+
+
+
+0. Download [this zip file](https://github.com/h5bp/html5-boilerplate/releases/download/5.2.0/html5-boilerplate_v5.2.0.zip) from the [HTML 5 Boilerplate](https://html5boilerplate.com/) web site.
+
+0. Unpack it into a temporary folder named <kbd>html5-boilerplate_v5</kbd>. It may do this automatically, depending on how you have your browser configured.
+
+0. Copy the contents of the <kbd>html5-boilerplate_v5</kbd> folder to your <kbd>webdev-notebook</kbd> folder. Make sure the file structure looks like this:
+
+![boilerplate files](/primer/images/ex2-html5boilerplate-files.png)
+
+0. Clean up the boilerplate <kbd>index.html</kbd> file by removing this block of HTML
+
+  ```html
+  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+  <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='https://www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+  </script>
+  ```
+0. Update the <kbd><title></kbd> element and the description content by updating these two lines:
+
+  ```html
+  <title></title>
+  <meta name="description" content="">
+
+  ```
+
 0. Add all the files, commit them, and push master to github.
+
 0. Merge from master to gh-pages and push to publish your file to the web
+
 0. Verify that your site is available on the web.
 
-Part 1 - Create a simple site with the correct structure and gibberish conten.
+From this point on, you will add new HTML content here:
+
+![editor with index.html file](/primer/images/ex2-html-editing1.png)
+
+##Part 1 - Analyze the wireframe and develop the html element structure.
+
+Here's what the page will eventually look like.
+
+![wireframe](/primer/images/ex2-wireframe.png)
+
+The top-level of most pages (and this one) is to have three children of the &lt;body&gt; tag.
+
+  ```html
+  <body>
+    <header></header>
+    <div class="content"></div>
+    <footer></footer>
+  </body>
+  ```
+If we draw the boxes of these elements on the wireframe, it might look like this:
+
+![ex2-top-level-boxes](/primer/images/ex2-top-level-boxes.png)
+
+Going further, we can see a repeating structure inside the main content of the page. There are multiple sections.
+
+![ex2-sections](/primer/images/ex2-sections.png)
+
+And the code might look like this:
+
+  ```html
+  <body>
+    <header></header>
+    <div class="content">
+      <section></section>
+      <section></section>
+      <section></section>
+      <section></section>
+    </div>
+    <footer></footer>
+  </body>
+  ```
+
+
+Each section has a heading and a number of articles, like this:
+
+![ex2-articles](/primer/images/ex2-articles.png)
+
+And the code might look like this:
+
+  ```html
+  <section>
+      <h2></h2>
+      <article>
+      <article>
+      <article>
+  </section>
+  ```
+
+
+##Steps
+0. Update index.html with the structure of the page.
+0. Use the section titles from the wireframe.
+0. Use gibberish or "lorem ipsum" text for the article headings and paragraph text.
+0. Let the articles just stack in a single column. Don't worry about making them line up in rows.
+0. Use the CSS from Exercise 1 to style your articles so they have borders, etc.
+
+
+moremoremore
+
+
+Part 2 - Create a simple site with the correct structure and gibberish conten.
 ----------------------------------
 
 Wireframe:
