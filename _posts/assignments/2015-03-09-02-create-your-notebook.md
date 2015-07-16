@@ -18,7 +18,7 @@ Objectives
 
 Overview
 ========
-The site for this assignment is your own personal journal. You will start this page during this assignment and add to it each week.
+The site for this assignment is your own personal web development notebook. You will start this page during this assignment and add to it each week. For an example, see [Stephanie Argy's journal](http://stephanieargy.github.io/journal/)
 
 Resources
 =========
@@ -120,7 +120,11 @@ And the code might look like this:
 
 0. Use the CSS from Exercise 1 to style your articles so they have borders, etc.
 
-0. Add and commit your work and push to your web site.
+0. Test, add, commit, and push your code on master
+
+0. Merge your code to gh-pages and push to deploy your site.
+
+0. View your site on the web.
 
 Part 2 - Use *flexbox* to lay out each section
 ----------------------------------
@@ -154,60 +158,42 @@ Then, on the CSS side, we style the flex container something like this (you may 
 
 0. Test your layout by narrowing the browser to the smallest possible width. It should turn back in to a single column layout.
 
+0. Test, add, commit, and push your code on master
+
+0. Merge your code to gh-pages and push to deploy your site.
+
+0. View your site on the web.
+
+
+## Part 3 - Centered Footer
+
+More Flexbox!
+### Steps
+0. Use your mad flexbox skillz to center the copyright notice horizontally and vertically in the footer.
+
 0. Add and commit your work and push to your web site.
 
 
-
-
-
-
-More
-
-
-
-Part 2 - Create a simple site with the correct structure and gibberish conten.
+Part 4 - Fancy Header
 ----------------------------------
 
-Wireframe:
-![wireframe](/primer/images/journal_wireframes.png "Wireframe")
+In this section, you have to create a "sticky nav" element.
 
 ### Steps
 
-0. Examine the template site.
-0. Modify the title and meta elements in the head to match your content.
-0. Create HTML for
-  - A page header, a main element, and a page footer.
-  - Inside the header, a page H1 and a set of links to your other information
-  - Inside the main element, a nav element and a section element
-  - Inside the nav element, up an unordered list and a placeholder image. These list items will eventually be links to article headlines.
-  - Inside the section element, two article elements
-  - Inside each article element, an article header with a h2 title and a h3 subtitle, an article body, and an article footer.
-0. Add some gibberish content to each of the elements to see that they exist.
-0. Float the nav element to the left of the section element. Adjust the main element to make sure it doesn't collapse when the nav element floats left. Make the nav element about 30% wide and the section element about 70% wide within the main element.
+0. Inside the header, create a page H1 and a set of links to your other information like a link to your github, a mailto: URL so people can send you email, and a link to your linkedin profile.
+0. Create a <kbd>nav</kbd> element to act as a navigation menu to the sections on the page.
+  - Each section should have a unique ID that you can use in the navigation links
+  - Inside the nav element, use an unordered list.
+  - Each list items should be a link to a section.
+  - Change the list item elements to inline-block so they appear next to each other but still can be given padding and margin.
+0. Use "fixed" positioning on the entire header element so that it stays at the top of the viewport as you navigate to different sections.
+0. Adjust the styling of the sections (or the body or some other element) so that the section title doess not disappear behind header when you navigate to a new section.
 0. Test, add, commit, and push your code on master
 0. Merge your code to gh-pages and push to deploy your site.
 0. View your site on the web.
 
-Part 2 - Add meaningful content to the first article
-----------------------------------
-
-Each week, we will ask you to add information to this file and republish it. We'll ask you to use the HTML, CSS, and JS features you've learned and to give us feedback on how the class is going for you.
-
-
-### Steps
-
-0. Replace the placeholder image in the nav panel with something that means something to you. Resize the image to fit in the nav panel.
-0. Update the first article with meaningful content:
-    0. Replace the text in the first article with a couple of paragraphs about what you think of your first few classes.
-    0. Replace the title with a good headline for the article.
-    0. Replace the subtitle with a "summary at a glance" of the article
-    0. Put text in the footer with your name and the date you wrote the article.
-0. Leave the gibberish content in the second article. (Can you put a placeholder image floated right in the second article?)
-0. Test, add, commit, and push your code on master
-0. Merge your code to gh-pages and push to deploy your site.
-0. View your site on the web.
-
-Part 3 - Add some style
+Part 5 - Modify the color palette & font
 ----------------------------------
 
 Let's make it look unique.
@@ -234,9 +220,26 @@ Let's make it look unique.
 
 0. Don't use these colors!
 0. Use the colors you've chosen as background and content colors on some elements of your layout so that it looks good to you.
-0. Change the font to a face likely to be present on averybody's computer.
+0. Change the font to a face likely to be present on everybody's computer.
 0. Test, add, commit, and push your code on master
 0. Merge your code to gh-pages and push to deploy your site.
 0. View your site on the web.
 
-Every week you will add material to this web site.
+Part 6 - Add meaningful content to your notebook
+----------------------------------
+
+Each week, we will ask you to add information to this file and republish it. We'll ask you to use the HTML, CSS, and JS features you've learned and to give us feedback on how the class is going for you.
+
+
+### Steps
+
+0. Add a card about what you learned about flexbox
+0. Add a card about CSS positioning
+0. Test, add, commit, and push your code on master
+0. Merge your code to gh-pages and push to deploy your site.
+0. View your site on the web.
+
+Part 6 - Going Further!
+----------------------------------
+
+If this isn't enough for you, check out [Stephanie's Advanced Challenges](http://stephanieargy.github.io/advanced/) and add one or more of them to your notebook.
