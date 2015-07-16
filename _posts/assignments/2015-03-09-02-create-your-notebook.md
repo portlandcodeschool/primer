@@ -87,6 +87,7 @@ These steps assume you are able to work with git and github as introduced in Exe
     ```
 
 0. Create a gh-pages branch both locally and on github.com to set up web hosting
+
 0. Work on the master branch until you deploy to the gh-pages branch
 
 You will start with a set of files called [HTML 5 Boilerplate](https://html5boilerplate.com/). These files represent best practices for site construction. You may not need all of the parts supplied with HTML 5 Boilerplate, but it will be useful to work with them and become familiar with them.
@@ -205,7 +206,11 @@ More Flexbox! Look up the article on centering with flexbox to see how this work
 
 0. Use your mad flexbox skillz to center the copyright notice horizontally and vertically in the footer.
 
-0. Add and commit your work and push to your web site.
+0. Test, add, commit, and push your code on master
+
+0. Merge your code to gh-pages and push to deploy your site.
+
+0. View your site on the web.
 
 
 Part 4 - Fancy Header
@@ -245,19 +250,16 @@ Let's make it look unique.
 
 0. Put some comments at the front of main.css that list the color values you've chosen like this:
 
+```
      /*
      primary color - #f0f0f0
-
      text color - #101010
-
      background color - #520DB2
-
      accent color - #FF9D20
-
      warning color -#14FF2F
-
      error color - #B21209
      */
+```
 
 0. Don't use these colors!
 
