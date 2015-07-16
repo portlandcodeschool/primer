@@ -64,26 +64,10 @@ You will start with a set of files called [HTML 5 Boilerplate](https://html5boil
 
 0. Clean up the boilerplate <kbd>index.html</kbd> file by removing this block of HTML
 
-```html
 
-<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-<script>
-    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-    e.src='https://www.google-analytics.com/analytics.js';
-    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-    ga('create','UA-XXXXX-X','auto');ga('send','pageview');
-</script>
-```
+![ex2-remove-html-block](/primer/images/ex2-remove-html-block.png)
 
-0. Update the <kbd>title</kbd> element and the description content attribute by updating these two lines:
-
-
-    <title></title>
-    <meta name="description" content="">
-
-
+0. Update the <kbd>title</kbd> element and the <kbd>meta</kbd> tag description content attribute
 
 0. Add all the files, commit them, and push master to github.
 
@@ -103,13 +87,10 @@ Here's what the page will eventually look like.
 
 The top-level of most pages (and this one) is to have three children of the &lt;body&gt; tag.
 
-  ```html
-  <body>
-    <header></header>
-    <div class="content"></div>
-    <footer></footer>
-  </body>
-  ```
+ex2-toplevel-children
+
+![ex2-toplevel-children](/primer/images/ex2-toplevel-children.png)
+
 If we draw the boxes of these elements on the wireframe, it might look like this:
 
 ![ex2-top-level-boxes](/primer/images/ex2-top-level-boxes.png)
@@ -120,18 +101,7 @@ Going further, we can see a repeating structure inside the main content of the p
 
 And the code might look like this:
 
-  ```html
-  <body>
-    <header></header>
-    <div class="content">
-      <section></section>
-      <section></section>
-      <section></section>
-      <section></section>
-    </div>
-    <footer></footer>
-  </body>
-  ```
+![ex2-sections-code](/primer/images/ex2-sections-code.png)
 
 
 Each section has a heading and a number of articles, like this:
@@ -140,21 +110,13 @@ Each section has a heading and a number of articles, like this:
 
 And the code might look like this:
 
-  ```html
-  <section>
-      <h2></h2>
-      <article>
-      <article>
-      <article>
-  </section>
-  ```
-
+![ex2-articles-code](/primer/images/ex2-articles-code.png)
 
 ##Steps
 0. Update index.html with the structure of the page.
 0. Use the section titles from the wireframe.
 0. Use gibberish or "lorem ipsum" text for the article headings and paragraph text.
-0. Let the articles just stack in a single column. Don't worry about making them line up in rows.
+0. Let the articles just stack in a single column. Don't worry about making them line up in rows yet.
 0. Use the CSS from Exercise 1 to style your articles so they have borders, etc.
 
 
