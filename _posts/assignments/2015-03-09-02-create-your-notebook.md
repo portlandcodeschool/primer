@@ -65,6 +65,7 @@ You will start with a set of files called [HTML 5 Boilerplate](https://html5boil
 0. Clean up the boilerplate <kbd>index.html</kbd> file by removing this block of HTML
 
 ```html
+
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>
     (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
