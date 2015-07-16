@@ -10,10 +10,13 @@ description: Use Mobile-first and responsive design to create a simple site.
 
 Objectives
 ==========
-0. Create a site from a template
-0. Control page layout and style using HTML5 elements and CSS styling
+0. Create a site from a common industry-standard template
+0. Employ a card-based user interface design language
+0. Create a simple responsive layout using flexbox
+0. Create a fixed navigation menu
+0. Use semantic HTML5 markup
+0. Practice git branching and merging
 0. Publish the site using github pages
-
 
 
 Overview
@@ -22,15 +25,42 @@ The site for this assignment is your own personal web development notebook. You 
 
 Resources
 =========
+
+Please visit the following resources.
 * [HTML 5 Boilerplate](https://html5boilerplate.com/)
+* [Why cards are the future of the web](https://blog.intercom.io/why-cards-are-the-future-of-the-web/)
+* [The Complete Guide to an Effective Card-Style Interface Design](https://blog.intercom.io/why-cards-are-the-future-of-the-web/)
 
+
+Please read one or more of the following references and use the following cheatsheet as you perform *Part 2*.
+
+* Short intro article (required):[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* More in-depth MDN article: [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
+* Some cool recipes: [Harnessing Flexbox for Today's Web Apps](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
+* A very helpful article on centering with flexbox (very recommended!): [Designing CSS Layouts With Flexbox Is As Easy As Pie](http://www.smashingmagazine.com/2013/05/22/centering-elements-with-flexbox/)
+* A cautionary note about making flexbox work in all browsers: [On using prefixes in Flexbox](http://shouldiprefix.com/#flexbox)
+* Official specification:[CSS Flexible Box Layout Module Level 1](http://www.w3.org/TR/css3-flexbox/)
+*Quick reference (required): [Flexbox Cheatsheet ](http://jonibologna.com/content/images/flexboxsheet.pdf)
+
+
+The following resources are optional
 * You can get a bunch of easy placeholder images at [placehold.it](http://placehold.it/) (conveniently shows image size) or [lorem pixel](http://lorempixel.com/)
-
 * You can get a bunch of fun SVG icons at [The Noun Project](http://thenounproject.com/).
 * Here's a list of fun [lorem ipsum generators.](http://mashable.com/2013/07/11/lorem-ipsum/)
 
-Things to do
+
+Activities
 =====
+
+0. Read the references. Really. At least the required ones. Don't start coding until you do.
+
+0. Read the whole assignment before you start coding any of it.
+
+0. Estimate how much time you think this might take you. You have a week. Write the estimate down.
+
+0. Keep track of your time.
+
+0. Use the slack channel, your TA's, and your instructor for help if you get stuck.
 
 Part 0 - set up the assignment
 ----------------------------------
@@ -131,26 +161,17 @@ Part 2 - Use *flexbox* to lay out each section
 
 Flexbox is a relatively new feature of CSS that allows excellent control of where things are positioned on the page. It replaces older methods like tables or floats.
 
-Please read one or more of the following references and use the following cheatsheet as you modify your section elments.
-
-Short intro article:[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-More in-depth MDN article: [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
-
-Official specification:[CSS Flexible Box Layout Module Level 1](http://www.w3.org/TR/css3-flexbox/)
-
-Quick reference: [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
 
 The first step is to simply enclose the articles in a flex container. This takes over control of the layout algorithm from the default block layout. We can use a simple <kbd>div</kbd> for this:
 
 ![ex2-flex-container-code](/primer/images/ex2-flex-container-code.png)
 
-Then, on the CSS side, we style the flex container something like this (you may have to play around until you find the correct combination):
+Then, on the CSS side, we style the flex container something like this (You may have to add vendor prefixes and play around until you find the correct combination. Refer to the references for help):
 
 ![ex2-flex-container-css](/primer/images/ex2-flex-container-css.png)
 
 ### Steps
-0. Read at least one of the references before coding. Really.
+0. Read at least one of the flexbox references before coding. Really.
 
 0. Modify your section elements to include a flex container div
 
@@ -167,7 +188,8 @@ Then, on the CSS side, we style the flex container something like this (you may 
 
 ## Part 3 - Centered Footer
 
-More Flexbox!
+More Flexbox! Look up the article on centering with flexbox to see how this works.
+
 ### Steps
 0. Use your mad flexbox skillz to center the copyright notice horizontally and vertically in the footer.
 
@@ -177,27 +199,32 @@ More Flexbox!
 Part 4 - Fancy Header
 ----------------------------------
 
-In this section, you have to create a "sticky nav" element.
+In this section, you create an oh-so-trendy "sticky nav" element.
 
 ### Steps
 
 0. Inside the header, create a page H1 and a set of links to your other information like a link to your github, a mailto: URL so people can send you email, and a link to your linkedin profile.
+
 0. Create a <kbd>nav</kbd> element to act as a navigation menu to the sections on the page.
   - Each section should have a unique ID that you can use in the navigation links
   - Inside the nav element, use an unordered list.
   - Each list items should be a link to a section.
   - Change the list item elements to inline-block so they appear next to each other but still can be given padding and margin.
+
 0. Use "fixed" positioning on the entire header element so that it stays at the top of the viewport as you navigate to different sections.
+
 0. Adjust the styling of the sections (or the body or some other element) so that the section title doess not disappear behind header when you navigate to a new section.
+
 0. Test, add, commit, and push your code on master
+
 0. Merge your code to gh-pages and push to deploy your site.
+
 0. View your site on the web.
 
 Part 5 - Modify the color palette & font
 ----------------------------------
 
 Let's make it look unique.
-
 
 ### Steps
 
@@ -219,10 +246,19 @@ Let's make it look unique.
      */
 
 0. Don't use these colors!
+
 0. Use the colors you've chosen as background and content colors on some elements of your layout so that it looks good to you.
+
+0. (Optional) Feel free to add subtle gradients to the background colors.
+
+0. (Optional) Use a different design for cards in different sections. For example, have a distinct h2 appearance for HTML cards compared with CSS cards, etc.
+
 0. Change the font to a face likely to be present on everybody's computer.
+
 0. Test, add, commit, and push your code on master
+
 0. Merge your code to gh-pages and push to deploy your site.
+
 0. View your site on the web.
 
 Part 6 - Add meaningful content to your notebook
