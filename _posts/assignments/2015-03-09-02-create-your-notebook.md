@@ -250,16 +250,23 @@ Let's make it look unique.
 
 0. Put some comments at the front of main.css that list the color values you've chosen like this:
 
-```
+
      /*
+
      primary color - #f0f0f0
+
      text color - #101010
+
      background color - #520DB2
+
      accent color - #FF9D20
+
      warning color -#14FF2F
+
      error color - #B21209
+     
      */
-```
+
 
 0. Don't use these colors!
 
@@ -287,8 +294,11 @@ Each week, we will ask you to add information to this file and republish it. We'
 
 ### Steps
 
+0. Bring your cards over from exercise 1
 0. Add a card about what you learned about flexbox
 0. Add a card about CSS positioning
+0. Add a card that discusses the pros and cons of card interfaces. What works? What is wrong with them?
+0. Remove any placeholder cards, but be sure that every section has at least one card in it.
 0. Test, add, commit, and push your code on master
 0. Merge your code to gh-pages and push to deploy your site.
 0. View your site on the web.
