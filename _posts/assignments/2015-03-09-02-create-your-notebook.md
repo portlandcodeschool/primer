@@ -64,7 +64,7 @@ You will start with a set of files called [HTML 5 Boilerplate](https://html5boil
 
 0. Clean up the boilerplate <kbd>index.html</kbd> file by removing this block of HTML
 
-```html
+```
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>
     (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
@@ -75,7 +75,7 @@ You will start with a set of files called [HTML 5 Boilerplate](https://html5boil
     ga('create','UA-XXXXX-X','auto');ga('send','pageview');
 </script>
 ```
-0. Update the <kbd><title></kbd> element and the description content by updating these two lines:
+0. Update the <kbd>title</kbd> element and the description content attribute by updating these two lines:
 
 ```html
 <title></title>
