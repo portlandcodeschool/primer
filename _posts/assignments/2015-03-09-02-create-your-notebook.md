@@ -64,7 +64,6 @@ You will start with a set of files called [HTML 5 Boilerplate](https://html5boil
 
 0. Clean up the boilerplate <kbd>index.html</kbd> file by removing this block of HTML
 
-
 ![ex2-remove-html-block](/primer/images/ex2-remove-html-block.png)
 
 0. Update the <kbd>title</kbd> element and the <kbd>meta</kbd> tag description content attribute
@@ -86,8 +85,6 @@ Here's what the page will eventually look like.
 ![wireframe](/primer/images/ex2-wireframe.png)
 
 The top-level of most pages (and this one) is to have three children of the &lt;body&gt; tag.
-
-ex2-toplevel-children
 
 ![ex2-toplevel-children](/primer/images/ex2-toplevel-children.png)
 
@@ -113,14 +110,59 @@ And the code might look like this:
 ![ex2-articles-code](/primer/images/ex2-articles-code.png)
 
 ##Steps
-0. Update index.html with the structure of the page.
+0. Update index.html with the structure of the page. Don't worry about the header and footer yet.
+
 0. Use the section titles from the wireframe.
+
 0. Use gibberish or "lorem ipsum" text for the article headings and paragraph text.
+
 0. Let the articles just stack in a single column. Don't worry about making them line up in rows yet.
+
 0. Use the CSS from Exercise 1 to style your articles so they have borders, etc.
 
+0. Add and commit your work and push to your web site.
 
-moremoremore
+Part 2 - Use *flexbox* to lay out each section
+----------------------------------
+
+Flexbox is a relatively new feature of CSS that allows excellent control of where things are positioned on the page. It replaces older methods like tables or floats.
+
+Please read one or more of the following references and use the following cheatsheet as you modify your section elments.
+
+Short intro article:[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+More in-depth MDN article: [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
+
+Official specification:[CSS Flexible Box Layout Module Level 1](http://www.w3.org/TR/css3-flexbox/)
+
+Quick reference: [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/content/images/flexboxsheet.pdf)
+
+The first step is to simply enclose the articles in a flex container. This takes over control of the layout algorithm from the default block layout. We can use a simple <kbd>div</kbd> for this:
+
+![ex2-flex-container-code](/primer/images/ex2-flex-container-code.png)
+
+Then, on the CSS side, we style the flex container something like this (you may have to play around until you find the correct combination):
+
+![ex2-flex-container-css](/primer/images/ex2-flex-container-css.png)
+
+### Steps
+0. Read at least one of the references before coding. Really.
+
+0. Modify your section elements to include a flex container div
+
+0. Modify your CSS to enable the flex layout behavior
+
+0. Test your layout by narrowing the browser to the smallest possible width. It should turn back in to a single column layout.
+
+0. Add and commit your work and push to your web site.
+
+
+
+
+
+
+More
+
 
 
 Part 2 - Create a simple site with the correct structure and gibberish conten.
