@@ -37,7 +37,7 @@ Please visit the following resources.
 
 * [HTML 5 Boilerplate](https://html5boilerplate.com/)
 * [Why cards are the future of the web](https://blog.intercom.io/why-cards-are-the-future-of-the-web/)
-* [The Complete Guide to an Effective Card-Style Interface Design](https://blog.intercom.io/why-cards-are-the-future-of-the-web/)
+* [The Complete Guide to an Effective Card-Style Interface Design](http://designshack.net/articles/layouts/the-complete-guide-to-an-effective-card-style-interface-design/)
 
 
 Please read one or more of the following references and use the following cheatsheet as you perform *Part 2*.
@@ -78,7 +78,7 @@ Part 0 - set up the assignment
 
 These steps assume you are able to work with git and github as introduced in Exercise 1.
 
-0. Make a repository named "webdev-notebook" on github.com. Initialize the repo with a Readme.md file.
+0. Make a repository named "webdev-notebook" on github.com. Initialize the repo with a README.md file.
 
 0. Clone the repo *using ssh* to your local machine at <kdb>~/Documents/pcs/webdev-notebook</kdb>. for example, I used this command:
 
@@ -91,8 +91,6 @@ These steps assume you are able to work with git and github as introduced in Exe
 0. Work on the master branch until you deploy to the gh-pages branch
 
 You will start with a set of files called [HTML 5 Boilerplate](https://html5boilerplate.com/). These files represent best practices for site construction. You may not need all of the parts supplied with HTML 5 Boilerplate, but it will be useful to work with them and become familiar with them.
-
-
 
 0. Download [this zip file](https://github.com/h5bp/html5-boilerplate/releases/download/5.2.0/html5-boilerplate_v5.2.0.zip) from the [HTML 5 Boilerplate](https://html5boilerplate.com/) web site.
 
@@ -167,12 +165,10 @@ And the code might look like this:
 0. View your site on the web.
 
 
-
 Part 2 - Use *flexbox* to lay out each section
 ----------------------------------
 
 Flexbox is a relatively new feature of CSS that allows excellent control of where things are positioned on the page. It replaces older methods like tables or floats.
-
 
 The first step is to simply enclose the articles in a flex container. This takes over control of the layout algorithm from the default block layout. We can use a simple <kbd>div</kbd> for this:
 
@@ -216,7 +212,7 @@ More Flexbox! Look up the article on centering with flexbox to see how this work
 Part 4 - Fancy Header
 ----------------------------------
 
-In this section, you create an oh-so-trendy "sticky nav" element.
+In this section, you create an oh-so-trendy "fixed nav" element.
 
 ### Steps
 
@@ -264,7 +260,7 @@ Let's make it look unique.
      warning color -#14FF2F
 
      error color - #B21209
-     
+
      */
 
 
