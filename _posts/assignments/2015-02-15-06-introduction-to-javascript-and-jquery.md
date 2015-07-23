@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction to JavaScript &amp; jQuery"
+title: "06 Introduction to JavaScript &amp; jQuery"
 modified: 2015-02-15 22:09:03 -0800
 category: assignments
 tags: [JavaScript, jQuery]

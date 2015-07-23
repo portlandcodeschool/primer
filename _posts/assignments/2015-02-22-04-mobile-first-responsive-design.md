@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mobile First &amp; Responsive Design"
+title: "04 Mobile First &amp; Responsive Design"
 modified: 2015-02-22 22:09:03 -0800
 category: assignments
 tags: [JavaScript, jQuery]
