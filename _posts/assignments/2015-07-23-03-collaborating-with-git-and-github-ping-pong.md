@@ -109,18 +109,14 @@ _In Command Line/Terminal:_
 
 * Pull down the updates (first be sure you're in the repo folder on your computer and make sure you are on the master branch)
 
-<code>
-pwd
-
-(Should be the path to your repo folder)
-(cd if required)
-
-git branch -va
-
-(git checkout master if required)
-
-git pull
-</code>
+<pre>
+		pwd
+		(Should be the path to your repo folder)
+		(cd if required)
+		git branch -va
+		(git checkout master if required)
+		git pull
+</pre>
 
 * Create a new branch with your name
 * Move to your new branch
