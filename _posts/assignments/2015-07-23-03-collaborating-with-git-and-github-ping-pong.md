@@ -18,7 +18,7 @@ This exercise is designed to give you experience in working in teams on code, wh
 
 **Next:** Follow the steps below for your role and provide support to your partner as they do their part.
 <hr>
-## Activity: Mr or Ms Ping
+## 2. Activity: Mr or Ms Ping
 **Ping: Create a new repo (repository) and clone it to yourself.**
 
 _On GitHub.com:_
@@ -38,7 +38,7 @@ _In Command Line/Terminal:_
 git clone [repo clone URL]
 ```
 <hr>
-## 2. Activity: Mr or Ms Pong
+## 3. Activity: Mr or Ms Pong
 **Pong: Clone the shared repo, add a file, and push new file to GitHub.**
 
 Obtain the clone URL. This can happen a few ways: email, slack, GitHub repo listing, etc...
@@ -54,14 +54,15 @@ git branch -va
 or
 git status
 ```
+
 * Create a new branch from which you can work. Use a branch name with your name or initials in it.
 
 ```
-git checkout -b [new branch name]
+		git checkout -b [new branch name]
 
-#or
+		()
 
-git branch [new branch name]
+		git branch [new branch name]
 ```
 
 * Move to that new branch. (What's the command for this?)
@@ -99,7 +100,7 @@ _Best Practices:_
 * Notify and confirm your push with your partner as soon as possible.
 
 <hr>
-##3. Activity: Ping
+##4. Activity: Ping
 **Ping: Pull the document to your local repo version, insert a change, and share with your partner.**
 
 _In Command Line/Terminal:_
@@ -110,10 +111,14 @@ _In Command Line/Terminal:_
 
 ```
 		pwd
-		# Should be the path to your repo folder
-		# cd if required
+
+		(Should be the path to your repo folder)
+		(cd if required)
+
 		git branch -va
-		# git checkout master if required
+		
+		(git checkout master if required)
+
 		git pull
 ```
 
@@ -142,7 +147,7 @@ git merge [your branch]
 * Let your partner know that you've pushed an update
 
 <hr>
-##4. Activity: Pong
+##5. Activity: Pong
 **Pong: Create a 'merge conflict' and resolve it.**
 
 * Pull down the changes from master branch
@@ -160,7 +165,7 @@ git merge [your branch]
 	* Decide what text you want to keep between the <<<< and >>>> character delimiters and delete the other text. (Be sure to also delete the <<< and >>> characters)
 
 <hr>
-##5. Activity: Ping
+##6. Activity: Ping
 **Ping: Create another conflict and resolve**
 
 * You are fully equipped for this!
