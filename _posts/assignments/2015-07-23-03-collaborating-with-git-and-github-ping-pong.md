@@ -110,16 +110,16 @@ _In Command Line/Terminal:_
 * Pull down the updates (first be sure you're in the repo folder on your computer and make sure you are on the master branch)
 
 ```
-		pwd
+pwd
 
-		(Should be the path to your repo folder)
-		(cd if required)
+(Should be the path to your repo folder)
+(cd if required)
 
-		git branch -va
-		
-		(git checkout master if required)
+git branch -va
 
-		git pull
+(git checkout master if required)
+
+git pull
 ```
 
 * Create a new branch with your name
@@ -157,6 +157,7 @@ git merge [your branch]
 ```
 "[partner's name] is Ping, [your name] is Pong, and Ping and Pong are the best. YES!"
 ```
+
 * Save, add, commit your changes
 * Move to master and merge in your branch changes
 * Resolve the conflict:
