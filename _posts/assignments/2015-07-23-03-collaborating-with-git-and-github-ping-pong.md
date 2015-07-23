@@ -58,11 +58,9 @@ git status
 * Create a new branch from which you can work. Use a branch name with your name or initials in it.
 
 ```
-		git checkout -b [new branch name]
-
-		()
-
-		git branch [new branch name]
+git checkout -b [new branch name]
+or
+git branch [new branch name]
 ```
 
 * Move to that new branch. (What's the command for this?)
@@ -110,9 +108,9 @@ _In Command Line/Terminal:_
 * Pull down the updates (first be sure you're in the repo folder on your computer and make sure you are on the master branch)
 
 
-0. pwd (Should be the path to your repo folder - cd if required)
-0. git branch -va (git checkout master if required)
-0. git pull
+0. <kbd>pwd</kbd> (Should be the path to your repo folder - <kbd>cd</kbd> if required)
+0. <kbd>git branch -va</kbd> (<kbd>git checkout master</kbd> if required)
+0. <kbd>git pull</kbd>
 
 * Create a new branch with your name
 * Move to your new branch
