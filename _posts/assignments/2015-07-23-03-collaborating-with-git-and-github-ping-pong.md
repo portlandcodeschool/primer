@@ -5,16 +5,14 @@ modified: 2015-07-23 15:58:04 -0700
 category: [assignments]
 tags: [git, github, command line]
 ---
-#Ping Pong
 
-###In this exercise you will use Git and GitHub to practice sharing changed content using the Git distributed version control system in your command line (terminal) and through the GUI (graphical user interface) GitHub.com.
+In this exercise you will use Git and GitHub to practice sharing changed content using the Git distributed version control system in your command line (terminal) and through the GUI (graphical user interface) GitHub.com.
 
-<br>
-**This exercise is designed to give you experience in working in teams on code, which is very common in development. This is a critial and very important concept that you will want to aim to master. Please be sure to reach out to your instructors with any questions or frustrations so we can assit you.**
+This exercise is designed to give you experience in working in teams on code, which is very common in development. This is a critial and very important concept that you will want to aim to master. Please be sure to reach out to your instructors with any questions or frustrations so we can assit you.
 
 **As per usual, the instructions start very explicit and gradually get vauge so be on the lookout and trust your insticts.**
 
-## Activity: Both
+## 1. Activity: Both
 
 **First:** Find a partner and determine the role for each: "Ping" or "Pong."
 
@@ -40,7 +38,7 @@ _In Command Line/Terminal:_
 git clone [repo clone URL]
 ```
 <hr>
-## Activity: Mr or Ms Pong
+## 2. Activity: Mr or Ms Pong
 **Pong: Clone the shared repo, add a file, and push new file to GitHub.**
 
 Obtain the clone URL. This can happen a few ways: email, slack, GitHub repo listing, etc...
@@ -60,9 +58,12 @@ git status
 
 ```
 git checkout -b [new branch name]
-or
+
+#or
+
 git branch [new branch name]
 ```
+
 * Move to that new branch. (What's the command for this?)
 
 _Using Document Browser/Finder:_
@@ -88,6 +89,7 @@ _In Command Line/Terminal:_
 ```
 git merge [your branch name]
 ```
+
 * Push master branch updates to GitHub
 * Notify your team (Mr or Ms Ping) that there is new goodness on master to be pulled.
 
@@ -97,7 +99,7 @@ _Best Practices:_
 * Notify and confirm your push with your partner as soon as possible.
 
 <hr>
-##Activity: Ping
+##3. Activity: Ping
 **Ping: Pull the document to your local repo version, insert a change, and share with your partner.**
 
 _In Command Line/Terminal:_
@@ -108,10 +110,15 @@ _In Command Line/Terminal:_
 
 ```
 pwd
+
 # Should be the path to your repo folder
+
 # cd if required
+
 git branch -va
+
 # git checkout master if required
+
 git pull
 ```
 
@@ -135,11 +142,12 @@ _In Command Line/Terminal:_
 ```
 git merge [your branch]
 ```
+
 * Push changes
 * Let your partner know that you've pushed an update
 
 <hr>
-##Activity: Pong
+##4. Activity: Pong
 **Pong: Create a 'merge conflict' and resolve it.**
 
 * Pull down the changes from master branch
@@ -157,7 +165,7 @@ git merge [your branch]
 	* Decide what text you want to keep between the <<<< and >>>> character delimiters and delete the other text. (Be sure to also delete the <<< and >>> characters)
 
 <hr>
-##Activity: Ping
+##5. Activity: Ping
 **Ping: Create another conflict and resolve**
 
 * You are fully equipped for this!
