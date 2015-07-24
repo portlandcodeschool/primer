@@ -29,12 +29,12 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 *	Basecamp
 
 ##Process:
-1. Start-up activity
+1. Start-up activity - pairs
 0. Assignment 02 review with Show & Tell
 0. Chrome Dev Tools intro/review
-2.	[Chrome Dev Tools Quiz](https://docs.google.com/forms/d/1Hf4ay2ugLcSXMuDCybTXU2w8kTIubA1AEa4ZJtA0QNU/viewform)
-3.	[Assignment: 03 Collaborating with git and github (Ping Pong!) ](/assignments/03-collaborating-with-git-and-github-ping-pong/)
-5.	Introduce final assignment:
+2. [Chrome Dev Tools Quiz](https://docs.google.com/forms/d/1Hf4ay2ugLcSXMuDCybTXU2w8kTIubA1AEa4ZJtA0QNU/viewform)
+3. [Assignment: 03 Collaborating with git and github (Ping Pong!) ](/primer/assignments/03-collaborating-with-git-and-github-ping-pong/)
+5. Introduce final assignment:
 	*	Walk through Basecamp: to-do lists, client briefs
 6.	Discuss roles and responsibilities of team work
 7.	Create teams for third assignment
