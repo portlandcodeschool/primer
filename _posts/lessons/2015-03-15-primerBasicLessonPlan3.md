@@ -30,9 +30,10 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 
 ##Process:
 1. Start-up activity
-2.	Chrome Dev Tools Quiz
-3.	Git Push/Pull ping pong
-4.  CodePen exercise: create a nav that moves with the page
+0. Assignment 02 review with Show & Tell
+0. Chrome Dev Tools intro/review
+2.	[Chrome Dev Tools Quiz](https://docs.google.com/forms/d/1Hf4ay2ugLcSXMuDCybTXU2w8kTIubA1AEa4ZJtA0QNU/viewform)
+3.	[Assignment: 03 Collaborating with git and github (Ping Pong!) ](/assignments/03-collaborating-with-git-and-github-ping-pong/)
 5.	Introduce final assignment:
 	*	Walk through Basecamp: to-do lists, client briefs
 6.	Discuss roles and responsibilities of team work
@@ -48,6 +49,7 @@ description: "Seeing your code with Chrome Developer Tools, collaborating with g
 * Work on third assignment, meet with your team
 
 Treehouse:
+
 * Start focusing on [How to make a website](http://teamtreehouse.com/library/how-to-make-a-website)
 * [CSS Foundations](http://teamtreehouse.com/library/css-foundations) is another great course to take with lots of information on css techniques, along with [CSS Layout Techniques](http://teamtreehouse.com/library/css-layout-techniques)
 * [HTML Video and Audio](http://teamtreehouse.com/library/html-video-and-audio)
@@ -55,4 +57,5 @@ Treehouse:
 
 
 ##Resources
+
 *[git branching help](http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
