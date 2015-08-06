@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 title: Web Development Foundations
-tagline: 
+tagline:
 tags: []
 comments: false
 image:
   feature: pcs-banner.jpg
-  credit: 
-  creditlink: 
+  credit:
+  creditlink:
 ---
 
 
@@ -30,7 +30,7 @@ Primer Pro meets these goals by enabling students to learn from and complete  th
 * Internship at a web development or creative design studio
 * Creation of simple websites for small businesses or individuals
 * Participation in further Portland Code School classes
- 
+
 
 There are no shortcuts to mastery, but you don't have to go it alone. Bring your energy and hunger and we'll get you started on the right path.
 
@@ -41,15 +41,13 @@ Simplified Schedule
 -------------------
 There are a minimum of 6 classroom hours per week with between 6 and 10 hours of homework per week. For current date and time, see[ the school web site.](http://www.portlandcodeschool.com/webdevelopmentprimer/ "Link to web foundation series pages on main school web site")
 
-| Class | Week | Topics                                                                                                                                                                                           |
+| Class | Week | Topics |
 |:---------:|:----:|:--------------------------------------------------------------------------------|
 |    Basic |   1  | Introduction to HTML, CSS & JavaScript (JS) & Git; introduction to the basic tool set: command line, text editor, and Chrome Developer Tools; basic teamwork; intro to the community |
 |    Basic |   2  | HTML: Basic interactivity with forms; CSS: styling, positioning and the cascade. Git: Cloning, Staging and committing |
-|    Basic |   3  | Teamwork roles and responsibilities; Project work; Git: Basic collaboration: branching and merging; JS: variables, statements, functions & Objects; using Github pages to deploy web sites                                                      |
-|    Basic |   4  | Using web services; Intro to client work: product demos and code walkthroughs; JS: Intermediate interactivity: events and DOM manipulation; Basic Primer retrospective & celebration |                                                                                             |
-| Pro |   5  | Git: Intermediate collaboration with pull requests; Introduction to web design; mobile first development |
-| Pro |   6  | CSS: Bootstrap Framework; HTML: Form validation; JS: Intro to web security|
-| Pro |   7  | Introduction to Content Management Systems: Wordpress|
-| Pro |   8  | Advanced topics: CSS3 transitions, mobile apps; Capstone project presentations and class celebration. |
-
-
+|    Basic |   3  | Teamwork roles and responsibilities; Project work; Git: Basic collaboration: branching and merging; using Github pages to deploy web sites  |
+|    Basic |   4  | Using web services; Intro to client work: product demos and code walkthroughs;  Basic Primer retrospective & celebration |                                                                                             |
+| Pro |   5  | Mobile first development; CSS: media queries; HTML: Basic interactivity with forms; JS: variables, statements, functions & objects;|
+| Pro |   6  | CSS: interactivity with hover states; HTML: Form validation; JS: Debugging, jQuery - events and class manipulation;|
+| Pro |   7  | Introduction to Frameworks: Bootstrap; JS: DOM element manipulation|
+| Pro |   8  | Project presentations and class celebration. |
