@@ -131,3 +131,15 @@ Steps
 0. Test, add, commit, and push your code on master
 0. Merge your code to gh-pages and push to deploy your site.
 0. Test on your phone and on Chrome Developer Tools as a couple different tablets.
+
+Extra credit!!!
+---------------------------
+Here are some ideas to take your design farther if you have time:
+
+0. Embed your logo SVG and add classes to the elements so that
+    * the logo changes colors, stroke width, or other properties at different media query breakpoints
+    * the logo is simpler (has fewer elements) when it's small and more complicated when it's large
+0. Use custom fonts
+  * use readable, built-in, simple fonts at phone size
+  * use subtly-styled, more interesting, downloaded fonts at high resolution
+  * make sure the fonts are not downloaded on the phone to conserve bandwidth
