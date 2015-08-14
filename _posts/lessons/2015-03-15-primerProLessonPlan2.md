@@ -45,9 +45,20 @@ description: "Introduction to JavaScript."
 
 #Homework:
 
-*	[JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) At this point, you should finish with Making Decisions with Conditional Statements and Creating Reusable Code with Functions
-*	Read chapters 1-3 Duckett
-*	[First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
+*	Treehouse [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics)
+*	Treehouse [JavaScript Loops, Arrays and Objects](http://teamtreehouse.com/library/javascript-loops-arrays-and-objects)
+*	Treehouse [jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
+*	Required: Read chapters 1-3 Duckett
+* Optional: Read chapter 7 Duckett
+*	Required: Do [Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/06-introduction-to-javascript-and-jquery/)
+* Required: Update your notebook project with one or more jQuery cards. Some cards should document what you've learned about jQuery. And at least one card should actualy use jQuery.
+
+0. Add a script tag to include jQuery in your notebook file.
+0. Read [this fun page of possible jQuery effects](http://stephanieargy.github.io/jQuerySampler/).
+0. Add one of these effects to your notebook card.
+
+
+
 
 #Assessment:
 
@@ -59,4 +70,4 @@ description: "Introduction to JavaScript."
 *	Ducket Chapter 1 The ABC of Programming
 *	Duckett Chapter 2 Basic JavaScript Instructions (download [ppt](../assets/presentations/javascript-c02.ppt) or [keynote](../assets/presentations/javascript-c02.key.zip))
 *	Duckett Chapter 3 Functions, Methods, Objects (download [ppt](../assets/presentations/javascript-c03.ppt) or [keynote](../assets/presentations/javascript-c03.key.zip))
-*	[First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/introduction-to-javascript-and-jquery/)
+*	[First assignment: Introduction to javaScript and jQuery](http://portlandcodeschool.github.io/primer/assignments/06-introduction-to-javascript-and-jquery/)

@@ -238,7 +238,9 @@ function disableButton(){
   $('button[value="adventure"]').addClass("disabled");
 }
 ```
+
 ####Creation
+
 Finally, you can create an element simply by telling jQuery you which kind of element you want.
 
 
@@ -246,7 +248,7 @@ Finally, you can create an element simply by telling jQuery you which kind of el
 $newParagraph = $("<p>").text("This is a new paragraph.").addClass("enabled");
 ```
 
-Try this in the console to see that it creates:
+Try this in the console to see that it creates. It should create the following HTML:
 
     <p class="enabled">This is a new paragraph.</p>
 
@@ -276,11 +278,9 @@ $(‘button’).click(function(){});
 
 then to stretch it out
 
-```
-$(‘button’).click(function(){
+    $(‘button’).click(function(){
+    });
 
-});
-```
 and finally fill it in
 
     $(‘button’).click(function(){
@@ -315,6 +315,9 @@ We'll do a short demo in class to introduce these features.
 
 
 #Finally, let’s do some *Teamwork*
+
+_Note: This article was designed to be its own, standalone workshop. If you are using this as part of a larger class, you may have other exercises to do that reinforce the concepts. Check with your instructor. Even if you've got other work to do, it might be fun to do the following work to reinforce the concepts._
+
 
 Divide up into teams of two or three. We will experiment with pair programming as you write some JavaScript to add some interactivity to a web page.
 
