@@ -15,6 +15,7 @@ Objectives
 0. Use media queries to extend this styling to larger screen formats
 0. Use Scalable Vector Graphhics (SVG) to create responsive logos
 0. Use responsive image techniques to reduce bandwidth and improve usability
+0. Use jQuery to add mobile interaction patterns
 0. Publish the site using github pages
 0. Work on a small team
 
@@ -143,3 +144,34 @@ Here are some ideas to take your design farther if you have time:
   * use readable, built-in, simple fonts at phone size
   * use subtly-styled, more interesting, downloaded fonts at high resolution
   * make sure the fonts are not downloaded on the phone to conserve bandwidth
+
+  Part 4 - Use jQuery to provide an animated hamburger menu
+  ----------------------------------
+
+  Wireframe:
+  ![Mobile menu wireframe](/primer/images/responsive-homework-1-iteration-4.png "Mobile menu wireframe")
+
+
+  Use jQuery and CSS classes to create a navigation menu that reveals itself when a "hamburger" icon is clicked.
+
+  Full disclosure: "The Hamburger" is so prevalent that we can't ignore it. But, it is [known to have its problems](http://deep.design/the-hamburger-menu/) and will probably be replaced [by something else](http://www.nngroup.com/articles/support-mobile-navigation/).
+
+
+  Steps
+
+  0. Create a footer with a hamburger menu icon
+  0. Make sure it is fixed to the bottom of the screen and on top of other content.
+  0. Use two CSS classes to control the position of the main content section.
+      * Have it overlay the menu to start
+      * Have it move to the right when the hamburger menu is clicked.
+      * Have it return to the original position when one of the navigation links is clicked.
+  0. Test, add, commit, and push your code on master
+  0. Merge your code to gh-pages and push to deploy your site.
+  0. Test on your phone and on Chrome Developer Tools as a couple different tablets.
+
+  Extra credit!!!
+  ---------------------------
+  Here are some ideas to take your design farther if you have time:
+
+  0. Make sure your design "works" if JavaScript is disabled.
+  0. Reveal the nav menu in response to a "swipe-righ" gesture
