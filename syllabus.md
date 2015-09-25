@@ -200,7 +200,7 @@ The second set of projects (Primer Pro) requires your team to interview "the cli
 ### Computer
 You need to provide your own computer for this class.
 
-Portland Code School highly recommends MacBook Pros running OSX 10.9 or later. Most of the best web development tools are developed on that operating system first. The important aspect of OSX is the underlying UNIX-like operating system.  We place an emphasis at being able to work on a Unix/Linux command line level, down in the guts of the operating system.
+Portland Code School highly recommends MacBook Pros running OSX 10.10 (or at least 10.9). Most of the best web development tools are developed on that operating system first. The important aspect of OSX is the underlying UNIX-like operating system.  We place an emphasis at being able to work on a Unix/Linux command line level, down in the guts of the operating system.
 
 *Portland Code School will rent you a MacBook Pro for $30 a month during this course. It's a great deal.*
 
