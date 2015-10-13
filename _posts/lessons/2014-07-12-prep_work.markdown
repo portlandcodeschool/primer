@@ -12,7 +12,9 @@ Very important!
 
 If you are using a Mac, please make sure your machine is upgraded to Yosemite (OSX 10.10). The current set of tools will run on OSX 10.9 but not earlier systems. This is a requirement of the class.
 
-If you are using a Windows machine, please be running at least Windows 8.1. If you're an early adopter, be warned that we have NOT tested our tools or curriculum on Windows 10.  In any case, if you are the kind of person who loves adopting new operating systems, please adopt Linux. You can run  [Ubuntu](http://www.ubuntu.com/desktop) under [VirtualBox](https://www.virtualbox.org/) on your Windows machine.  In any case, as stated in our syllabus, a Mac or Linux machine is preferred but we can work with Windows.
+If you are using a Windows machine, please be running at least Windows 8.1. (If you only have Windows 7, we'll try to make it work, but no promises.)
+
+If you're an early adopter, be warned that we have NOT tested our tools or curriculum on Windows 10.  In any case, if you are the kind of person who loves adopting new operating systems, please adopt Linux. You can run  [Ubuntu](http://www.ubuntu.com/desktop) under [VirtualBox](https://www.virtualbox.org/) on your Windows machine.  In any case, as stated in our syllabus, a Mac or Linux machine is preferred but we can work with Windows.
 
 
 Tools Installation
@@ -57,8 +59,10 @@ The first line will allow you to open Sublime Text from the command line by issu
 
 Preparation for the Course
 =========================
+
 Treehouse
 ---------
+
 You should already have a Treehouse account (free through [Code Oregon](http://www.codeoregon.org)) or we will have created an account for you.
 
 Before you come to the first class, please complete the following badges on Treehouse
@@ -73,9 +77,11 @@ Before you come to the first class, please complete the following badges on Tree
 
 Codecademy.com
 --------------
+
 We will create a Codecademy account for you. If you already have one, please let your instructor know and we'll add that account the class instead.
 
 Before you come to the first class, please complete the following lessons on Codecademy:
+
 1. [Make a website](https://www.codecademy.com/en/skills/make-a-website), Units 1, 2 and 3
 2. [Learn the Command Line](https://www.codecademy.com/en/courses/learn-the-command-line), Units 1 and 2
 
